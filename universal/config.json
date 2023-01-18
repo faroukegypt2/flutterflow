@@ -32,28 +32,28 @@
   {
     "wordpresscats": [
       {
-        "catsname": "Vancuver",
-        "catsid": "152291"
-      },
-      {
-        "catsname": "Vancuver2",
+        "catsname": "New Vehicles",
         "catsid": "103"
       },
       {
-        "catsname": "Vancuver",
+        "catsname": "Road Tests",
         "catsid": "152291"
       },
       {
-        "catsname": "Vancuver2",
-        "catsid": "103"
+        "catsname": "Luxury Vehicles",
+        "catsid": "420425989"
       },
       {
-        "catsname": "Vancuver",
-        "catsid": "152291"
+        "catsname": "Electric Vehicles",
+        "catsid": "420428757"
       },
       {
-        "catsname": "Vancuver2",
-        "catsid": "103"
+        "catsname": "Performance Vehicles",
+        "catsid": "420428761"
+      },
+      {
+        "catsname": "Classic Cars & Trucks",
+        "catsid": "420428762"
       }
     ]
   }
