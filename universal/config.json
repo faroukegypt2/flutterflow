@@ -13,12 +13,6 @@
   },
   {
     "name": "google",
-    "url": "https://www.twitter.com/",
-    "config": "web",
-    "img": "https://i.pinimg.com/736x/ee/af/9c/eeaf9ce3ab22ecb3904daea1b2eab04a.jpg"
-  },
-  {
-    "name": "google",
     "url": "https://www.google.com/",
     "config": "web",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png"
@@ -34,5 +28,33 @@
     "url": "https://www.google.com/",
     "config": "web",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png"
+  },
+  {
+    "wordpresscats": [
+      {
+        "catsname": "Vancuver",
+        "catsid": "152291"
+      },
+      {
+        "catsname": "Vancuver2",
+        "catsid": "103"
+      },
+      {
+        "catsname": "Vancuver",
+        "catsid": "152291"
+      },
+      {
+        "catsname": "Vancuver2",
+        "catsid": "103"
+      },
+      {
+        "catsname": "Vancuver",
+        "catsid": "152291"
+      },
+      {
+        "catsname": "Vancuver2",
+        "catsid": "103"
+      }
+    ]
   }
 ]
