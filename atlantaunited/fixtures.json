@@ -1,0 +1,1853 @@
+{
+	"get": "fixtures",
+	"parameters": {
+		"season": "2023",
+		"team": "1608",
+		"status": "NS",
+		"timezone": "America/New_York"
+	},
+	"errors": [],
+	"results": 27,
+	"paging": {
+		"current": 1,
+		"total": 1
+	},
+	"response": [
+		{
+			"fixture": {
+				"id": 980908,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-04-23T16:30:00-04:00",
+				"timestamp": 1682281800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 13"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1607,
+					"name": "Chicago Fire",
+					"logo": "https://media-2.api-sports.io/football/teams/1607.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980909,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-04-29T13:30:00-04:00",
+				"timestamp": 1682789400,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 19357,
+					"name": "GEODIS Park",
+					"city": "Nashville, Tennessee"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 14"
+			},
+			"teams": {
+				"home": {
+					"id": 9569,
+					"name": "Nashville SC",
+					"logo": "https://media-3.api-sports.io/football/teams/9569.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980924,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-05-06T19:30:00-04:00",
+				"timestamp": 1683415800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 11976,
+					"name": "DRV PNK Stadium",
+					"city": "Fort Lauderdale, Florida"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 15"
+			},
+			"teams": {
+				"home": {
+					"id": 9568,
+					"name": "Inter Miami",
+					"logo": "https://media-3.api-sports.io/football/teams/9568.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980935,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-05-13T19:30:00-04:00",
+				"timestamp": 1684020600,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 16"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 18310,
+					"name": "Charlotte",
+					"logo": "https://media-2.api-sports.io/football/teams/18310.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980948,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-05-17T19:30:00-04:00",
+				"timestamp": 1684366200,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 18"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1610,
+					"name": "Colorado Rapids",
+					"logo": "https://media-1.api-sports.io/football/teams/1610.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980968,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-05-20T20:30:00-04:00",
+				"timestamp": 1684629000,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1609,
+					"name": "Soldier Field",
+					"city": "Chicago, Illinois"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 20"
+			},
+			"teams": {
+				"home": {
+					"id": 1607,
+					"name": "Chicago Fire",
+					"logo": "https://media-1.api-sports.io/football/teams/1607.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980977,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-05-27T19:30:00-04:00",
+				"timestamp": 1685230200,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1838,
+					"name": "Exploria Stadium",
+					"city": "Orlando, Florida"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 21"
+			},
+			"teams": {
+				"home": {
+					"id": 1598,
+					"name": "Orlando City SC",
+					"logo": "https://media-1.api-sports.io/football/teams/1598.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 980987,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-05-31T19:30:00-04:00",
+				"timestamp": 1685575800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 22"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1609,
+					"name": "New England Revolution",
+					"logo": "https://media-3.api-sports.io/football/teams/1609.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981010,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-06-03T22:30:00-04:00",
+				"timestamp": 1685845800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 19419,
+					"name": "BMO Stadium",
+					"city": "Los Angeles, California"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 24"
+			},
+			"teams": {
+				"home": {
+					"id": 1616,
+					"name": "Los Angeles FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1616.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981012,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-06-10T19:30:00-04:00",
+				"timestamp": 1686439800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 24"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1615,
+					"name": "DC United",
+					"logo": "https://media-2.api-sports.io/football/teams/1615.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981030,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-06-21T19:30:00-04:00",
+				"timestamp": 1687390200,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 27"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1604,
+					"name": "New York City FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1604.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981046,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-06-24T19:30:00-04:00",
+				"timestamp": 1687649400,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1619,
+					"name": "Red Bull Arena",
+					"city": "Harrison, New Jersey"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 28"
+			},
+			"teams": {
+				"home": {
+					"id": 1602,
+					"name": "New York Red Bulls",
+					"logo": "https://media-2.api-sports.io/football/teams/1602.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981067,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-07-02T16:00:00-04:00",
+				"timestamp": 1688328000,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 30"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1599,
+					"name": "Philadelphia Union",
+					"logo": "https://media-3.api-sports.io/football/teams/1599.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981076,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-07-08T19:30:00-04:00",
+				"timestamp": 1688859000,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 310,
+					"name": "Stade Saputo",
+					"city": "Montreal, Quebec"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 31"
+			},
+			"teams": {
+				"home": {
+					"id": 1614,
+					"name": "Montreal Impact",
+					"logo": "https://media-1.api-sports.io/football/teams/1614.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981086,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-07-12T19:30:00-04:00",
+				"timestamp": 1689204600,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1618,
+					"name": "Gillette Stadium",
+					"city": "Foxborough, Massachusetts"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 33"
+			},
+			"teams": {
+				"home": {
+					"id": 1609,
+					"name": "New England Revolution",
+					"logo": "https://media-3.api-sports.io/football/teams/1609.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981094,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-07-15T19:30:00-04:00",
+				"timestamp": 1689463800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 33"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1598,
+					"name": "Orlando City SC",
+					"logo": "https://media-2.api-sports.io/football/teams/1598.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981118,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-08-20T22:30:00-04:00",
+				"timestamp": 1692585000,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 11534,
+					"name": "Lumen Field",
+					"city": "Seattle, Washington"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 36"
+			},
+			"teams": {
+				"home": {
+					"id": 1595,
+					"name": "Seattle Sounders",
+					"logo": "https://media-1.api-sports.io/football/teams/1595.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981120,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-08-26T19:30:00-04:00",
+				"timestamp": 1693092600,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 36"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 9569,
+					"name": "Nashville SC",
+					"logo": "https://media-3.api-sports.io/football/teams/9569.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981133,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-08-30T19:30:00-04:00",
+				"timestamp": 1693438200,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 38"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 2242,
+					"name": "FC Cincinnati",
+					"logo": "https://media-3.api-sports.io/football/teams/2242.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981150,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-09-02T20:30:00-04:00",
+				"timestamp": 1693701000,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1612,
+					"name": "Toyota Stadium",
+					"city": "Frisco, Texas"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 39"
+			},
+			"teams": {
+				"home": {
+					"id": 1597,
+					"name": "FC Dallas",
+					"logo": "https://media-3.api-sports.io/football/teams/1597.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981162,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-09-16T19:30:00-04:00",
+				"timestamp": 1694907000,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 41"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 9568,
+					"name": "Inter Miami",
+					"logo": "https://media-2.api-sports.io/football/teams/9568.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981176,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-09-20T19:30:00-04:00",
+				"timestamp": 1695252600,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1613,
+					"name": "Audi Field",
+					"city": "Washington, District of Columbia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 42"
+			},
+			"teams": {
+				"home": {
+					"id": 1615,
+					"name": "DC United",
+					"logo": "https://media-3.api-sports.io/football/teams/1615.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-2.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981187,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-09-23T19:30:00-04:00",
+				"timestamp": 1695511800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 44"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1614,
+					"name": "Montreal Impact",
+					"logo": "https://media-3.api-sports.io/football/teams/1614.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981217,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-10-04T19:30:00-04:00",
+				"timestamp": 1696462200,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1620,
+					"name": "Subaru Park",
+					"city": "Chester, Pennsylvania"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 47"
+			},
+			"teams": {
+				"home": {
+					"id": 1599,
+					"name": "Philadelphia Union",
+					"logo": "https://media-2.api-sports.io/football/teams/1599.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981224,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-10-07T19:30:00-04:00",
+				"timestamp": 1696721400,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 1898,
+					"name": "Mercedes-Benz Stadium",
+					"city": "Atlanta, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 48"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1613,
+					"name": "Columbus Crew",
+					"logo": "https://media-3.api-sports.io/football/teams/1613.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 981239,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-10-21T18:00:00-04:00",
+				"timestamp": 1697925600,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 19229,
+					"name": "TQL Stadium",
+					"city": "Cincinnati, Ohio"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 253,
+				"name": "Major League Soccer",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+				"flag": "https://media-1.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "Regular Season - 49"
+			},
+			"teams": {
+				"home": {
+					"id": 2242,
+					"name": "FC Cincinnati",
+					"logo": "https://media-1.api-sports.io/football/teams/2242.png",
+					"winner": null
+				},
+				"away": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-1.api-sports.io/football/teams/1608.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		},
+		{
+			"fixture": {
+				"id": 1020887,
+				"referee": null,
+				"timezone": "America/New_York",
+				"date": "2023-04-26T19:30:00-04:00",
+				"timestamp": 1682551800,
+				"periods": {
+					"first": null,
+					"second": null
+				},
+				"venue": {
+					"id": 3040,
+					"name": "Fifth Third Bank Stadium",
+					"city": "Kennesaw, Georgia"
+				},
+				"status": {
+					"long": "Not Started",
+					"short": "NS",
+					"elapsed": null
+				}
+			},
+			"league": {
+				"id": 257,
+				"name": "US Open Cup",
+				"country": "USA",
+				"logo": "https://media-3.api-sports.io/football/leagues/257.png",
+				"flag": "https://media-2.api-sports.io/flags/us.svg",
+				"season": 2023,
+				"round": "3rd Round"
+			},
+			"teams": {
+				"home": {
+					"id": 1608,
+					"name": "Atlanta United FC",
+					"logo": "https://media-3.api-sports.io/football/teams/1608.png",
+					"winner": null
+				},
+				"away": {
+					"id": 4001,
+					"name": "Memphis 901",
+					"logo": "https://media-1.api-sports.io/football/teams/4001.png",
+					"winner": null
+				}
+			},
+			"goals": {
+				"home": null,
+				"away": null
+			},
+			"score": {
+				"halftime": {
+					"home": null,
+					"away": null
+				},
+				"fulltime": {
+					"home": null,
+					"away": null
+				},
+				"extratime": {
+					"home": null,
+					"away": null
+				},
+				"penalty": {
+					"home": null,
+					"away": null
+				}
+			}
+		}
+	]
+}
