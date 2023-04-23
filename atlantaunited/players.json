@@ -1,0 +1,1916 @@
+{
+	"get": "players",
+	"parameters": {
+		"league": "253",
+		"team": "1608",
+		"season": "2023"
+	},
+	"errors": [],
+	"results": 20,
+	"paging": {
+		"current": 1,
+		"total": 3
+	},
+	"response": [
+		{
+			"player": {
+				"id": 317711,
+				"name": "D. Sabhatu",
+				"firstname": "Daniel",
+				"lastname": "Sabhatu",
+				"age": 18,
+				"birth": {
+					"date": "2005-03-25",
+					"place": null,
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": null,
+				"weight": null,
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/317711.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-2.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": null,
+						"lineups": null,
+						"minutes": null,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": null,
+						"out": null,
+						"bench": null
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": null,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": null,
+						"yellowred": null,
+						"red": null
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 51147,
+				"name": "R. Shuttleworth",
+				"firstname": "Robert",
+				"lastname": "Shuttleworth",
+				"age": 36,
+				"birth": {
+					"date": "1987-05-13",
+					"place": "Tonawanda",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "188 cm",
+				"weight": "94 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/51147.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-2.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-1.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": null,
+						"lineups": null,
+						"minutes": null,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": null,
+						"out": null,
+						"bench": null
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": null,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": null,
+						"yellowred": null,
+						"red": null
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 102623,
+				"name": "D. Castanheira",
+				"firstname": "Dylan",
+				"lastname": "Castanheira",
+				"age": 28,
+				"birth": {
+					"date": "1995-05-23",
+					"place": "Roxbury",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "188 cm",
+				"weight": "91 kg",
+				"injured": false,
+				"photo": "https://media-3.api-sports.io/football/players/102623.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-1.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": null,
+						"lineups": null,
+						"minutes": null,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": null,
+						"out": null,
+						"bench": null
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": null,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": null,
+						"yellowred": null,
+						"red": null
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 50923,
+				"name": "Alexander Ray De John",
+				"firstname": "Alexander Ray",
+				"lastname": "De John",
+				"age": 32,
+				"birth": {
+					"date": "1991-05-10",
+					"place": "Marlboro Township",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "183 cm",
+				"weight": "80 kg",
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/50923.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": null,
+						"lineups": null,
+						"minutes": null,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": null,
+						"out": null,
+						"bench": null
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": null,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": null,
+						"yellowred": null,
+						"red": null
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 50872,
+				"name": "Michael Ambrose",
+				"firstname": "Michael",
+				"lastname": "Ambrose",
+				"age": 30,
+				"birth": {
+					"date": "1993-10-05",
+					"place": "El Paso",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "173 cm",
+				"weight": "72 kg",
+				"injured": false,
+				"photo": "https://media-3.api-sports.io/football/players/50872.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-2.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": null,
+						"lineups": null,
+						"minutes": null,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": null,
+						"out": null,
+						"bench": null
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": null,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": null,
+						"yellowred": null,
+						"red": null
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 18875,
+				"name": "E. Hyndman",
+				"firstname": "Emerson Schellas",
+				"lastname": "Hyndman",
+				"age": 27,
+				"birth": {
+					"date": "1996-04-09",
+					"place": "Dallas",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "170 cm",
+				"weight": "61 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/18875.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-1.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": null,
+						"lineups": null,
+						"minutes": null,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": null,
+						"out": null,
+						"bench": null
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": null,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": null,
+						"yellowred": null,
+						"red": null
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 35888,
+				"name": "R. Cisneros",
+				"firstname": "Ronaldo",
+				"lastname": "Cisneros Morell",
+				"age": 26,
+				"birth": {
+					"date": "1997-01-08",
+					"place": "Torreón",
+					"country": "Mexico"
+				},
+				"nationality": "Mexico",
+				"height": "181 cm",
+				"weight": "74 kg",
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/35888.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2868,
+				"name": "R. Gudiño",
+				"firstname": "Raúl Manolo",
+				"lastname": "Gudiño Vega",
+				"age": 27,
+				"birth": {
+					"date": "1996-04-22",
+					"place": "Guadalajara",
+					"country": "Mexico"
+				},
+				"nationality": "Mexico",
+				"height": "195 cm",
+				"weight": "84 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/2868.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-2.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-1.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 13528,
+				"name": "E. Mosquera",
+				"firstname": "Edwin Stiven",
+				"lastname": "Mosquera Palacios",
+				"age": 22,
+				"birth": {
+					"date": "2001-06-27",
+					"place": "Quibdó",
+					"country": "Colombia"
+				},
+				"nationality": "Colombia",
+				"height": "172 cm",
+				"weight": "68 kg",
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/13528.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-3.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Attacker",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 6083,
+				"name": "A. Franco",
+				"firstname": "Alan Javier",
+				"lastname": "Franco",
+				"age": 27,
+				"birth": {
+					"date": "1996-10-11",
+					"place": "Avellaneda",
+					"country": "Argentina"
+				},
+				"nationality": "Argentina",
+				"height": "180 cm",
+				"weight": "77 kg",
+				"injured": false,
+				"photo": "https://media-3.api-sports.io/football/players/6083.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 6217,
+				"name": "M. Moreno",
+				"firstname": "Damián Marcelino",
+				"lastname": "Moreno",
+				"age": 29,
+				"birth": {
+					"date": "1994-06-25",
+					"place": "Palmira",
+					"country": "Argentina"
+				},
+				"nationality": "Argentina",
+				"height": "168 cm",
+				"weight": "65 kg",
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/6217.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-1.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Midfielder",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 316988,
+				"name": "B. Washington",
+				"firstname": "Bryce",
+				"lastname": "Washington",
+				"age": 25,
+				"birth": {
+					"date": "1998-09-12",
+					"place": "Atlanta",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "188 cm",
+				"weight": "78 kg",
+				"injured": false,
+				"photo": "https://media-3.api-sports.io/football/players/316988.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-2.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 196737,
+				"name": "R. Ríos Novo",
+				"firstname": "Rocco",
+				"lastname": "Ríos Novo",
+				"age": 21,
+				"birth": {
+					"date": "2002-06-04",
+					"place": "Los Angeles",
+					"country": "USA"
+				},
+				"nationality": "Argentina",
+				"height": "180 cm",
+				"weight": "72 kg",
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/196737.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": null,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": null,
+						"missed": null,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 102398,
+				"name": "J. Conway",
+				"firstname": "Jackson Lee",
+				"lastname": "Conway",
+				"age": 22,
+				"birth": {
+					"date": "2001-12-03",
+					"place": "Leeds",
+					"country": "England"
+				},
+				"nationality": "USA",
+				"height": "190 cm",
+				"weight": "79 kg",
+				"injured": false,
+				"photo": "https://media-3.api-sports.io/football/players/102398.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 1,
+						"minutes": 56,
+						"number": null,
+						"position": "Attacker",
+						"rating": "6.900000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 1,
+						"bench": 1
+					},
+					"shots": {
+						"total": 1,
+						"on": 1
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 10,
+						"key": 1,
+						"accuracy": 8
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 4,
+						"won": 1
+					},
+					"dribbles": {
+						"attempts": 1,
+						"success": 1,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": 2
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 50869,
+				"name": "B. Guzan",
+				"firstname": "Bradley Edwin",
+				"lastname": "Guzan",
+				"age": 39,
+				"birth": {
+					"date": "1984-09-09",
+					"place": "Evergreen Park",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "193 cm",
+				"weight": "94 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/50869.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 7,
+						"lineups": 7,
+						"minutes": 630,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": "6.614285",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 10,
+						"assists": null,
+						"saves": 14
+					},
+					"passes": {
+						"total": 215,
+						"key": null,
+						"accuracy": 23
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": 7,
+						"won": 7
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 3,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": 0
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 50802,
+				"name": "Q. Westberg",
+				"firstname": "Quentin Oyamo",
+				"lastname": "Westberg",
+				"age": 37,
+				"birth": {
+					"date": "1986-04-25",
+					"place": "Suresnes",
+					"country": "France"
+				},
+				"nationality": "USA",
+				"height": "185 cm",
+				"weight": "76 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/50802.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-1.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 1,
+						"lineups": 1,
+						"minutes": 90,
+						"number": null,
+						"position": "Goalkeeper",
+						"rating": "6.300000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 7
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 2,
+						"assists": null,
+						"saves": 2
+					},
+					"passes": {
+						"total": 45,
+						"key": null,
+						"accuracy": 36
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": 0
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2442,
+				"name": "R. Hernández",
+				"firstname": "Ronald José",
+				"lastname": "Hernández Pimentel",
+				"age": 26,
+				"birth": {
+					"date": "1997-09-21",
+					"place": "Barinas",
+					"country": "Venezuela"
+				},
+				"nationality": "Venezuela",
+				"height": "171 cm",
+				"weight": "70 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/2442.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-1.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 0,
+						"lineups": 0,
+						"minutes": 0,
+						"number": null,
+						"position": "Defender",
+						"rating": null,
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 7
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": null,
+						"key": null,
+						"accuracy": null
+					},
+					"tackles": {
+						"total": null,
+						"blocks": null,
+						"interceptions": null
+					},
+					"duels": {
+						"total": null,
+						"won": null
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 2418,
+				"name": "L. Abram",
+				"firstname": "Luis Alfonso",
+				"lastname": "Abram Ugarelli",
+				"age": 27,
+				"birth": {
+					"date": "1996-02-27",
+					"place": "Lima",
+					"country": "Peru"
+				},
+				"nationality": "Peru",
+				"height": "181 cm",
+				"weight": "76 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/2418.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-2.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-2.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 4,
+						"lineups": 0,
+						"minutes": 17,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.700000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 4,
+						"out": 0,
+						"bench": 6
+					},
+					"shots": {
+						"total": null,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 15,
+						"key": null,
+						"accuracy": 4
+					},
+					"tackles": {
+						"total": null,
+						"blocks": 1,
+						"interceptions": 1
+					},
+					"duels": {
+						"total": 2,
+						"won": 2
+					},
+					"dribbles": {
+						"attempts": null,
+						"success": null,
+						"past": null
+					},
+					"fouls": {
+						"drawn": null,
+						"committed": null
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 51218,
+				"name": "B. Lennon",
+				"firstname": "Brooks Howard",
+				"lastname": "Lennon",
+				"age": 26,
+				"birth": {
+					"date": "1997-09-22",
+					"place": "Paradise Valley",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "178 cm",
+				"weight": "71 kg",
+				"injured": false,
+				"photo": "https://media-2.api-sports.io/football/players/51218.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-1.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-1.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 8,
+						"lineups": 8,
+						"minutes": 720,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.950000",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 0,
+						"bench": 0
+					},
+					"shots": {
+						"total": 3,
+						"on": 2
+					},
+					"goals": {
+						"total": 1,
+						"conceded": 0,
+						"assists": 2,
+						"saves": null
+					},
+					"passes": {
+						"total": 359,
+						"key": 10,
+						"accuracy": 38
+					},
+					"tackles": {
+						"total": 12,
+						"blocks": 4,
+						"interceptions": 4
+					},
+					"duels": {
+						"total": 49,
+						"won": 27
+					},
+					"dribbles": {
+						"attempts": 10,
+						"success": 5,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 5,
+						"committed": 7
+					},
+					"cards": {
+						"yellow": 0,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		},
+		{
+			"player": {
+				"id": 50879,
+				"name": "M. Robinson",
+				"firstname": "Miles Gordon",
+				"lastname": "Robinson",
+				"age": 26,
+				"birth": {
+					"date": "1997-03-14",
+					"place": "Arlington",
+					"country": "USA"
+				},
+				"nationality": "USA",
+				"height": "188 cm",
+				"weight": "84 kg",
+				"injured": false,
+				"photo": "https://media-1.api-sports.io/football/players/50879.png"
+			},
+			"statistics": [
+				{
+					"team": {
+						"id": 1608,
+						"name": "Atlanta United FC",
+						"logo": "https://media-3.api-sports.io/football/teams/1608.png"
+					},
+					"league": {
+						"id": 253,
+						"name": "Major League Soccer",
+						"country": "USA",
+						"logo": "https://media-2.api-sports.io/football/leagues/253.png",
+						"flag": "https://media-3.api-sports.io/flags/us.svg",
+						"season": 2023
+					},
+					"games": {
+						"appearences": 7,
+						"lineups": 7,
+						"minutes": 629,
+						"number": null,
+						"position": "Defender",
+						"rating": "6.957142",
+						"captain": false
+					},
+					"substitutes": {
+						"in": 0,
+						"out": 1,
+						"bench": 0
+					},
+					"shots": {
+						"total": 3,
+						"on": null
+					},
+					"goals": {
+						"total": 0,
+						"conceded": 0,
+						"assists": null,
+						"saves": null
+					},
+					"passes": {
+						"total": 428,
+						"key": null,
+						"accuracy": 50
+					},
+					"tackles": {
+						"total": 10,
+						"blocks": 3,
+						"interceptions": 6
+					},
+					"duels": {
+						"total": 50,
+						"won": 37
+					},
+					"dribbles": {
+						"attempts": 2,
+						"success": 2,
+						"past": null
+					},
+					"fouls": {
+						"drawn": 6,
+						"committed": 5
+					},
+					"cards": {
+						"yellow": 1,
+						"yellowred": 0,
+						"red": 0
+					},
+					"penalty": {
+						"won": null,
+						"commited": null,
+						"scored": 0,
+						"missed": 0,
+						"saved": null
+					}
+				}
+			]
+		}
+	]
+}
