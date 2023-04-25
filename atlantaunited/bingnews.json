@@ -1,0 +1,148 @@
+{
+	"data": {
+		"status": "ok",
+		"version": "rss20",
+		"title": "atlanta united fc - Bingالأخبار",
+		"image": {
+			"href": "http://www.bing.com/rsslogo.gif",
+			"title": "atlanta united fc",
+			"title_detail": {
+				"type": "text/plain",
+				"language": null,
+				"base": "https://www.bing.com/news/search?q=atlanta+united+fc&FORM=HDRSC7&format=RSS",
+				"value": "atlanta united fc"
+			},
+			"links": [
+				{
+					"rel": "alternate",
+					"type": "text/html",
+					"href": "https://www.bing.com:443/news/search?q=atlanta+united+fc&FORM=HDRSC7&format=RSS"
+				}
+			],
+			"link": "https://www.bing.com:443/news/search?q=atlanta+united+fc&FORM=HDRSC7&format=RSS"
+		}
+	},
+	"feeds": [
+		{
+			"title": "Atlanta United FC 2-1 Chicago Fire: results, summary and goals",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fen.as.com%2fresultados%2ffutbol%2fmls%2f2023%2fdirecto%2fregular_a_9_430705%2f&c=10608955964390455512&mkt=ar-eg",
+			"summary": "Check the best match plays and goals between Atlanta United FC 2-1 Chicago Fire of MLS - Liga USA 2023. Results, summary and postgame analysis ...",
+			"published": "Sun, 23 Apr 2023 21:31:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.nAtE_0sg6rQLkUpXFxGfsC&pid=News&w=700&h=400&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "400",
+			"news_source": "as.com"
+		},
+		{
+			"title": "Nashville SC vs Atlanta United Prediction: A game of narrow margin",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.telecomasia.net%2fsports-betting%2ftips%2ffootball%2fusa-mls%2fnashville-sc-vs-atlanta-united-prediction-betting-tips-and-odds-29-april-2023%2f&c=1730035978336221313&mkt=ar-eg",
+			"summary": "Nashville SC’s struggles continued in the previous round and they are once again back in action searching for a win after going 3 games without one.",
+			"published": "Mon, 24 Apr 2023 22:00:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.XOGjMGmfYbY45RfjBBa8vC&pid=News&w=700&h=466&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "466",
+			"news_source": "telecomasia.net"
+		},
+		{
+			"title": "Atlanta United fixtures: Next six games after Toronto FC draw",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.90min.com%2fposts%2fatlanta-united-fixtures-next-six-games-after-toronto-fc-draw&c=10159180131302876546&mkt=ar-eg",
+			"summary": "Atlanta United will look to push into the upper echelon of the Eastern Conference with the upcoming six games on their schedule.  Though Atlanta United may not ...",
+			"published": "Sat, 15 Apr 2023 22:45:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.DsF7lQ_p32a0qXlErLtMmS&pid=News&w=700&h=393&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "393",
+			"news_source": "90min.com"
+		},
+		{
+			"title": "Soccer: Atlanta United releases 2023 schedule",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2faccesswdun.com%2farticle%2f2022%2f12%2f1155711%2fsoccer-united-releases-2023-schedule&c=8811648550894449123&mkt=ar-eg",
+			"summary": "Atlanta United begins the 2023 season with its home opener Saturday, Feb. 25 at 7:30 p.m. against the San Jose Earthquakes at Mercedes-Benz Stadium. After another home match against Toronto FC the ...",
+			"published": "Sun, 23 Apr 2023 17:00:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.DsF7lQ_p32a0qXlErLtMmS&pid=News&w=700&h=393&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "393",
+			"news_source": "Access WDUN"
+		},
+		{
+			"title": "Atlanta United’s options at goalkeeper",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.ajc.com%2fsports%2fatlanta-united%2fatlanta-uniteds-options-at-goalkeeper%2fEGSB3DH4XNCFTB4CPHOFIJ4LCU%2f&c=656969023897241401&mkt=ar-eg",
+			"summary": "Atlanta United finds itself with major injury issues at goalkeeper for the second consecutive season. Here’s a look at the injury timeline and some options moving forward: ...",
+			"published": "Mon, 24 Apr 2023 09:58:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.DsF7lQ_p32a0qXlErLtMmS&pid=News&w=700&h=393&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "393",
+			"news_source": "Atlanta Journal-Constitution"
+		},
+		{
+			"title": "Atlanta United 2, Chicago 1: Five things learned",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.ajc.com%2fsports%2fatlanta-united%2fatlanta-united-2-chicago-1-five-things-learned%2fI6VO3J3XK5HXTN6IGHW55T2GNA%2f&c=18118514230300649718&mkt=ar-eg",
+			"summary": "Here are five things learned: Wingers are having issues. The excitement about the potential of Luiz Araujo and Derrick Etienne on the flanks during the preseason has yet to happen.",
+			"published": "Mon, 24 Apr 2023 09:01:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.DsF7lQ_p32a0qXlErLtMmS&pid=News&w=700&h=393&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "393",
+			"news_source": "Atlanta Journal-Constitution"
+		},
+		{
+			"title": "Watch Toronto FC vs Atlanta United online in the US and Canada: TV Channel and Live Streaming",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.msn.com%2fen-us%2fsports%2fsoccer%2fwatch-toronto-fc-vs-atlanta-united-online-in-the-us-and-canada-tv-channel-and-live-streaming%2far-AA19SyUA&c=10002279434201637996&mkt=ar-eg",
+			"summary": "Toronto FC will host Atlanta United for the Matchday 8 of the 2023 MLS. Here, you can find out when, where, at what time, and how to watch or live stream this game in the US and Canada. Toronto FC ...",
+			"published": "Sat, 15 Apr 2023 04:27:52 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.ezOsL0igd5WHjsvznm8QIS&pid=News&w=700&h=431&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "431",
+			"news_source": "Bolavip US on MSN"
+		},
+		{
+			"title": "Atlanta United vs Chicago Fire FC Prediction: This should be entertaining",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.telecomasia.net%2fsports-betting%2ftips%2ffootball%2fusa-mls%2fatlanta-united-vs-chicago-fire-fc-prediction-betting-tips-and-odds-23-april-2023%2f&c=1575840278564111922&mkt=ar-eg",
+			"summary": "Atlanta United are back in action playing at home against Chicago Fire. They will be hoping they have put their current results behind and can go on to grab the much needed win after back-to-back ...",
+			"published": "Fri, 21 Apr 2023 09:09:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.dTBWmpOtjgUGBWKjrX1qUi&pid=News&w=700&h=413&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "413",
+			"news_source": "telecomasia.net"
+		},
+		{
+			"title": "Toronto FC 2, Atlanta United FC 2 | 2023 MLS Match Recap",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.torontofc.ca%2fnews%2ftoronto-fc-2-atlanta-united-fc-2-2023-mls-match-recap&c=17499819064206527349&mkt=ar-eg",
+			"summary": "Toronto FC picked up a point in dramatic fashion at BMO Field, drawing 2-2 with Atlanta United FC. The Reds fell behind in the 4th minute as Greek international Giorgos Giakoumakis headed the visitors ...",
+			"published": "Sat, 15 Apr 2023 18:51:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.f9CX3G_jeXGQmawojKQYjy&pid=News&w=700&h=393&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "393",
+			"news_source": "Toronto FC"
+		},
+		{
+			"title": "Ambernath United Atlanta FC complete double over Hyderabad Reserves, win 3-0",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.bignewsnetwork.com%2fnews%2f273772718%2fambernath-united-atlanta-fc-complete-double-over-hyderabad-reserves-win-3-0&c=9654484054594303007&mkt=ar-eg",
+			"summary": "Ambernath United Atlanta FC completed a hattrick of wins for the first time as they beat Hyderabad Reserves by 3-0 at the Bangalore Football Stadium in Bengalur ...",
+			"published": "Fri, 21 Apr 2023 20:35:00 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.G9tETP1Qw7U5l4c0nn6AVS&pid=News&w=630&h=420&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "630",
+			"news_imagemaxheight": "420",
+			"news_source": "Big News Network.com"
+		},
+		{
+			"title": "Ambernath United-Atlanta FC are Nadkarni Cup champions",
+			"link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6447f0b9d52a4c9c96701b5db889b481&url=https%3a%2f%2fwww.msn.com%2fen-in%2fsports%2fother%2fambernath-united-atlanta-fc-are-nadkarni-cup-champions%2far-AA19Zcp2&c=6866756744546105535&mkt=ar-eg",
+			"summary": "Ambernath United-Atlanta FC dished out a fluent performance to beat Bank of Baroda (BoB) 3-1 in the Mumbai Football Association-organised Nadkarni Cup final at the Neville D’Souza Ground in Bandra ...",
+			"published": "Tue, 18 Apr 2023 02:09:59 GMT",
+			"new_news_image": "http://www.bing.com/th?id=OVFT.BClnxnlikF0iFPqtYltlNC&pid=News&w=700&h=393&c=14",
+			"news_imagesize": "w={0}&h={1}&c=14",
+			"news_imagemaxwidth": "700",
+			"news_imagemaxheight": "393",
+			"news_source": "Mid-Day on MSN"
+		}
+	]
+}
