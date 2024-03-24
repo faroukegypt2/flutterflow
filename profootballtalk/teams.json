@@ -550,40 +550,6 @@
         "flag": "https://media.api-sports.io/flags/us.svg"
       },
       "jsonfilename": "MinnesotaVikings.json"
-    },
-    {
-      "id": 33,
-      "name": "NFC",
-      "code": null,
-      "city": null,
-      "coach": null,
-      "owner": null,
-      "stadium": null,
-      "established": null,
-      "logo": "https://media.api-sports.io/american-football/teams/33.png",
-      "country": {
-        "name": "USA",
-        "code": "US",
-        "flag": "https://media.api-sports.io/flags/us.svg"
-      },
-      "jsonfilename": "NFC.json"
-    },
-    {
-      "id": 34,
-      "name": "AFC",
-      "code": null,
-      "city": null,
-      "coach": null,
-      "owner": null,
-      "stadium": null,
-      "established": null,
-      "logo": "https://media.api-sports.io/american-football/teams/34.png",
-      "country": {
-        "name": "USA",
-        "code": "US",
-        "flag": "https://media.api-sports.io/flags/us.svg"
-      },
-      "jsonfilename": "AFC.json"
     }
   ]
 }
