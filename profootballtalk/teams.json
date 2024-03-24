@@ -21,7 +21,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "LasVegasRaiders.json"
     },
     {
       "id": 2,
@@ -37,7 +38,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "JacksonvilleJaguars.json"
     },
     {
       "id": 3,
@@ -53,7 +55,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "NewEnglandPatriots.json"
     },
     {
       "id": 4,
@@ -69,7 +72,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "NewYorkGiants.json"
     },
     {
       "id": 5,
@@ -85,7 +89,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "BaltimoreRavens.json"
     },
     {
       "id": 6,
@@ -101,7 +106,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "TennesseeTitans.json"
     },
     {
       "id": 7,
@@ -117,7 +123,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "DetroitLions.json"
     },
     {
       "id": 8,
@@ -133,7 +140,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "AtlantaFalcons.json"
     },
     {
       "id": 9,
@@ -149,7 +157,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "ClevelandBrowns.json"
     },
     {
       "id": 10,
@@ -165,7 +174,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "CincinnatiBengals.json"
     },
     {
       "id": 11,
@@ -181,7 +191,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "ArizonaCardinals.json"
     },
     {
       "id": 12,
@@ -197,7 +208,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "PhiladelphiaEagles.json"
     },
     {
       "id": 13,
@@ -213,7 +225,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "NewYorkJets.json"
     },
     {
       "id": 14,
@@ -229,7 +242,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "SanFrancisco49ers.json"
     },
     {
       "id": 15,
@@ -245,7 +259,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "GreenBayPackers.json"
     },
     {
       "id": 16,
@@ -261,7 +276,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "ChicagoBears.json"
     },
     {
       "id": 17,
@@ -277,7 +293,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "KansasCityChiefs.json"
     },
     {
       "id": 18,
@@ -293,7 +310,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "WashingtonCommanders.json"
     },
     {
       "id": 19,
@@ -309,7 +327,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "CarolinaPanthers.json"
     },
     {
       "id": 20,
@@ -325,7 +344,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "BuffaloBills.json"
     },
     {
       "id": 21,
@@ -341,7 +361,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "IndianapolisColts.json"
     },
     {
       "id": 22,
@@ -357,7 +378,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "PittsburghSteelers.json"
     },
     {
       "id": 23,
@@ -373,7 +395,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "SeattleSeahawks.json"
     },
     {
       "id": 24,
@@ -389,7 +412,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "TampaBayBuccaneers.json"
     },
     {
       "id": 25,
@@ -405,7 +429,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "MiamiDolphins.json"
     },
     {
       "id": 26,
@@ -421,7 +446,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "HoustonTexans.json"
     },
     {
       "id": 27,
@@ -437,7 +463,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "NewOrleansSaints.json"
     },
     {
       "id": 28,
@@ -453,7 +480,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "DenverBroncos.json"
     },
     {
       "id": 29,
@@ -469,7 +497,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "DallasCowboys.json"
     },
     {
       "id": 30,
@@ -485,7 +514,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "LosAngelesChargers.json"
     },
     {
       "id": 31,
@@ -501,7 +531,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "LosAngelesRams.json"
     },
     {
       "id": 32,
@@ -517,7 +548,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "MinnesotaVikings.json"
     },
     {
       "id": 33,
@@ -533,7 +565,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "NFC.json"
     },
     {
       "id": 34,
@@ -549,7 +582,8 @@
         "name": "USA",
         "code": "US",
         "flag": "https://media.api-sports.io/flags/us.svg"
-      }
+      },
+      "jsonfilename": "AFC.json"
     }
   ]
 }
