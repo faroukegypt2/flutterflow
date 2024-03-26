@@ -1,1 +1,554 @@
-[]
+[
+    {
+        "title": "First look: $400m Greenmount Resort replacement unveiled - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvcHJvcGVydHkvZ3JlZW5tb3VudC1yZXNvcnQtZmlyc3QtbG9vay1hdC1hcml1bS1ncm91cHMtNDAwbS1yZWRldmVsb3BtZW50LWZvci1ncmVlbm1vdW50LXJlc2lkZW5jZXMvbmV3cy1zdG9yeS80NTIwZDA3ODI0MTVhZGQzNTY5OWJlM2ExMjNkNzM2Y9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:04:38 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Tweed Heads fuel prices: unleaded petrol and diesel - Tweed Daily News",
+        "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvdHdlZWQtaGVhZHMvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLXR3ZWVkLWhlYWRzL25ld3Mtc3RvcnkvNDJiOGJhMjUwYWYzOWQzYmRjODc4ZDI4ZTkxOWQ4NjnSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 22:26:09 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Tweed Daily News"
+    },
+    {
+        "title": "Everybody appearing at Coolangatta Magistrates Court, Monday, March 25 - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1jb29sYW5nYXR0YS1tYWdpc3RyYXRlcy1jb3VydC1tb25kYXktbWFyY2gtMjUvbmV3cy1zdG9yeS9jMTM2YjcxMWNmMWFiNmMzMjg5YjRmNWUwYWMxYzMwONIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 21:32:39 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Check out the latest on Tweed Heads roads - Tweed Daily News",
+        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvdHdlZWQtaGVhZHMvaHlwZXJsb2NhbC90d2VlZC1oZWFkcy10cmFmZmljLWNyYXNoZXMtZGVsYXlzLXVwZGF0ZXMvbmV3cy1zdG9yeS81M2Q3NjM1ZmI1MDA5ZmRjOTk4OTJjMDZkYjVmYWNhMNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 13:20:25 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Tweed Daily News"
+    },
+    {
+        "title": "10 of the most egg-squisite Easter treats to try - Inside Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lmluc2lkZWdvbGRjb2FzdC5jb20uYXUvMTAtb2YtdGhlLW1vc3QtZWdnLXNxdWlzaXRlLWVhc3Rlci10cmVhdHMtdG8tdHJ50gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 23:40:39 GMT",
+        "source_url": "https://www.insidegoldcoast.com.au",
+        "source_name": "Inside Gold Coast"
+    },
+    {
+        "title": "70+ PHOTOS: Perry Cross Spinal Research Foundation Gala - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbGlmZXN0eWxlL3BvcnRpYS1sYXJnZS9pbi1waWN0dXJlcy1wZXJyeS1jcm9zcy1zcGluYWwtcmVzZWFyY2gtZm91bmRhdGlvbi1nYWxhL2ltYWdlLWdhbGxlcnkvYmMwNzJhODcwY2EwZDgyMDliZDVhNTliODc0ZDE1ZmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 01:17:24 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Sovereign Islands & Surrounds March Community Luncheon: A Heartfelt Success - Gold Coast Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZ2NtYWcuY29tLmF1L3NvdmVyZWlnbi1pc2xhbmRzLXN1cnJvdW5kcy1tYXJjaC1jb21tdW5pdHktbHVuY2hlb24tYS1oZWFydGZlbHQtc3VjY2Vzcy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 03:33:23 GMT",
+        "source_url": "https://gcmag.com.au",
+        "source_name": "Gold Coast Magazine"
+    },
+    {
+        "title": "Entries now open for 2024 Wollumbin Art Award - Tweed Shire Council",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy50d2VlZC5uc3cuZ292LmF1L2NvdW5jaWwvbmV3cy11cGRhdGVzL2xhdGVzdC1uZXdzL21lZGlhLXJlbGVhc2VzLzE0NzA1MTctZW50cmllcy1ub3ctb3Blbi1mb3ItMjAyNC13b2xsdW1iaW4tYXJ0LWF3YXJk0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 06:08:00 GMT",
+        "source_url": "https://www.tweed.nsw.gov.au",
+        "source_name": "Tweed Shire Council"
+    },
+    {
+        "title": "Gold Coast apartment prices hit record highs - Urban",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnVyYmFuLmNvbS5hdS9uZXdzL3FsZC9nb2xkLWNvYXN0LWFwYXJ0bWVudC1wcmljZXMtaGl0LXJlY29yZC1oaWdoc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 23:23:14 GMT",
+        "source_url": "https://www.urban.com.au",
+        "source_name": "Urban"
+    },
+    {
+        "title": "Police beat bombshell: \u2018Desperate\u2019 $1 offer by shops to keep cops - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMi0QFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtZ29sZC1jb2FzdC9wYWNpZmljLWZhaXItc2hvcHBpbmctY2VudHJlcy1kZXNwZXJhdGUtb2ZmZXItdG8ta2VlcC1wb2xpY2UtYmVhdC1zaG9wZnJvbnQtcmVqZWN0ZWQvbmV3cy1zdG9yeS9iMjcwYzBkZWEwYjgxNzgzMzRhYjQ0ZTdiNjZjMmIyZNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 02:07:07 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Everybody appearing at Tweed Heads Local Court, Tuesday, March 26 - Tweed Daily News",
+        "link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvdHdlZWQtaGVhZHMvaHlwZXJsb2NhbC9ldmVyeWJvZHktYXBwZWFyaW5nLWF0LXR3ZWVkLWhlYWRzLWxvY2FsLWNvdXJ0LXR1ZXNkYXktbWFyY2gtMjYvbmV3cy1zdG9yeS8zZWU3NjUzN2FhMDFiNGE4YWFkYmJhZmY3OGY3NjcxN9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 21:21:56 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Tweed Daily News"
+    },
+    {
+        "title": "Have a hull of a time with Holy Ship - Inside Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lmluc2lkZWdvbGRjb2FzdC5jb20uYXUvaG9seS1zaGlwLXJlc3RhdXJhbnTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 04:24:09 GMT",
+        "source_url": "https://www.insidegoldcoast.com.au",
+        "source_name": "Inside Gold Coast"
+    },
+    {
+        "title": "\u2018We want to buy something with scale\u2019: Outrigger boss - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvYnVzaW5lc3MvbmluZS15ZWFycy1hZnRlci1vdXRyaWdnZXItbGVmdC1vdXItc2hvcmVzLWl0LXdhbnRzLWJhY2staW4tYS1iaWctd2F5L25ld3Mtc3RvcnkvZTVjMmQ3NjljM2QyZTljNjU2NWVjMjY0NzFkZWY2OGHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 02:53:38 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "Fibre optic network - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmdvbGRjb2FzdC5xbGQuZ292LmF1L0Fib3V0LW91ci1jaXR5L0RpZ2l0YWwtY29ubmVjdGl2aXR5L0ZpYnJlLW9wdGljLW5ldHdvcmvSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:11:07 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Up in smoke: Cannabis company in administration - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMi0wFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvYnVzaW5lc3MvZ29sZC1jb2FzdC1idXNpbmVzcy9lcHNpbG9uLWhlYWx0aGNhcmUtY29tcGFueS13aGljaC1vd25zLXNvdXRocG9ydC1jYW5uYWJpcy1leHRyYWN0aW9uLWZhY2lsaXR5LWdvZXMtaW50by1hZG1pbnNpdHJhdGlvbi9uZXdzLXN0b3J5L2VhNWYzMmZjZjg5ZmM2YzNhZDAyZGRjNWE4NTFlMmQ10gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 06:01:27 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Right to information - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5nb2xkY29hc3QucWxkLmdvdi5hdS9Db3VuY2lsL0Fib3V0LUNvdW5jaWwvQ291bmNpbC1pbmZvcm1hdGlvbi9Ib3ctdG8tYWNjZXNzLUNvdW5jaWwtaW5mb3JtYXRpb24vUmlnaHQtdG8taW5mb3JtYXRpb27SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:07:47 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Where will an extra 30000 people fit in Tweed? Your last chance to comment - Echonetdaily",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVjaG8ubmV0LmF1LzIwMjQvMDMvd2hlcmUtd2lsbC1hbi1leHRyYS0zMDAwMC1wZW9wbGUtZml0LWluLXR3ZWVkLXlvdXItbGFzdC1jaGFuY2UtdG8tY29tbWVudC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 13:34:04 GMT",
+        "source_url": "https://www.echo.net.au",
+        "source_name": "Echonetdaily"
+    },
+    {
+        "title": "Mystery still surrounds mould outbreak in new $723m hospital - Tweed Daily News",
+        "link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvdHdlZWQtaGVhZHMvY29tbXVuaXR5L3R3ZWVkLXZhbGxleS1ob3NwaXRhbC1pcy1tb3VsZGluZmVzdGVkLWp1c3QtbW9udGhzLWJlZm9yZS1vcGVuaW5nL25ld3Mtc3RvcnkvNDI5YWMzMzk5ZTNiYTQyNzkwZjAzNjRjN2E5MDMzNzPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:28:12 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Tweed Daily News"
+    },
+    {
+        "title": "Arts & culture funding - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmdvbGRjb2FzdC5xbGQuZ292LmF1L0Fib3V0LW91ci1jaXR5L0FydHMtY3VsdHVyZS9BcnRzLWN1bHR1cmUtZnVuZGluZ9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:10:48 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Aniko seek rightsizers at $2 billion Mermaid Beach apartment mega-project, Landmark - Urban",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVyYmFuLmNvbS5hdS9uZXdzL3FsZC9hbmlrby1zZWVrLXJpZ2h0c2l6ZXJzLWF0LTItYmlsbGlvbi1tZXJtYWlkLWJlYWNoLWFwYXJ0bWVudC1tZWdhLXByb2plY3QtbGFuZG1hcmvSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 23:57:04 GMT",
+        "source_url": "https://www.urban.com.au",
+        "source_name": "Urban"
+    },
+    {
+        "title": "\u2018Down to the wire\u2019: Surprise candidate takes lead in tight count - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMixAFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2NvdW5jaWwtZWxlY3Rpb24vZ29sZC1jb2FzdC1jaXR5LWNvdW5jaWwtZWxlY3Rpb24tMjAyNC1sYXRlc3QtcmVzdWx0cy1pbi1kaXZpc2lvbi03LWFuZC1kaXZpc2lvbi0xNC9uZXdzLXN0b3J5L2NhM2QzODQxNWVkZDFjNTk4MzYxMGU5M2U0ZWEwMmE00gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 21:25:28 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Fire ants found on Marymount College oval at Burleigh Waters - NT News",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5udG5ld3MuY29tLmF1L25ld3MvcXVlZW5zbGFuZC9maXJlLWFudHMtZm91bmQtb24tbWFyeW1vdW50LWNvbGxlZ2Utb3ZhbC1hdC1idXJsZWlnaC13YXRlcnMvbmV3cy1zdG9yeS81MDFmODE5ZDZlZjU3YTQxZTkxMzMxM2Y0NmZjOTAxMdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 23:44:00 GMT",
+        "source_url": "https://www.ntnews.com.au",
+        "source_name": "NT News"
+    },
+    {
+        "title": "Bianca is back: What radio star is doing now - The Cairns Post",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jYWlybnNwb3N0LmNvbS5hdS9uZXdzL2dvbGQtY29hc3QvZ29sZC1jb2FzdC1yYWRpby1pY29uLWhpbnRzLWF0LW5leHQtYmlnLW1vdmUvbmV3cy1zdG9yeS82ZDE3MjZhMTU2MGUwYTAxOTcwYWM5Y2UyMTYxZTIzZNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 23:09:00 GMT",
+        "source_url": "https://www.cairnspost.com.au",
+        "source_name": "The Cairns Post"
+    },
+    {
+        "title": "City social media channels - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmdvbGRjb2FzdC5xbGQuZ292LmF1L0NvdW5jaWwvQ2l0eS1zb2NpYWwtbWVkaWEtY2hhbm5lbHPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:06:39 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Emergency services on show at Brunswick Heads in April - Byron Shire Council",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmJ5cm9uLm5zdy5nb3YuYXUvQ291bmNpbC9OZXdzL01lZGlhLXJlbGVhc2VzL0VtZXJnZW5jeS1zZXJ2aWNlcy1vbi1zaG93LWF0LUJydW5zd2ljay1IZWFkcy1pbi1BcHJpbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 22:57:12 GMT",
+        "source_url": "https://www.byron.nsw.gov.au",
+        "source_name": "Byron Shire Council"
+    },
+    {
+        "title": "In pictures: Beyond the Boardroom event at Hismile - Geelong Advertiser",
+        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5nZWVsb25nYWR2ZXJ0aXNlci5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2luLXBpY3R1cmVzLWJleW9uZC10aGUtYm9hcmRyb29tLWV2ZW50LWF0LWhpc21pbGUvaW1hZ2UtZ2FsbGVyeS84ZTlmYjMwNzYzN2YwZjgyMDRhOGM1NzNhN2M2MDEzZtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Mar 2024 05:20:07 GMT",
+        "source_url": "https://www.geelongadvertiser.com.au",
+        "source_name": "Geelong Advertiser"
+    },
+    {
+        "title": "Everybody appearing at Southport Magistrates Court, Monday, March 25 - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1zb3V0aHBvcnQtbWFnaXN0cmF0ZXMtY291cnQtbW9uZGF5LW1hcmNoLTI1L25ld3Mtc3RvcnkvNTMzNDhjZjgzNzNiNThmMDlhMGZiNGJlYjViOTMxYjHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 21:32:39 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "\u2018Campaign of complaints\u2019: GC tourism icon\u2019s court win as judge blasts case - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMiyQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL2djLWhlbGl0b3Vycy13aW5zLWNvdXJ0LWNhc2UtYXMtanVkZ2UtZGlzbWlzc2VzLWV2aWRlbmNlLXF1ZXN0aW9ucy1jcmVkaWJpbGl0eS1vZi13aXRuZXNzL25ld3Mtc3RvcnkvZGE3MWE4MDg1NDQxMDA3NTU2MDJkNzdiNzlhZWFjNWHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 01:39:24 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "Role of local government - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmdvbGRjb2FzdC5xbGQuZ292LmF1L0NvdW5jaWwvQWJvdXQtQ291bmNpbC9Sb2xlLW9mLWxvY2FsLWdvdmVybm1lbnTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:07:26 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Broadbeach\u2019s Pink Flamingo Spiegelclub reopening to the public on March 22 after \u2018crucial\u2019 renovations - Townsville Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMixQFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3MvZ29sZC1jb2FzdC9icm9hZGJlYWNocy1waW5rLWZsYW1pbmdvLXNwaWVnZWxjbHViLXJlb3BlbmluZy10by10aGUtcHVibGljLW9uLW1hcmNoLTIyLWFmdGVyLWNydWNpYWwtcmVub3ZhdGlvbnMvbmV3cy1zdG9yeS82NTcyNTc0M2I3ZjdkNzkwM2ViZTkzODQ5NTBmNWExY9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 05:20:29 GMT",
+        "source_url": "https://www.townsvillebulletin.com.au",
+        "source_name": "Townsville Bulletin"
+    },
+    {
+        "title": "George's Deli, Kingscliff - Inside Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmluc2lkZWdvbGRjb2FzdC5jb20uYXUvZ2Vvcmdlcy1kZWxpLWtpbmdzY2xpZmbSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 01:38:16 GMT",
+        "source_url": "https://www.insidegoldcoast.com.au",
+        "source_name": "Inside Gold Coast"
+    },
+    {
+        "title": "Twist in bizarre \u2018road rage\u2019 incident - Geelong Advertiser",
+        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5nZWVsb25nYWR2ZXJ0aXNlci5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L3NtaXRoLXN0LXJvYWQtcmFnZS1jYXItYm94ZWQtaW4tZHVyaW5nLWJpemFycmUtaW5jaWRlbnQvbmV3cy1zdG9yeS8zYzk1NTQ5NjRjMWI0M2U5MTRmNzVhM2Y5N2M0MGI1ZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 15:23:00 GMT",
+        "source_url": "https://www.geelongadvertiser.com.au",
+        "source_name": "Geelong Advertiser"
+    },
+    {
+        "title": "Lewis Land to launch Harbour Shores first house release in undersupplied Runaway Bay catchment area - Urban",
+        "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy51cmJhbi5jb20uYXUvbmV3cy9xbGQvbGV3aXMtbGFuZC10by1sYXVuY2gtaGFyYm91ci1zaG9yZXMtZmlyc3QtaG91c2UtcmVsZWFzZS1pbi11bmRlcnN1cHBsaWVkLXJ1bmF3YXktYmF5LWNhdGNobWVudC1hcmVh0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 23:57:04 GMT",
+        "source_url": "https://www.urban.com.au",
+        "source_name": "Urban"
+    },
+    {
+        "title": "50+ PHOTOS: Nightspotting on the Gold Coast - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0LzUwLXBob3Rvcy1uaWdodHNwb3R0aW5nLW9uLXRoZS1nb2xkLWNvYXN0L2ltYWdlLWdhbGxlcnkvNTI4MDk1ODNkNjNmNWYzOWY5MTcyYTBkM2U5YjFjZDHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 04:33:36 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Urban Design Awards - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmdvbGRjb2FzdC5xbGQuZ292LmF1L0NvdW5jaWwvQ2l0eS1hd2FyZHMtcmVjb2duaXRpb24vVXJiYW4tRGVzaWduLUF3YXJkc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:06:22 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Car, bike crash brings M1 to standstill ahead of peak hour - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL21ham9yLWRlbGF5cy1vbi1tMS1zb3V0aGJvdW5kLWhlYWRpbmctdG8tdGhlLWdvbGQtY29hc3QtYWZ0ZXItYmlrZS1jcmFzaC9uZXdzLXN0b3J5L2ZkMDljNTMwNDQzYTllNDRmY2RlMmQwMTM5MzE2NzJi0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 05:56:50 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "What's the latest thing you might discover at the Gold Coast? Meet the amazing Hairy Poo - InQueensland",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmlucWxkLmNvbS5hdS9pbnNpZ2h0cy8yMDI0LzAzLzIxL3doYXRzLXRoZS1sYXRlc3QtdGhpbmcteW91LW1pZ2h0LWRpc2NvdmVyLWF0LXRoZS1nb2xkLWNvYXN0LW1lZXQtaGFpcnktcG9v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 20 Mar 2024 22:03:43 GMT",
+        "source_url": "https://www.inqld.com.au",
+        "source_name": "InQueensland"
+    },
+    {
+        "title": "'The most fun I'd had in years': Why Splendour can't afford to fail - Brisbane Times",
+        "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL3RoZS1tb3N0LWZ1bi1pLWQtaGFkLWluLXllYXJzLXdoeS1zcGxlbmRvdXItY2FuLXQtYWZmb3JkLXRvLWZhaWwtMjAyNDAzMTUtcDVmY3A5Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 20 Mar 2024 09:52:08 GMT",
+        "source_url": "https://www.brisbanetimes.com.au",
+        "source_name": "Brisbane Times"
+    },
+    {
+        "title": "Code of Conduct for Councillors - City of Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmdvbGRjb2FzdC5xbGQuZ292LmF1L0NvdW5jaWwvTWF5b3ItQ291bmNpbGxvcnMvQ29kZS1vZi1Db25kdWN0LWZvci1Db3VuY2lsbG9yc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 20:06:45 GMT",
+        "source_url": "https://www.goldcoast.qld.gov.au",
+        "source_name": "City of Gold Coast"
+    },
+    {
+        "title": "Appeal for witnesses/dashcam footage: Traffic hazard, Ashmore - myPolice",
+        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDMvMjAvYXBwZWFsLWZvci13aXRuZXNzZXMtZGFzaGNhbS1mb290YWdlLXRyYWZmaWMtaGF6YXJkLWFzaG1vcmUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 20 Mar 2024 05:20:00 GMT",
+        "source_url": "https://mypolice.qld.gov.au",
+        "source_name": "myPolice"
+    },
+    {
+        "title": "District Court sittings at Southport, March 25 - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2h5cGVybG9jYWwvZGlzdHJpY3QtY291cnQtc2l0dGluZ3MtYXQtc291dGhwb3J0LW1hcmNoLTI1L25ld3Mtc3RvcnkvOGJiODgyYzNkMDU1Yzg2N2EzZGI1ODljZWYyNDc3ZmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 21:04:58 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Kickin'Inn, Kajun Seafood, Broadbeach - Inside Gold Coast",
+        "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lmluc2lkZWdvbGRjb2FzdC5jb20uYXUva2lja2luaW5uLWJyb2FkYmVhY2jSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 20 Mar 2024 22:58:36 GMT",
+        "source_url": "https://www.insidegoldcoast.com.au",
+        "source_name": "Inside Gold Coast"
+    },
+    {
+        "title": "Named: Second man charged over alleged Gold Coast stabbing murder - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL3BvbGljZS1oYXZlLWNoYXJnZWQtYS1zZWNvbmQtbWFuLWluLXJlbGF0aW9uLXRvLWdvbGQtY29hc3Qtc3RhYmJpbmctbXVyZGVyL25ld3Mtc3RvcnkvZmVjYTg0MzljODM1MTliODYxZDdhNzNmZDE3MzI4ZWXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 20 Mar 2024 02:26:15 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "In photos: Stuart Reeder's client appreciation event at Bar Leo - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbGlmZXN0eWxlL2luLXBob3Rvcy1zdHVhcnQtcmVlZGVycy1jbGllbnQtYXBwcmVjaWF0aW9uLWV2ZW50LWF0LWJhci1sZW8vaW1hZ2UtZ2FsbGVyeS9jYzRhZWRkNThlMTAyNTJiMTg5MzMzZWI0ZmQ0Yjc3MdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 04:03:21 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Mayor Tom Tate's barber, Paul Musson retires after 30 years of service on Chevron Island amid a rare cancer battle - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L3Jlbm93bmVkLWNoZXZyb24taXNsYW5kLWJhcmJlci1wYXVsLW11c3Nvbi1yZXRpcmVzLWFmdGVyLWRlY2FkZXMtb2Ytc2VydmljZS9uZXdzLXN0b3J5LzVjZTc2OTFhYWYwMTRmM2IxOGI3YmRhMTU2NDIwN2Rj0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 21:01:39 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "\u2018Daring and adventurous\u2019: Inside story of beloved shopping centre - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbGlmZXN0eWxlL2hpc3Rvcnkvc3VuZGFsZS1ldmVyeXRoaW5nLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtc291dGhwb3J0LXNob3BwaW5nLWNlbnRyZS13aGljaC13YXMtb3Blbi0xOTY5MTk5MC9uZXdzLXN0b3J5LzhkYmI4MGY2MTgyMTg1NGEwMGFmZmJlMjM4YmRlNDM30gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Mar 2024 21:21:34 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Squatters take over property on affluent Gold Coast street - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L21vbmFjby1zdC1icm9hZGJlYWNoLXdhdGVycy1ob21lLWFsbGVnZWRseS10YWtlbi1vdmVyLWJ5LXNxdWF0dGVycy9uZXdzLXN0b3J5L2QzYzE2YTJmNmYxMWIzMjEzYzJlMmNjNmI2N2U1Zjgz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Mar 2024 20:06:29 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Man\u2019s alleged daring act at Officeworks - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMizwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtZ29sZC1jb2FzdC9vZmZpY2V3b3Jrcy1idXJsZWlnaC1tYW4tbWFrZXMtZGFzaC1mb3ItZG9vci13aXRob3V0LXBheWluZy1hZnRlci1jb2xsZWN0aW5nLWdvb2RzL25ld3Mtc3RvcnkvZmZiMjQ1MjA4MDAzM2NhY2EyNWQxMWI5ZTY4MDAxYznSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Mar 2024 21:02:06 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Developer plans $50m buy of exclusive waterfront property - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvcHJvcGVydHkvZ29sZC1jb2FzdC1yZWFsLWVzdGF0ZS1tYXJrZXQtZGV2ZWxvcGVyLXBvbGl0ZXMtcHJvcGVydHktZ3JvdXAtcGxhbnMtNTBtLWJ1eS1vZi1zYW5jdHVhcnktYmF5L25ld3Mtc3RvcnkvNWQ4Y2MzZGRiZTYyNDc2YTA3OGZmYmQ4NDI5NDE1ZWHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 09:03:57 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "GC at Large: Ray White Surfers Paradise Business Meets Sport Lunch - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbGlmZXN0eWxlL3BvcnRpYS1sYXJnZS9nYy1hdC1sYXJnZS1yYXktd2hpdGUtc3VyZmVycy1wYXJhZGlzZS1idXNpbmVzcy1tZWV0cy1zcG9ydC1sdW5jaC9pbWFnZS1nYWxsZXJ5L2U3NDY0NDU4YjUzODA4NzY0MWQxOWY1NmQ0YzFhMTQ00gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 07:01:35 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "\u2018Beautiful and loving\u2019: Tributes for woman who died in horror crash - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMixwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L3RyaWJ1dGVzLWFyZS1mbG93aW5nLWZvci10YWxsZWJ1ZGdlcmEtd29tYW4tY2xhdWRpYS1nYWxsZWd1aWxsb3Mtd2hvLWRpZWQtaW4tYS1ob3Jyb3ItY3Jhc2gtaW4tZWxhbm9yYS9uZXdzLXN0b3J5LzE5N2E2NjIwYTk3YWNjYTQzOWVlOGUwZDkzYjkxMjRm0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 02:58:54 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Drivers nabbed in major police blitz - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtZ29sZC1jb2FzdC9zdXJmZXJzLXBhcmFkaXNlLXBvbGljZS1ibGl0ei1odWdlLW51bWJlci1vZi1tb3RvcmlzdHMtbmFiYmVkL25ld3Mtc3RvcnkvNmQ1MGRlZGY5OTI1MDkxOGU1OGNjOThmYjFhMTc3M2PSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 02:04:25 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Touching tribute to 21-year-old crash victim - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L3NtaXRoLXN0LWNyYXNoLTIxeWVhcm9sZC1wZWRlc3RyaWFuLWtpbGxlZC1pbi1ob3Jyb3ItYWNjaWRlbnQvbmV3cy1zdG9yeS85MGIzN2Q2MmFmNWRhZGVkNmVkMGRjMjQyMDkyMTE2ONIBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 23 Mar 2024 01:07:30 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Build your own margs: Beachfront tapas bar a hit with locals - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L21pYW1pcy1zYW5kZmlyZS1iZWFjaGZyb250LXRhcGFzLWJhci1hbmQtcmVzdGF1cmFudC1yZWxlYXNlcy1jb2FzdGFsaW5zcGlyZWQtZm9vZC1tZW51L25ld3Mtc3RvcnkvMThiNThjNDU2NzViYTBlZjgyY2U0ZGNmYWRkOWZiNmTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 04:05:23 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Truth behind supermarket conspiracy gripping the Gold Coast - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMi2wFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2Fubi13YXNvbi1tb29yZS1xdWVzdGlvbnMtcGxvdHMtYWdhaW5zdC1nb2xkLWNvYXN0LWNpdHktY291bmNpbC1lbGVjdGlvbi1hbmQtY29tbXVuaXR5LWNvbmNlcm5zLWFib3V0LWNvbGVzLWNoZWNrb3V0LWdhdGVzL25ld3Mtc3RvcnkvN2Y0ZWU5OTQzMjM0ZTgzMTFiMmJjOTBmZGM3NDAwYWPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 09:01:40 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Police swarm suburban street as abandoned car sparks manhunt - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMizQFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtZ29sZC1jb2FzdC9zdG9sZW4tY2FyLWR1bXBlZC1pbi1ob3BlLWlzbGFuZC13aXRoLWRydWdzLWFuZC1zdXNwZWN0ZWQtc3RvbGVuLXByb3BlcnR5LWluc2lkZS9uZXdzLXN0b3J5LzFhNDYzNGExYWQ4M2Y4OGNmYjcxYjRlM2Q5NzBmYTAz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 25 Mar 2024 21:00:15 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Pubs baron Mathieson rubbishes talk of Star buyout - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMizAFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvYnVzaW5lc3MvZ29sZC1jb2FzdC1idXNpbmVzcy9iaWxsaW9uYWlyZS1icnVjZS1tYXRoaWVzb24tcnVsZXMtb3V0LWJ1eWluZy10aGUtc3RhcnMtc3lkbmV5LWdvbGQtY29hc3QtY2FzaW5vcy1hcy1mYXJmZXRjaGVkL25ld3Mtc3RvcnkvZmRlMGE4MGQzMWZiYmI4OTkzNjIyZTc2NmVhNmI2YmXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 07:52:30 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Comedian in court after drink-driving blunder - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMizwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtZ29sZC1jb2FzdC9jb21lZGlhbi1kYXZlLWVhc3RnYXRlLXBsZWFkcy1ndWlsdHktaW4tc291dGhwb3J0LWNvdXJ0LXRvLWhpZ2hyYW5nZS1kcmluay1kcml2aW5nL25ld3Mtc3RvcnkvMDViZDAwYjgzN2ZhYTU1MzE5ZTkwOWY5ZWM2ODc1NGHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 06:43:43 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Cecil Hotel at Southport for sale - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMi0AFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvYnVzaW5lc3MvZ29sZC1jb2FzdC1idXNpbmVzcy9jZWNpbC1ob3RlbC1hdC1zb3V0aHBvcnQtZm9yLXNhbGUtZm9yLXNlY29uZC10aW1lLWluLXR3by15ZWFycy1ieS1vd25lcnMtZ3JlZy1yeWFsbC1hbmQtcGF1bC1zbWl0aC9uZXdzLXN0b3J5LzQ5MWMwNmFiYjA4ODhkOGY1NDVhYTA0MDMxMmI1ODg40gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 21 Mar 2024 09:01:16 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
+    },
+    {
+        "title": "Peak Sydney: The $55m house that will be as easy as a \u2018walk in the park\u2019 to sell - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zbWguY29tLmF1L3Byb3BlcnR5L25ld3MvcGVhay1zeWRuZXktdGhlLTU1bS1ob3VzZS10aGF0LXdpbGwtYmUtYXMtZWFzeS1hcy1hLXdhbGstaW4tdGhlLXBhcmstdG8tc2VsbC0yMDI0MDMyMS1wNWZlNXYuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 22 Mar 2024 00:00:00 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "Appeal following attempted abduction \u2013 Tweed Heads \u2013 The Echo - Echonetdaily",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmVjaG8ubmV0LmF1LzIwMjQvMDIvYXBwZWFsLWZvbGxvd2luZy1hdHRlbXB0ZWQtYWJkdWN0aW9uLXR3ZWVkLWhlYWRzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 29 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.echo.net.au",
+        "source_name": "Echonetdaily"
+    },
+    {
+        "title": "Tweed health services coming closer to home - Echonetdaily",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmVjaG8ubmV0LmF1LzIwMjQvMDMvdHdlZWQtaGVhbHRoLXNlcnZpY2VzLWNvbWluZy1jbG9zZXItdG8taG9tZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 05 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.echo.net.au",
+        "source_name": "Echonetdaily"
+    },
+    {
+        "title": "Major update after fire killed dad and 5 kids - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2NyaW1lL3R3ZWVkLWhlYWRzLXByb3BlcnR5LW93bmVyLWNoYXJnZWQtaW4td2FrZS1vZi1ydXNzZWxsLWlzbGFuZC1mYXRhbC1maXJlL25ld3Mtc3RvcnkvNTU1ODhiZTEzMTZlNTYwZTA4MWI5OTc0ZGI3NzkxYjXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 21 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
+        "title": "Everybody appearing at Tweed Heads Local Court, Monday, March 25 - Tweed Daily News",
+        "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvdHdlZWQtaGVhZHMvaHlwZXJsb2NhbC9ldmVyeWJvZHktYXBwZWFyaW5nLWF0LXR3ZWVkLWhlYWRzLWxvY2FsLWNvdXJ0LW1vbmRheS1tYXJjaC0yNS9uZXdzLXN0b3J5L2RjMDNmYzAyYzE1ZjE0YWFmYzBkN2E4MmI4MmUzNTFl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 24 Mar 2024 11:06:29 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Tweed Daily News"
+    },
+    {
+        "title": "Monet, Dreamy Beaches and Pan-Asian Fare: A Weekend Around Tweed Heads and the Gold Coast - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9uYXRpb25hbC9hcnQtYW5kLWRlc2lnbi9hcnRpY2xlL21vbmV0LWRyZWFteS1iZWFjaGVzLWFuZC1wYW4tYXNpYW4tZmFyZS13ZWVrZW5kLWFyb3VuZC10d2VlZC1oZWFkcy1hbmQtZ29sZC1jb2FzdNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 28 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
+    },
+    {
+        "title": "Moment Tweed Heads man allegedly steals woman\u2019s car parked across the road from police station - 7NEWS",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovLzduZXdzLmNvbS5hdS9uZXdzL21vbWVudC10d2VlZC1oZWFkcy1tYW4tYWxsZWdlZGx5LXN0ZWFscy13b21hbnMtY2FyLXBhcmtlZC1hY3Jvc3MtdGhlLXJvYWQtZnJvbS1wb2xpY2Utc3RhdGlvbi0tYy0xMzYxNDYzN9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 15 Feb 2024 08:00:00 GMT",
+        "source_url": "https://7news.com.au",
+        "source_name": "7NEWS"
+    },
+    {
+        "title": "Tweed Heads West alleged murder: Eerie twist as landlord's link to brutal 'witches of hell' killing a decade e - Daily Mail",
+        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTMwNjQxNDcvVHdlZWQtSGVhZHMtV2VzdC1hbGxlZ2VkLW11cmRlci1FZXJpZS10d2lzdC5odG1s0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 12 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.dailymail.co.uk",
+        "source_name": "Daily Mail"
+    },
+    {
+        "title": "Woman's body found at NSW property - 9News",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LjluZXdzLmNvbS5hdS92aWRlb3MvbmF0aW9uYWwvd29tYW5zLWJvZHktZm91bmQtYXQtbnN3LXByb3BlcnR5L2Nsc2NiNG04MTAwMDgwaXFmcXBmdmJvNGvSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 07 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.9news.com.au",
+        "source_name": "9News"
+    },
+    {
+        "title": "Tweed Heads man accused of assaulting 82-year-old - Echonetdaily",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmVjaG8ubmV0LmF1LzIwMjQvMDIvdHdlZWQtaGVhZHMtbWFuLWFjY3VzZWQtb2YtYXNzYXVsdGluZy04Mi15ZWFyLW9sZC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 05 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.echo.net.au",
+        "source_name": "Echonetdaily"
+    }
+]
