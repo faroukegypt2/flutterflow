@@ -9,15 +9,19 @@
             },
             {
                 "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvbnN3LW5ld3MtY29tbXV0ZXItdHJhaW4taGl0cy1jYXItcmFpbHl3YXktY3Jvc3Npbmctd295LXdveS1jZW50cmFsLWNvYXN0L2IwMmE1MjhlLWIxYzItNGJlNy05YTFjLTNiNjM3YTkzYWY0ZdIBAA?oc=5",
-                "text": "Rail chaos after commuter train hits car on rail tracks at Woy Woy"
+                "text": "NSW news: Commuter train hits car at Woy Woy railway crossing"
             },
             {
                 "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRoZWFnZS5jb20uYXUvbmF0aW9uYWwvZHJpdmVyLWVzY2FwZXMtYmVmb3JlLXRyYWluLWNyaXBwbGVzLWNhci1vbi1jZW50cmFsLWNvYXN0LTIwMjQwNDIwLXA1ZmxiNi5odG1s0gEA?oc=5",
                 "text": "Driver escapes before train cripples car on Central Coast"
             },
             {
-                "url": "https://news.google.com/rss/articles/CBMixwFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9jZW50cmFsLWNvYXN0LWNvbW11dGVycy1oaXQtd2l0aC1sZW5ndGh5LWRlbGF5cy1hZnRlci1jYXItc3RydWNrLWFuZC1kcmFnZ2VkLW9uLXJhaWx3YXktdHJhY2stYnktdHJhaW4tYXQtd295LXdveS9uZXdzLXN0b3J5Lzc1MzhkNjViNTFkMTlmMTEwN2NiNTMyYjc0M2Y5MjQw0gEA?oc=5",
-                "text": "Central Coast commuters hit with lengthy delays after car struck and dragged on railway line by train at Woy Woy"
+                "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5ODI5Ni9wYXNzZW5nZXItdHJhaW4tY29sbGlkZXMtd2l0aC1jYXItYXQtd295LXdveS1sZXZlbC1jcm9zc2luZy_SAQA?oc=5",
+                "text": "Passenger train collides with car at Woy Woy level crossing"
+            },
+            {
+                "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm50bmV3cy5jb20uYXUvbmV3cy9uYXRpb25hbC9hLXBhc3Nlbmdlci10cmFpbi1jcmFzaGVzLWludG8tYS1jYXIvdmlkZW8vNTI5NzEwYWZiN2FhYzgzOTg2Y2YyMzI4MDhhZjA3YWLSAQA?oc=5",
+                "text": "A passenger train crashes into a car"
             }
         ],
         "pub_date": "Fri, 19 Apr 2024 23:19:41 GMT",
@@ -33,12 +37,12 @@
         "source_name": "NRL.COM"
     },
     {
-        "title": "Central Coast beekeeper bouncing back with new technology \u2013 NBN News - nbnnews.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDQvMTcvY2VudHJhbC1jb2FzdC1iZWVrZWVwZXItYm91bmNpbmctYmFjay13aXRoLW5ldy10ZWNobm9sb2d5L9IBAA?oc=5",
+        "title": "Denton Cup: NRL stars light up Central Coast derby - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3Nwb3J0L3J1Z2J5LWxlYWd1ZS1jZW50cmFsLWNvYXN0LXNpZGVzLWNsYXNoLWluLWRlbnRvbi1lbmdpbmVlcmluZy1jdXAvbmV3cy1zdG9yeS83MzIyMjQ1NzE3Mzg2MzQ4OTc1ZTZjZTRiZDgxNjA0ZdIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 17 Apr 2024 05:59:56 GMT",
-        "source_url": "https://www.nbnnews.com.au",
-        "source_name": "nbnnews.com.au"
+        "pub_date": "Sun, 21 Apr 2024 03:09:31 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
     },
     {
         "title": "Drunk driver\u2019s shocking admission after boy killed in Central Coast crash - 7NEWS",
@@ -49,12 +53,52 @@
         "source_name": "7NEWS"
     },
     {
+        "title": "Central Coast beekeeper bouncing back with new technology \u2013 NBN News - nbnnews.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDQvMTcvY2VudHJhbC1jb2FzdC1iZWVrZWVwZXItYm91bmNpbmctYmFjay13aXRoLW5ldy10ZWNobm9sb2d5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 17 Apr 2024 05:59:56 GMT",
+        "source_url": "https://www.nbnnews.com.au",
+        "source_name": "nbnnews.com.au"
+    },
+    {
+        "title": "Familiar foe returns to haunt Central Coast - NPL Men's NSW - NPL NSW Men's",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbWVucy5ucGxuc3cuY29tLmF1LzIwMjQvMDQvMDcvZmFtaWxpYXItZm9lLXJldHVybnMtdG8taGF1bnQtY2VudHJhbC1jb2FzdC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 07 Apr 2024 08:40:07 GMT",
+        "source_url": "https://mens.nplnsw.com.au",
+        "source_name": "NPL NSW Men's"
+    },
+    {
         "title": "Celebrate the Coast's hinterlands at Harvest Festival - Central Coast Council",
         "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL2NlbGVicmF0ZS1jb2FzdHMtaGludGVybGFuZHMtaGFydmVzdC1mZXN0aXZhbNIBAA?oc=5",
         "description": [],
         "pub_date": "Wed, 10 Apr 2024 05:28:10 GMT",
         "source_url": "https://www.centralcoast.nsw.gov.au",
         "source_name": "Central Coast Council"
+    },
+    {
+        "title": "Police seek help to locate missing Indigenous man on New South Wales Central Coast - National Indigenous Times",
+        "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbml0LmNvbS5hdS8wMS0wNC0yMDI0LzEwNTY3L3BvbGljZS1zZWVrLWhlbHAtdG8tbG9jYXRlLW1pc3NpbmctaW5kaWdlbm91cy1tYW4tb24tbmV3LXNvdXRoLXdhbGVzLWNlbnRyYWwtY29hc3TSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 01 Apr 2024 07:00:00 GMT",
+        "source_url": "https://nit.com.au",
+        "source_name": "National Indigenous Times"
+    },
+    {
+        "title": "Survey to reveal what brings leisure to life on the Coast - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL3N1cnZleS1yZXZlYWwtd2hhdC1icmluZ3MtbGVpc3VyZS1saWZlLWNvYXN00gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 08 Apr 2024 07:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
+    },
+    {
+        "title": "Elderly man found dead at Central Coast beach - Sky News Australia",
+        "link": "https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9lbGRlcmx5LW1hbi1jb25maXJtZWQtZGVhZC1hZnRlci1iZWluZy1mb3VuZC11bnJlc3BvbnNpdmUtaW4td2F0ZXItYXQtbm9yYWgtaGVhZC1iZWFjaC1vbi1uc3ctY2VudHJhbC1jb2FzdC9uZXdzLXN0b3J5L2ZjODkzYjFiMmM2MTBiMjI2YjA5NDc4NWM3YWVkNzE10gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 13 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.skynews.com.au",
+        "source_name": "Sky News Australia"
     },
     {
         "title": "Boost in Central Coast business confidence despite cost crunch \u2013 NBN News - nbnnews.com.au",
@@ -73,14 +117,6 @@
         "source_name": "Central Coast Council"
     },
     {
-        "title": "Elderly man found dead at Central Coast beach - Sky News Australia",
-        "link": "https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9lbGRlcmx5LW1hbi1jb25maXJtZWQtZGVhZC1hZnRlci1iZWluZy1mb3VuZC11bnJlc3BvbnNpdmUtaW4td2F0ZXItYXQtbm9yYWgtaGVhZC1iZWFjaC1vbi1uc3ctY2VudHJhbC1jb2FzdC9uZXdzLXN0b3J5L2ZjODkzYjFiMmM2MTBiMjI2YjA5NDc4NWM3YWVkNzE10gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 13 Mar 2024 07:00:00 GMT",
-        "source_url": "https://www.skynews.com.au",
-        "source_name": "Sky News Australia"
-    },
-    {
         "title": "The largest agency on the NSW Central Coast \u2013 has rebranded to Knight Frank - Commo.",
         "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNvbW1vLmNvbS5hdS9wcm9maWxlcy8yMDI0LzAzLzA2L2xhcmdlc3QtYWdlbmN5LW5zdy1jZW50cmFsLWNvYXN0LSVFMiU4MCU5My1oYXMtcmVicmFuZGVkLWtuaWdodC1mcmFuay8xNzA5NjkxNDI50gEA?oc=5",
         "description": [],
@@ -89,12 +125,12 @@
         "source_name": "Commo."
     },
     {
-        "title": "Expression of interest \u2013 Lease Wyongah Hall - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzLWVvaS9leHByZXNzaW9uLWludGVyZXN0LWxlYXNlLXd5b25nYWgtaGFsbNIBAA?oc=5",
+        "title": "Arcare Aged Care expands NSW Central Coast \"Circle of Care\" with acquisition - The Weekly SOURCE",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnRoZXdlZWtseXNvdXJjZS5jb20uYXUvcHJpdmF0ZS9hcmNhcmUtYWdlZC1jYXJlLWV4cGFuZHMtY2VudHJhbC1jb2FzdC1jaXJjbGUtb2YtY2FyZS13aXRoLXRoZS1vcmNoYXJkcy1hY3F1aXNpdGlvbtIBhAFodHRwczovL3d3dy50aGV3ZWVrbHlzb3VyY2UuY29tLmF1L3ByaXZhdGUvYXJjYXJlLWFnZWQtY2FyZS1leHBhbmRzLWNlbnRyYWwtY29hc3QtY2lyY2xlLW9mLWNhcmUtd2l0aC10aGUtb3JjaGFyZHMtYWNxdWlzaXRpb24_YW1wPTE?oc=5",
         "description": [],
-        "pub_date": "Tue, 02 Apr 2024 07:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
+        "pub_date": "Fri, 01 Mar 2024 08:00:00 GMT",
+        "source_url": "https://www.theweeklysource.com.au",
+        "source_name": "The Weekly SOURCE"
     },
     {
         "title": "Waratah Super Battery set to provide Central Coast residents with energy security \u2013 NBN News - nbnnews.com.au",
@@ -103,6 +139,14 @@
         "pub_date": "Mon, 11 Mar 2024 07:00:00 GMT",
         "source_url": "https://www.nbnnews.com.au",
         "source_name": "nbnnews.com.au"
+    },
+    {
+        "title": "Expression of interest \u2013 Lease Wyongah Hall - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzLWVvaS9leHByZXNzaW9uLWludGVyZXN0LWxlYXNlLXd5b25nYWgtaGFsbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 02 Apr 2024 07:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
     },
     {
         "title": "This humble Aussie town gives you a taste of the Med - Escape",
@@ -121,20 +165,28 @@
         "source_name": "9News"
     },
     {
-        "title": "Neighbour Day this Sunday - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL25laWdoYm91ci1kYXktc3VuZGF50gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Mar 2024 07:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
         "title": "Seven teenagers charged over alleged police pursuit of stolen luxury cars on NSW Central Coast - ABC News",
         "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTAyLTEyL3RlZW5hZ2VyLWFsbGVnZWQtY2FyLXB1cnN1aXQtbnN3LWNlbnRyYWwtY29hc3QtcG9saWNlLW5zdy8xMDM0NTUzNzDSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAzNDU1Mzcw?oc=5",
         "description": [],
         "pub_date": "Sun, 11 Feb 2024 08:00:00 GMT",
         "source_url": "https://www.abc.net.au",
         "source_name": "ABC News"
+    },
+    {
+        "title": "Future of Central Coast Mariners AFC Cup campaign on the line \u2013 NBN News - nbnnews.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDIvMTMvZnV0dXJlLW9mLWNlbnRyYWwtY29hc3QtbWFyaW5lcnMtYWZjLWN1cC1jYW1wYWlnbi1vbi10aGUtbGluZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 13 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.nbnnews.com.au",
+        "source_name": "nbnnews.com.au"
+    },
+    {
+        "title": "Neighbour Day this Sunday - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL25laWdoYm91ci1kYXktc3VuZGF50gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
     },
     {
         "title": "Bulk billing on the rise for the Central Coast thanks to Albanese Government - Department of Health",
@@ -161,20 +213,28 @@
         "source_name": "Escape"
     },
     {
-        "title": "Administrator's message \u2013 Wishing the Central Coast community a happy and safe Easter long weekend - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jZW50cmFsY29hc3QubnN3Lmdvdi5hdS9jb3VuY2lsL2FkbWluaXN0cmF0b3JzLW1lc3NhZ2UvYWRtaW5pc3RyYXRvcnMtbWVzc2FnZS13aXNoaW5nLWNlbnRyYWwtY29hc3QtY29tbXVuaXR5LWhhcHB5LWFuZNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 26 Mar 2024 07:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
         "title": "Ad mogul John Singleton's plans for new motel on the Central Coast - realcommercial.com.au",
         "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJlYWxjb21tZXJjaWFsLmNvbS5hdS9uZXdzL2FkLW1vZ3VsLWpvaG4tc2luZ2xldG9ucy1wbGFucy1mb3ItbmV3LW1vdGVsLW9uLXRoZS1jZW50cmFsLWNvYXN00gEA?oc=5",
         "description": [],
         "pub_date": "Mon, 01 Jan 2024 08:00:00 GMT",
         "source_url": "https://www.realcommercial.com.au",
         "source_name": "realcommercial.com.au"
+    },
+    {
+        "title": "Heavy rain threat for Sydney, Illawarra, Central Coast on Monday - Weatherzone",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LndlYXRoZXJ6b25lLmNvbS5hdS9uZXdzL2hlYXZ5LXJhaW4tdGhyZWF0LWZvci1zeWRuZXktaWxsYXdhcnJhLWNlbnRyYWwtY29hc3Qtb24tbW9uZGF5LS8xNzM3NzI30gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 13 Jan 2024 08:00:00 GMT",
+        "source_url": "https://www.weatherzone.com.au",
+        "source_name": "Weatherzone"
+    },
+    {
+        "title": "New Fire and Rescue tanker to protect Central Coast - Umina - Fire and Rescue NSW",
+        "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmZpcmUubnN3Lmdvdi5hdS9pbmNpZGVudC5waHA_cmVjb3JkPXJlY2RyOUFnVXlwUkZRRkZ20gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 19 Mar 2024 07:00:00 GMT",
+        "source_url": "https://www.fire.nsw.gov.au",
+        "source_name": "Fire and Rescue NSW"
     },
     {
         "title": "Suburb picks for 2024: Central Coast NSW growth hotspots - Savings.com.au",
@@ -185,10 +245,42 @@
         "source_name": "Savings.com.au"
     },
     {
+        "title": "New plans to kick plastic pollution to the kerb \u2013 NBN News - nbnnews.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDEvMDIvbmV3LXBsYW5zLXRvLWtpY2stcGxhc3RpYy1wb2xsdXRpb24tdG8tdGhlLWtlcmIv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 02 Jan 2024 08:00:00 GMT",
+        "source_url": "https://www.nbnnews.com.au",
+        "source_name": "nbnnews.com.au"
+    },
+    {
         "title": "Father dies, son rescued at Ettalong Beach on NSW Central Coast - 9News",
         "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvZXR0YWxvbmctYmVhY2gtbWFuLWRyb3ducy15b3VuZy1ib3ktcmVzY3VlZC1uc3ctY2VudHJhbC1jb2FzdC8xN2RhMWYxNi1iODNmLTRkNTItYjUyNC0yZTdmOTE5MGNiNTnSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS8xN2RhMWYxNi1iODNmLTRkNTItYjUyNC0yZTdmOTE5MGNiNTk?oc=5",
         "description": [],
         "pub_date": "Sat, 06 Jan 2024 08:00:00 GMT",
+        "source_url": "https://www.9news.com.au",
+        "source_name": "9News"
+    },
+    {
+        "title": "Surf Life Saving Central Coast Infront Surf Slam - Surf Life Saving NSW",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnN1cmZsaWZlc2F2aW5nLmNvbS5hdS9ldmVudC9zdXJmLWxpZmUtc2F2aW5nLWNlbnRyYWwtY29hc3QtaW5mcm9udC1zdXJmLXNsYW0v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 09 Dec 2023 08:00:00 GMT",
+        "source_url": "https://www.surflifesaving.com.au",
+        "source_name": "Surf Life Saving NSW"
+    },
+    {
+        "title": "Agent admits Central Coast home for sale is the 'worst by a long shot' - Domain News",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRvbWFpbi5jb20uYXUvbmV3cy9hZ2VudC1hZG1pdHMtY2VudHJhbC1jb2FzdC1ob21lLWZvci1zYWxlLWlzLXRoZS13b3JzdC1ieS1hLWxvbmctc2hvdC0xMjUyNTE5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 03 Dec 2023 08:00:00 GMT",
+        "source_url": "https://www.domain.com.au",
+        "source_name": "Domain News"
+    },
+    {
+        "title": "Desperate search for twins missing from New South Wales' Central Coast - 9News",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LjluZXdzLmNvbS5hdS9uYXRpb25hbC9kZXNwZXJhdGUtc2VhcmNoLWZvci10d2luLXNpYmxpbmdzLW1pc3NpbmctZnJvbS1uc3cvZTZhYzIyYjUtOTE5Mi00YjhkLWIwMzEtNTYwYjEyZGFjMjA30gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvZTZhYzIyYjUtOTE5Mi00YjhkLWIwMzEtNTYwYjEyZGFjMjA3?oc=5",
+        "description": [],
+        "pub_date": "Wed, 20 Dec 2023 08:00:00 GMT",
         "source_url": "https://www.9news.com.au",
         "source_name": "9News"
     },
@@ -201,36 +293,12 @@
         "source_name": "news.com.au"
     },
     {
-        "title": "Surf Life Saving Central Coast Infront Surf Slam - Surf Life Saving NSW",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnN1cmZsaWZlc2F2aW5nLmNvbS5hdS9ldmVudC9zdXJmLWxpZmUtc2F2aW5nLWNlbnRyYWwtY29hc3QtaW5mcm9udC1zdXJmLXNsYW0v0gEA?oc=5",
+        "title": "It's Chemical CleanOut time in March 2024 | Central Coast Council - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL2l0cy1jaGVtaWNhbC1jbGVhbm91dC10aW1lLW1hcmNoLTIwMjTSAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 09 Dec 2023 08:00:00 GMT",
-        "source_url": "https://www.surflifesaving.com.au",
-        "source_name": "Surf Life Saving NSW"
-    },
-    {
-        "title": "New Fire and Rescue tanker to protect Central Coast - Umina - Fire and Rescue NSW",
-        "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmZpcmUubnN3Lmdvdi5hdS9pbmNpZGVudC5waHA_cmVjb3JkPXJlY2RyOUFnVXlwUkZRRkZ20gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 19 Mar 2024 07:00:00 GMT",
-        "source_url": "https://www.fire.nsw.gov.au",
-        "source_name": "Fire and Rescue NSW"
-    },
-    {
-        "title": "Desperate search for twins missing from New South Wales' Central Coast - 9News",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LjluZXdzLmNvbS5hdS9uYXRpb25hbC9kZXNwZXJhdGUtc2VhcmNoLWZvci10d2luLXNpYmxpbmdzLW1pc3NpbmctZnJvbS1uc3cvZTZhYzIyYjUtOTE5Mi00YjhkLWIwMzEtNTYwYjEyZGFjMjA30gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvZTZhYzIyYjUtOTE5Mi00YjhkLWIwMzEtNTYwYjEyZGFjMjA3?oc=5",
-        "description": [],
-        "pub_date": "Wed, 20 Dec 2023 08:00:00 GMT",
-        "source_url": "https://www.9news.com.au",
-        "source_name": "9News"
-    },
-    {
-        "title": "Agent admits Central Coast home for sale is the 'worst by a long shot' - Domain News",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRvbWFpbi5jb20uYXUvbmV3cy9hZ2VudC1hZG1pdHMtY2VudHJhbC1jb2FzdC1ob21lLWZvci1zYWxlLWlzLXRoZS13b3JzdC1ieS1hLWxvbmctc2hvdC0xMjUyNTE5L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 03 Dec 2023 08:00:00 GMT",
-        "source_url": "https://www.domain.com.au",
-        "source_name": "Domain News"
+        "pub_date": "Mon, 26 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
     },
     {
         "title": "Two swimmers die in Central Coast beach incidents on Christmas Day - Sky News Australia",
@@ -249,22 +317,6 @@
         "source_name": "9News"
     },
     {
-        "title": "Medicare Urgent Care Clinic opens on Central Coast - Department of Health",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmhlYWx0aC5nb3YuYXUvbWluaXN0ZXJzL3RoZS1ob24tbWFyay1idXRsZXItbXAvbWVkaWEvbWVkaWNhcmUtdXJnZW50LWNhcmUtY2xpbmljLW9wZW5zLW9uLWNlbnRyYWwtY29hc3TSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 20 Nov 2023 08:00:00 GMT",
-        "source_url": "https://www.health.gov.au",
-        "source_name": "Department of Health"
-    },
-    {
-        "title": "It's Chemical CleanOut time in March 2024 | Central Coast Council - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL2l0cy1jaGVtaWNhbC1jbGVhbm91dC10aW1lLW1hcmNoLTIwMjTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 26 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
         "title": "The rise of luxury apartments in Gosford on the NSW central coast - Domain News",
         "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRvbWFpbi5jb20uYXUvbmV3cy90aGUtcmlzZS1vZi1sdXh1cnktYXBhcnRtZW50cy1pbi1nb3Nmb3JkLW9uLXRoZS1uc3ctY2VudHJhbC1jb2FzdC0yLTEyNTExNTYv0gEA?oc=5",
         "description": [],
@@ -273,12 +325,20 @@
         "source_name": "Domain News"
     },
     {
-        "title": "Calls for better education after sacred Aboriginal cultural sites vandalised on NSW Central Coast - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTExLTA2L2Fib3JpZ2luYWwtc2FjcmVkLXNpdGVzLXZhbmRhbGlzZWQtbnN3LWNlbnRyYWwtY29hc3QtZWR1Y2F0aW9uLzEwMzAzOTUzNtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDMwMzk1MzY?oc=5",
+        "title": "Medicare Urgent Care Clinic opens on Central Coast - Department of Health",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmhlYWx0aC5nb3YuYXUvbWluaXN0ZXJzL3RoZS1ob24tbWFyay1idXRsZXItbXAvbWVkaWEvbWVkaWNhcmUtdXJnZW50LWNhcmUtY2xpbmljLW9wZW5zLW9uLWNlbnRyYWwtY29hc3TSAQA?oc=5",
         "description": [],
-        "pub_date": "Sun, 05 Nov 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
+        "pub_date": "Mon, 20 Nov 2023 08:00:00 GMT",
+        "source_url": "https://www.health.gov.au",
+        "source_name": "Department of Health"
+    },
+    {
+        "title": "Central Coast receives first community battery - Energy Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmVuZXJneW1hZ2F6aW5lLmNvbS5hdS9jZW50cmFsLWNvYXN0LXJlY2VpdmVzLWZpcnN0LWNvbW11bml0eS1iYXR0ZXJ5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 08 Nov 2023 08:00:00 GMT",
+        "source_url": "https://www.energymagazine.com.au",
+        "source_name": "Energy Magazine"
     },
     {
         "title": "The Way of the Water - NSW Central Coast - Australian Geographic",
@@ -289,12 +349,36 @@
         "source_name": "Australian Geographic"
     },
     {
+        "title": "Administrator\u2019s message \u2013 Council undertakes pre-emptive works on The Entrance Channel - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jZW50cmFsY29hc3QubnN3Lmdvdi5hdS9jb3VuY2lsL2FkbWluaXN0cmF0b3JzLW1lc3NhZ2UvYWRtaW5pc3RyYXRvcnMtbWVzc2FnZS1jb3VuY2lsLXVuZGVydGFrZXMtcHJlLWVtcHRpdmUtd29ya3MtZW50cmFuY2XSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 13 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
+    },
+    {
+        "title": "Calls for better education after sacred Aboriginal cultural sites vandalised on NSW Central Coast - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTExLTA2L2Fib3JpZ2luYWwtc2FjcmVkLXNpdGVzLXZhbmRhbGlzZWQtbnN3LWNlbnRyYWwtY29hc3QtZWR1Y2F0aW9uLzEwMzAzOTUzNtIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDMwMzk1MzY?oc=5",
+        "description": [],
+        "pub_date": "Sun, 05 Nov 2023 07:00:00 GMT",
+        "source_url": "https://www.abc.net.au",
+        "source_name": "ABC News"
+    },
+    {
         "title": "Radio interview with Assistant Minister McBride and Scott Levi, ABC Central Coast - 26 October 2023 - Department of Health",
         "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5oZWFsdGguZ292LmF1L21pbmlzdGVycy90aGUtaG9uLWVtbWEtbWNicmlkZS1tcC9tZWRpYS9yYWRpby1pbnRlcnZpZXctd2l0aC1hc3Npc3RhbnQtbWluaXN0ZXItbWNicmlkZS1hbmQtc2NvdHQtbGV2aS1hYmMtY2VudHJhbC1jb2FzdC0yNi1vY3RvYmVyLTIwMjPSAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 26 Oct 2023 07:00:00 GMT",
         "source_url": "https://www.health.gov.au",
         "source_name": "Department of Health"
+    },
+    {
+        "title": "Australian music producer Tim Dalton lists Central Coast home - realestate.com.au - realestate.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3MvYXVzdHJhbGlhbi1tdXNpYy1wcm9kdWNlci10aW0tZGFsdG9uLWxpc3RzLWNlbnRyYWwtY29hc3QtaG9tZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 18 Oct 2023 07:00:00 GMT",
+        "source_url": "https://www.realestate.com.au",
+        "source_name": "realestate.com.au"
     },
     {
         "title": "Man in custody after body found with stab wounds in vehicle at Umina Beach on NSW Central Coast - ABC News",
@@ -305,6 +389,14 @@
         "source_name": "ABC News"
     },
     {
+        "title": "NSW Rural Fire Service warns smoke from hazard reduction burns may continue for Sydney and Central Coast until mid-week - Sky News Australia",
+        "link": "https://news.google.com/rss/articles/CBMizAFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9uc3ctcnVyYWwtZmlyZS1zZXJ2aWNlLXdhcm5zLXNtb2tlLWZyb20taGF6YXJkLXJlZHVjdGlvbi1idXJucy1tYXktY29udGludWUtZm9yLXN5ZG5leS1hbmQtY2VudHJhbC1jb2FzdC11bnRpbC1taWR3ZWVrL25ld3Mtc3RvcnkvMWQ1Yjc4ZmM2MWE0NDA0ZjEwOWFmZTFhY2E5NWNhZmbSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 11 Sep 2023 07:00:00 GMT",
+        "source_url": "https://www.skynews.com.au",
+        "source_name": "Sky News Australia"
+    },
+    {
         "title": "Petrol prices set to soar \u2013 NBN News - nbnnews.com.au",
         "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjMvMDgvMTEvcGV0cm9sLXByaWNlcy1zZXQtdG8tc29hci_SAQA?oc=5",
         "description": [],
@@ -313,36 +405,36 @@
         "source_name": "nbnnews.com.au"
     },
     {
+        "title": "Providers selected for Central Coast Medicare Urgent Care Clinics - Department of Health",
+        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5oZWFsdGguZ292LmF1L21pbmlzdGVycy90aGUtaG9uLW1hcmstYnV0bGVyLW1wL21lZGlhL3Byb3ZpZGVycy1zZWxlY3RlZC1mb3ItY2VudHJhbC1jb2FzdC1tZWRpY2FyZS11cmdlbnQtY2FyZS1jbGluaWNz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 27 Sep 2023 07:00:00 GMT",
+        "source_url": "https://www.health.gov.au",
+        "source_name": "Department of Health"
+    },
+    {
+        "title": "Thousands gather on NSW Central Coast for 51st Koori Knockout to showcase Indigenous rugby talent - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA5LTI5L3Rob3VzYW5kcy1nYXRoZXItZm9yLTUxc3Qta29vcmkta25vY2tvdXQtaW4tbnN3LWNlbnRyYWwtY29hc3QvMTAyOTE2ODAy0gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjkxNjgwMg?oc=5",
+        "description": [],
+        "pub_date": "Thu, 28 Sep 2023 07:00:00 GMT",
+        "source_url": "https://www.abc.net.au",
+        "source_name": "ABC News"
+    },
+    {
+        "title": "10 playspace renewals scheduled for the Coast - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzLzEwLXBsYXlzcGFjZS1yZW5ld2Fscy1zY2hlZHVsZWQtY29hc3TSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 12 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
+    },
+    {
         "title": "CDC NSW celebrates new Central Coast joint venture | News - Australasian Bus and Coach",
         "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmJ1c25ld3MuY29tLmF1L2NkYy1uc3ctY2VsZWJyYXRlcy1uZXctY2VudHJhbC1jb2FzdC1qb2ludC12ZW50dXJl0gEA?oc=5",
         "description": [],
         "pub_date": "Fri, 04 Aug 2023 07:00:00 GMT",
         "source_url": "https://www.busnews.com.au",
         "source_name": "Australasian Bus and Coach"
-    },
-    {
-        "title": "Administrator\u2019s message \u2013 Council undertakes pre-emptive works on The Entrance Channel - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jZW50cmFsY29hc3QubnN3Lmdvdi5hdS9jb3VuY2lsL2FkbWluaXN0cmF0b3JzLW1lc3NhZ2UvYWRtaW5pc3RyYXRvcnMtbWVzc2FnZS1jb3VuY2lsLXVuZGVydGFrZXMtcHJlLWVtcHRpdmUtd29ya3MtZW50cmFuY2XSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 13 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
-        "title": "Healthe-Care's Tuggerah Lakes Private Hospital in Kanwal on NSW Central Coast to close - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTEwLTI0L3R1Z2dlcmFoLXByaXZhdGUtaG9zcGl0YWwtY2xvc3VyZS1rYW53YWwtY2VudHJhbC1jb2FzdC8xMDMwMTMyNjDSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAzMDEzMjYw?oc=5",
-        "description": [],
-        "pub_date": "Mon, 23 Oct 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "NAGI Golf Day A Standout Success On Central Coast - Golf NSW",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmdvbGZuc3cub3JnLmF1L25ld3MvMjAyMy8wNy8yNS82MTU4OS9uYWdpLWdvbGYtZGF5LWEtc3RhbmRvdXQtc3VjY2Vzcy1vbi1jZW50cmFsLWNvYXN0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 25 Jul 2023 07:00:00 GMT",
-        "source_url": "https://www.golfnsw.org.au",
-        "source_name": "Golf NSW"
     },
     {
         "title": "Wind farms to be built in NSW Hunter and Central Coast regions despite community backlash - Sky News Australia",
@@ -361,6 +453,22 @@
         "source_name": "9News"
     },
     {
+        "title": "Healthe-Care's Tuggerah Lakes Private Hospital in Kanwal on NSW Central Coast to close - ABC News",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTEwLTI0L3R1Z2dlcmFoLXByaXZhdGUtaG9zcGl0YWwtY2xvc3VyZS1rYW53YWwtY2VudHJhbC1jb2FzdC8xMDMwMTMyNjDSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAzMDEzMjYw?oc=5",
+        "description": [],
+        "pub_date": "Mon, 23 Oct 2023 07:00:00 GMT",
+        "source_url": "https://www.abc.net.au",
+        "source_name": "ABC News"
+    },
+    {
+        "title": "NAGI Golf Day A Standout Success On Central Coast - Golf NSW",
+        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmdvbGZuc3cub3JnLmF1L25ld3MvMjAyMy8wNy8yNS82MTU4OS9uYWdpLWdvbGYtZGF5LWEtc3RhbmRvdXQtc3VjY2Vzcy1vbi1jZW50cmFsLWNvYXN0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 25 Jul 2023 07:00:00 GMT",
+        "source_url": "https://www.golfnsw.org.au",
+        "source_name": "Golf NSW"
+    },
+    {
         "title": "Moussaka Croissants, Confit Octopus and Cheeseburger Pizza: Where To Eat, Drink, Repeat on the NSW Central Coast - Broadsheet",
         "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9zeWRuZXkvZm9vZC1hbmQtZHJpbmsvYXJ0aWNsZS9tb3Vzc2FrYS1jcm9pc3NhbnRzLWNvbmZpdC1vY3RvcHVzLWFuZC1jaGVlc2J1cmdlci1waXp6YS13aGVyZS1lYXQtZHJpbmstcmVwZWF0LW5zdy1jZW50cmFsLWNvYXN00gEA?oc=5",
         "description": [],
@@ -369,36 +477,12 @@
         "source_name": "Broadsheet"
     },
     {
-        "title": "Thousands gather on NSW Central Coast for 51st Koori Knockout to showcase Indigenous rugby talent - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA5LTI5L3Rob3VzYW5kcy1nYXRoZXItZm9yLTUxc3Qta29vcmkta25vY2tvdXQtaW4tbnN3LWNlbnRyYWwtY29hc3QvMTAyOTE2ODAy0gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjkxNjgwMg?oc=5",
-        "description": [],
-        "pub_date": "Thu, 28 Sep 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "Providers selected for Central Coast Medicare Urgent Care Clinics - Department of Health",
-        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5oZWFsdGguZ292LmF1L21pbmlzdGVycy90aGUtaG9uLW1hcmstYnV0bGVyLW1wL21lZGlhL3Byb3ZpZGVycy1zZWxlY3RlZC1mb3ItY2VudHJhbC1jb2FzdC1tZWRpY2FyZS11cmdlbnQtY2FyZS1jbGluaWNz0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 27 Sep 2023 07:00:00 GMT",
-        "source_url": "https://www.health.gov.au",
-        "source_name": "Department of Health"
-    },
-    {
         "title": "Broadcaster Ray Hadley buys new Central Coast weekender - realestate.com.au - realestate.com.au",
         "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3MvYnJvYWRjYXN0ZXItcmF5LWhhZGxleS1idXlzLW5ldy1jZW50cmFsLWNvYXN0LXdlZWtlbmRlci_SAQA?oc=5",
         "description": [],
         "pub_date": "Fri, 16 Jun 2023 07:00:00 GMT",
         "source_url": "https://www.realestate.com.au",
         "source_name": "realestate.com.au"
-    },
-    {
-        "title": "10 playspace renewals scheduled for the Coast - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzLzEwLXBsYXlzcGFjZS1yZW5ld2Fscy1zY2hlZHVsZWQtY29hc3TSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 12 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
     },
     {
         "title": "NSW Central Coast Club and Pariter partner to develop retirement living precinct - The Weekly SOURCE",
@@ -415,6 +499,14 @@
         "pub_date": "Fri, 26 May 2023 07:00:00 GMT",
         "source_url": "https://www.9news.com.au",
         "source_name": "9News"
+    },
+    {
+        "title": "The Men\u2019s Table launches in Doyalson - Central Coast Council",
+        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL21lbnMtdGFibGUtbGF1bmNoZXMtZG95YWxzb27SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 13 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.centralcoast.nsw.gov.au",
+        "source_name": "Central Coast Council"
     },
     {
         "title": "NSW Central Coast historian leads battle for Gosford Cenotaph state heritage protection - ABC News",
@@ -441,28 +533,20 @@
         "source_name": "nbnnews.com.au"
     },
     {
+        "title": "Raptis buys Central Coast shopping centre - realestatesource.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnJlYWxlc3RhdGVzb3VyY2UuY29tLmF1L3JhcHRpcy1idXlzLWNlbnRyYWwtY29hc3Qtc2hvcHBpbmctY2VudHJlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 May 2023 07:00:00 GMT",
+        "source_url": "https://www.realestatesource.com.au",
+        "source_name": "realestatesource.com.au"
+    },
+    {
         "title": "Sydney vs Central Coast: Finding value for money - realestate.com.au - realestate.com.au",
         "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3Mvc3lkbmV5LXZzLWNlbnRyYWwtY29hc3QtZmluZGluZy12YWx1ZS1mb3ItbW9uZXkv0gEA?oc=5",
         "description": [],
         "pub_date": "Fri, 05 May 2023 07:00:00 GMT",
         "source_url": "https://www.realestate.com.au",
         "source_name": "realestate.com.au"
-    },
-    {
-        "title": "Tickets for Round 16 Central Coast Clash on Sale Now! - Sydney Roosters",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJvb3N0ZXJzLmNvbS5hdS9uZXdzLzIwMjQvMDIvMDcvbWVtYmVycy10aWNrZXRzLWZvci1yb3VuZC0xNi1jZW50cmFsLWNvYXN0LWNsYXNoLW9uLXNhbGUtbm93L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.roosters.com.au",
-        "source_name": "Sydney Roosters"
-    },
-    {
-        "title": "Familiar foe returns to haunt Central Coast - NPL Men's NSW - NPL NSW Men's",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbWVucy5ucGxuc3cuY29tLmF1LzIwMjQvMDQvMDcvZmFtaWxpYXItZm9lLXJldHVybnMtdG8taGF1bnQtY2VudHJhbC1jb2FzdC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 07 Apr 2024 08:40:07 GMT",
-        "source_url": "https://mens.nplnsw.com.au",
-        "source_name": "NPL NSW Men's"
     },
     {
         "title": "Captain Kyah inspires Central Coast comeback win in Perth - Central Coast Mariners",
@@ -473,12 +557,12 @@
         "source_name": "Central Coast Mariners"
     },
     {
-        "title": "The Men\u2019s Table launches in Doyalson - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL21lbnMtdGFibGUtbGF1bmNoZXMtZG95YWxzb27SAQA?oc=5",
+        "title": "Tickets for Round 16 Central Coast Clash on Sale Now! - Sydney Roosters",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJvb3N0ZXJzLmNvbS5hdS9uZXdzLzIwMjQvMDIvMDcvbWVtYmVycy10aWNrZXRzLWZvci1yb3VuZC0xNi1jZW50cmFsLWNvYXN0LWNsYXNoLW9uLXNhbGUtbm93L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 13 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
+        "pub_date": "Wed, 07 Feb 2024 08:00:00 GMT",
+        "source_url": "https://www.roosters.com.au",
+        "source_name": "Sydney Roosters"
     },
     {
         "title": "Piles of rubbish left at abandoned homeless camp 'right in the heart' of Gosford's CBD - ABC News",
@@ -487,85 +571,5 @@
         "pub_date": "Sun, 20 Aug 2023 07:00:00 GMT",
         "source_url": "https://www.abc.net.au",
         "source_name": "ABC News"
-    },
-    {
-        "title": "NSW Waratahs Expanding Regional Youth Girls Academy Program: Hunter and Central Coast to Form Third Team - NSW Waratahs",
-        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL25zdy5ydWdieS9uZXdzL25zdy13YXJhdGFocy1leHBhbmRpbmctcmVnaW9uYWwteW91dGgtZ2lybHMtYWNhZGVteS1wcm9ncmFtLWh1bnRlci1hbmQtY2VudHJhbC1jb2FzdC10by1mb3JtLXRoaXJkLXRlYW0tMjAyMzEwMjfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 26 Oct 2023 07:00:00 GMT",
-        "source_url": "https://nsw.rugby",
-        "source_name": "NSW Waratahs"
-    },
-    {
-        "title": "NSW Central Coast man on bail following Woy Woy fatal hit-and-run - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA3LTE5L3dveS13b3ktZmF0YWwtZ29zZm9yZC1uc3ctY291cnQtdGFsZW4tZ3JlZW4taGl0LWFuZC1ydW4vMTAyNjE5MzI40gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjYxOTMyOA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 18 Jul 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "Long Jetty foreshore amenity renewals - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvbG9uZy1qZXR0eS1mb3Jlc2hvcmUtYW1lbml0eS1yZW5ld2Fsc9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
-        "title": "Pop-up outreach service on NSW Central Coast brings community together for hot meal under the stars - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA2LTI5L2dvc2ZvcmQtaG9tZWxlc3MtY2hhcml0eS1wcm92aWRlcy1mb29kLXVuaXRlcy1jb21tdW5pdHkvMTAyNTI3MDc00gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjUyNzA3NA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 28 Jun 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "Entangled humpback freed off NSW Central Coast as whale migration numbers rise - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA2LTA2L3Jlc2N1ZXJzLWVudGFuZ2xlZC1odW1wYmFjay13aGFsZS1ub3JhaC1oZWFkLW5zdy1jZW50cmFsLWNvYXN0LzEwMjQ0NTM4NNIBKGh0dHBzOi8vYW1wLmFiYy5uZXQuYXUvYXJ0aWNsZS8xMDI0NDUzODQ?oc=5",
-        "description": [],
-        "pub_date": "Mon, 05 Jun 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "Works notice: safety barrier upgrade on St Huberts Island Bridge - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL3dvcmtzLW5vdGljZS1zYWZldHktYmFycmllci11cGdyYWRlLXN0LWh1YmVydHMtaXNsYW5kLWJyaWRnZdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 07 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
-        "title": "Sydney's heritage tugboat Argos hits final snag on the NSW Central Coast - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA1LTMxL2hpc3RvcmljLXN5ZG5leS10dWdib2F0LXNpbmtzLWVtcGlyZS1iYXktbnN3LWNlbnRyYWwtY29hc3QvMTAyNDA4ODcw0gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjQwODg3MA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 May 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "Umina Beach Foreshore landscape works - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL3VtaW5hLWJlYWNoLWZvcmVzaG9yZS1sYW5kc2NhcGUtd29ya3PSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 05 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
-    },
-    {
-        "title": "Metre-long freshwater crocodile found in NSW Central Coast backyard - ABC News",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA1LTAxL2Nyb2NvZGlsZS1mb3VuZC1pbi1iYWNreWFyZC1vZi1ob21lLW9uLW5zdy1jZW50cmFsLWNvYXN0LzEwMjI4NjI3MNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 30 Apr 2023 07:00:00 GMT",
-        "source_url": "https://www.abc.net.au",
-        "source_name": "ABC News"
-    },
-    {
-        "title": "Improving the drainage and irrigation at sportsfields - Central Coast Council",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNlbnRyYWxjb2FzdC5uc3cuZ292LmF1L2NvdW5jaWwvY291bmNpbC1uZXdzL2ltcHJvdmluZy1kcmFpbmFnZS1hbmQtaXJyaWdhdGlvbi1zcG9ydHNmaWVsZHPSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 01 Feb 2024 08:00:00 GMT",
-        "source_url": "https://www.centralcoast.nsw.gov.au",
-        "source_name": "Central Coast Council"
     }
 ]
