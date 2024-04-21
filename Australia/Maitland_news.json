@@ -16,22 +16,6 @@
         "source_name": "NEWFM"
     },
     {
-        "title": "Child protection 'in crisis', PSA Edgeworth protest - Newcastle Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9jaGlsZC1wcm90ZWN0aW9uLWluLWNyaXNpcy1wc2EtZWRnZXdvcnRoLXByb3Rlc3Qv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 21:00:00 GMT",
-        "source_url": "https://newcastleweekly.com.au",
-        "source_name": "Newcastle Weekly"
-    },
-    {
-        "title": "Irrawang High School students triumph at Battle of the Arts - Port Stephens Examiner",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBvcnRzdGVwaGVuc2V4YW1pbmVyLmNvbS5hdS9zdG9yeS84NTkyMTQzL2lycmF3YW5nLWhpZ2gtc2Nob29sLXN0dWRlbnRzLXRyaXVtcGgtYXQtYmF0dGxlLW9mLXRoZS1hcnRzL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 22:34:12 GMT",
-        "source_url": "https://www.portstephensexaminer.com.au",
-        "source_name": "Port Stephens Examiner"
-    },
-    {
         "title": "Innovation Ready series: Robotic Systems - Newcastle Herald",
         "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvdmlkZW8vbG9jYWwveDh4MXF3YS9pbm5vdmF0aW9uLXJlYWR5LXNlcmllcy1yb2JvdGljLXN5c3RlbXMv0gEA?oc=5",
         "description": [],
@@ -46,6 +30,22 @@
         "pub_date": "Sat, 20 Apr 2024 12:27:00 GMT",
         "source_url": "https://newcastlelive.com.au",
         "source_name": "Newcastle Live"
+    },
+    {
+        "title": "Exquisite new beachside home for family time and entertaining - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5Mzg1NC9leHF1aXNpdGUtbmV3LWJlYWNoc2lkZS1ob21lLWZvci1mYW1pbHktdGltZS1hbmQtZW50ZXJ0YWluaW5nL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 14:35:12 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
+    },
+    {
+        "title": "Newcastle leads the way with progressive urban planning, design and development - City of Newcastle",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld2Nhc3RsZS5uc3cuZ292LmF1L2Fib3V0LXVzL25ld3MtYW5kLXVwZGF0ZXMvbGF0ZXN0LW5ld3MvbmV3Y2FzdGxlLWxlYWRzLXRoZS13YXktd2l0aC1wcm9ncmVzc2l2ZS11cmJhbi1wbGFubmluZywtZGVzaWduLWFuZC1kZXZlbG9wbWVudNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 01:46:50 GMT",
+        "source_url": "https://newcastle.nsw.gov.au",
+        "source_name": "City of Newcastle"
     },
     {
         "title": "A locals guide to events and things to do in Maitland this weekend - The Maitland Mercury",
@@ -64,28 +64,12 @@
         "source_name": "Newcastle Weekly"
     },
     {
-        "title": "Exquisite new beachside home for family time and entertaining - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5Mzg1NC9leHF1aXNpdGUtbmV3LWJlYWNoc2lkZS1ob21lLWZvci1mYW1pbHktdGltZS1hbmQtZW50ZXJ0YWluaW5nL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 14:35:12 GMT",
-        "source_url": "https://www.newcastleherald.com.au",
-        "source_name": "Newcastle Herald"
-    },
-    {
         "title": "Everybody appearing at Raymond Terrace Local Court, Friday, April 19 - Daily Telegraph",
         "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtcmF5bW9uZC10ZXJyYWNlLWxvY2FsLWNvdXJ0LWZyaWRheS1hcHJpbC0xOS9uZXdzLXN0b3J5LzJkZjg4YjcxNDY4NDBkMTM3ZDZlYzNhYjA0ZWQxYzZi0gGzAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1yYXltb25kLXRlcnJhY2UtbG9jYWwtY291cnQtZnJpZGF5LWFwcmlsLTE5L25ld3Mtc3RvcnkvMmRmODhiNzE0Njg0MGQxMzdkNmVjM2FiMDRlZDFjNmI_YW1w?oc=5",
         "description": [],
         "pub_date": "Fri, 19 Apr 2024 03:45:55 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
         "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Newcastle leads the way with progressive urban planning, design and development - City of Newcastle",
-        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL25ld2Nhc3RsZS5uc3cuZ292LmF1L2Fib3V0LXVzL25ld3MtYW5kLXVwZGF0ZXMvbGF0ZXN0LW5ld3MvbmV3Y2FzdGxlLWxlYWRzLXRoZS13YXktd2l0aC1wcm9ncmVzc2l2ZS11cmJhbi1wbGFubmluZywtZGVzaWduLWFuZC1kZXZlbG9wbWVudNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 01:46:50 GMT",
-        "source_url": "https://newcastle.nsw.gov.au",
-        "source_name": "City of Newcastle"
     },
     {
         "title": "Innovation Ready series: Newy Tech People - Newcastle Herald",
@@ -96,22 +80,6 @@
         "source_name": "Newcastle Herald"
     },
     {
-        "title": "Newcastle Jets set to make history in Maitland - The Maitland Mercury",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1haXRsYW5kbWVyY3VyeS5jb20uYXUvc3RvcnkvODU5NDIyMC9uZXdjYXN0bGUtamV0cy1zZXQtdG8tbWFrZS1oaXN0b3J5LWluLW1haXRsYW5kL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 16 Apr 2024 21:31:06 GMT",
-        "source_url": "https://www.maitlandmercury.com.au",
-        "source_name": "The Maitland Mercury"
-    },
-    {
-        "title": "Alleged drug dealer faces 36 charges in Hunter arrest at Shortland - Cessnock Advertiser",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNlc3Nub2NrYWR2ZXJ0aXNlci5jb20uYXUvc3RvcnkvODU5ODg0OS9hbGxlZ2VkLWRydWctZGVhbGVyLWZhY2VzLTM2LWNoYXJnZXMtaW4taHVudGVyLWFycmVzdC1hdC1zaG9ydGxhbmQv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 20 Apr 2024 08:57:31 GMT",
-        "source_url": "https://www.cessnockadvertiser.com.au",
-        "source_name": "Cessnock Advertiser"
-    },
-    {
         "title": "Melbourne International Comedy Festival Roadshow in Newcastle - Newcastle Live",
         "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmV3Y2FzdGxlbGl2ZS5jb20uYXUvdGhlLW1lbGJvdXJuZS1pbnRlcm5hdGlvbmFsLWNvbWVkeS1mZXN0aXZhbC1yb2Fkc2hvdy1pcy1jb21pbmctdG8tbmV3Y2FzdGxlL9IBAA?oc=5",
         "description": [],
@@ -120,12 +88,28 @@
         "source_name": "Newcastle Live"
     },
     {
-        "title": "Newcastle weather: Forecast for April 21 - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2hlcmVzLXdoYXQteW91LWNhbi1leHBlY3Qtd2l0aC10b2RheXMtbmV3Y2FzdGxlLXdlYXRoZXIvbmV3cy1zdG9yeS81Njk1MDI0YWE0ZDQwYTA4MjljY2Y2ZDFjNWY0MDA1ZtIBAA?oc=5",
+        "title": "Here\u2019s what you can expect with today\u2019s Newcastle weather - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2hlcmVzLXdoYXQteW91LWNhbi1leHBlY3Qtd2l0aC10b2RheXMtbmV3Y2FzdGxlLXdlYXRoZXIvbmV3cy1zdG9yeS81Njk1MDI0YWE0ZDQwYTA4MjljY2Y2ZDFjNWY0MDA1ZtIBqAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2hlcmVzLXdoYXQteW91LWNhbi1leHBlY3Qtd2l0aC10b2RheXMtbmV3Y2FzdGxlLXdlYXRoZXIvbmV3cy1zdG9yeS81Njk1MDI0YWE0ZDQwYTA4MjljY2Y2ZDFjNWY0MDA1Zj9hbXA?oc=5",
         "description": [],
-        "pub_date": "Sat, 20 Apr 2024 14:46:30 GMT",
+        "pub_date": "Sat, 20 Apr 2024 14:47:26 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
         "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Newcastle Jets set to make history in Maitland - The Maitland Mercury",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm1haXRsYW5kbWVyY3VyeS5jb20uYXUvc3RvcnkvODU5NDIyMC9uZXdjYXN0bGUtamV0cy1zZXQtdG8tbWFrZS1oaXN0b3J5LWluLW1haXRsYW5kL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 16 Apr 2024 21:31:06 GMT",
+        "source_url": "https://www.maitlandmercury.com.au",
+        "source_name": "The Maitland Mercury"
+    },
+    {
+        "title": "Public help wanted to find young teen - NEWFM",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5ld2ZtLmNvbS5hdS8yMDI0LzA0LzIwL3B1YmxpYy1oZWxwLXdhbnRlZC10by1maW5kLXlvdS10ZWVuL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 20 Apr 2024 00:28:19 GMT",
+        "source_url": "https://www.newfm.com.au",
+        "source_name": "NEWFM"
     },
     {
         "title": "Professor Matt Dun's childhood cancer research on AML and DMG - Newcastle Herald",
@@ -144,36 +128,12 @@
         "source_name": "Newcastle Weekly"
     },
     {
-        "title": "Public help wanted to find young teen - NEWFM",
-        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5ld2ZtLmNvbS5hdS8yMDI0LzA0LzIwL3B1YmxpYy1oZWxwLXdhbnRlZC10by1maW5kLXlvdS10ZWVuL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 20 Apr 2024 00:28:19 GMT",
-        "source_url": "https://www.newfm.com.au",
-        "source_name": "NEWFM"
-    },
-    {
         "title": "Everybody appearing at Broadmeadow Local Court, Friday, April 19 - Daily Telegraph",
         "link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtYnJvYWRtZWFkb3ctbG9jYWwtY291cnQtZnJpZGF5LWFwcmlsLTE5L25ld3Mtc3RvcnkvNGMyNjQ1MTdjMTdjNDIzZGY2ZjZjNzI2ZjgxNGQzN2HSAa8BaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3Nsb2NhbC9uZXdjYXN0bGUvaHlwZXJsb2NhbC9ldmVyeWJvZHktYXBwZWFyaW5nLWF0LWJyb2FkbWVhZG93LWxvY2FsLWNvdXJ0LWZyaWRheS1hcHJpbC0xOS9uZXdzLXN0b3J5LzRjMjY0NTE3YzE3YzQyM2RmNmY2YzcyNmY4MTRkMzdhP2FtcA?oc=5",
         "description": [],
         "pub_date": "Fri, 19 Apr 2024 03:59:59 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
         "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Maitland City Council 2024-25 Operational Plan Proposal - The Maitland Mercury",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm1haXRsYW5kbWVyY3VyeS5jb20uYXUvc3RvcnkvODU5MjAyMy9tYWl0bGFuZC1jaXR5LWNvdW5jaWwtMjAyNC0yNS1vcGVyYXRpb25hbC1wbGFuLXByb3Bvc2FsL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 04:30:53 GMT",
-        "source_url": "https://www.maitlandmercury.com.au",
-        "source_name": "The Maitland Mercury"
-    },
-    {
-        "title": "Innovation Ready series: Dantia - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvdmlkZW8vbG9jYWwveDh4MXNqby9pbm5vdmF0aW9uLXJlYWR5LXNlcmllcy1kYW50aWEv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 01:17:38 GMT",
-        "source_url": "https://www.newcastleherald.com.au",
-        "source_name": "Newcastle Herald"
     },
     {
         "title": "RSV cases continue to surge \u2013 NBN News - nbnnews.com.au",
@@ -192,12 +152,36 @@
         "source_name": "Newcastle Weekly"
     },
     {
-        "title": "Check out the latest on Newcastle and Hunter roads - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL25ld2Nhc3RsZS1hbmQtaHVudGVyLXRyYWZmaWMtY3Jhc2hlcy1kZWxheXMtdXBkYXRlcy9uZXdzLXN0b3J5LzRiMTM1YzdjNzVhNmEwZmZmOTkxZWRiZmYxNmZiM2Zl0gGkAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvbmV3Y2FzdGxlLWFuZC1odW50ZXItdHJhZmZpYy1jcmFzaGVzLWRlbGF5cy11cGRhdGVzL25ld3Mtc3RvcnkvNGIxMzVjN2M3NWE2YTBmZmY5OTFlZGJmZjE2ZmIzZmU_YW1w?oc=5",
+        "title": "Alleged drug dealer faces 36 charges in Hunter arrest at Shortland - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5ODg0OS9hbGxlZ2VkLWRydWctZGVhbGVyLWZhY2VzLTM2LWNoYXJnZXMtaW4taHVudGVyLWFycmVzdC1hdC1zaG9ydGxhbmQv0gEA?oc=5",
         "description": [],
-        "pub_date": "Sat, 20 Apr 2024 14:40:10 GMT",
+        "pub_date": "Sat, 20 Apr 2024 08:18:45 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
+    },
+    {
+        "title": "Maitland City Council 2024-25 Operational Plan Proposal - The Maitland Mercury",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm1haXRsYW5kbWVyY3VyeS5jb20uYXUvc3RvcnkvODU5MjAyMy9tYWl0bGFuZC1jaXR5LWNvdW5jaWwtMjAyNC0yNS1vcGVyYXRpb25hbC1wbGFuLXByb3Bvc2FsL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 04:30:53 GMT",
+        "source_url": "https://www.maitlandmercury.com.au",
+        "source_name": "The Maitland Mercury"
+    },
+    {
+        "title": "Where to find the cheapest fuel in Newcastle - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL3doZXJlLXRvLWZpbmQtdGhlLWNoZWFwZXN0LWZ1ZWwtaW4tbmV3Y2FzdGxlL25ld3Mtc3RvcnkvZjkzM2FkYWU5NjIzMmE2YTlhN2UzYjUxNmVjM2QwNDfSAZ0BaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3Nsb2NhbC9uZXdjYXN0bGUvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLW5ld2Nhc3RsZS9uZXdzLXN0b3J5L2Y5MzNhZGFlOTYyMzJhNmE5YTdlM2I1MTZlYzNkMDQ3P2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 02:31:39 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
         "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Child protection 'in crisis', PSA Edgeworth protest - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9jaGlsZC1wcm90ZWN0aW9uLWluLWNyaXNpcy1wc2EtZWRnZXdvcnRoLXByb3Rlc3Qv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 21:00:00 GMT",
+        "source_url": "https://newcastleweekly.com.au",
+        "source_name": "Newcastle Weekly"
     },
     {
         "title": "Lochinvar Residents Meet Over Pending Post Office Closure - 2NURFM - 2NURFM",
@@ -206,6 +190,62 @@
         "pub_date": "Thu, 18 Apr 2024 00:35:56 GMT",
         "source_url": "https://www.2nurfm.com.au",
         "source_name": "2NURFM"
+    },
+    {
+        "title": "Trio debut version of 'Last Post' \u2013 NBN News - nbnnews.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDQvMTkvdHJpby1kZWJ1dC12ZXJzaW9uLW9mLWxhc3QtcG9zdC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 08:25:17 GMT",
+        "source_url": "https://www.nbnnews.com.au",
+        "source_name": "nbnnews.com.au"
+    },
+    {
+        "title": "Innovation Ready series: Dantia - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvdmlkZW8vbG9jYWwveDh4MXNqby9pbm5vdmF0aW9uLXJlYWR5LXNlcmllcy1kYW50aWEv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 01:17:38 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
+    },
+    {
+        "title": "Irrawang High School students triumph at Battle of the Arts - Port Stephens Examiner",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnBvcnRzdGVwaGVuc2V4YW1pbmVyLmNvbS5hdS9zdG9yeS84NTkyMTQzL2lycmF3YW5nLWhpZ2gtc2Nob29sLXN0dWRlbnRzLXRyaXVtcGgtYXQtYmF0dGxlLW9mLXRoZS1hcnRzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 22:34:12 GMT",
+        "source_url": "https://www.portstephensexaminer.com.au",
+        "source_name": "Port Stephens Examiner"
+    },
+    {
+        "title": "Everybody appearing at Newcastle Local Court, Monday, April 22 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtbmV3Y2FzdGxlLWxvY2FsLWNvdXJ0LW1vbmRheS1hcHJpbC0yMi9uZXdzLXN0b3J5LzZhOWM4YTM2MmEzZTg2YjRmOTBhMjkyZGY2YWIxY2Rl0gGtAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1uZXdjYXN0bGUtbG9jYWwtY291cnQtbW9uZGF5LWFwcmlsLTIyL25ld3Mtc3RvcnkvNmE5YzhhMzYyYTNlODZiNGY5MGEyOTJkZjZhYjFjZGU_YW1w?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 00:22:16 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Julie Goodwin to headline Write Here festival, Lake Mac - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9qdWxpZS1nb29kd2luLXRvLWhlYWRsaW5lLXdyaXRlLWhlcmUtZmVzdGl2YWwtbGFrZS1tYWMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 05:45:00 GMT",
+        "source_url": "https://newcastleweekly.com.au",
+        "source_name": "Newcastle Weekly"
+    },
+    {
+        "title": "Westpac helicopter rescues man from cruise ship off Newcastle - Cessnock Advertiser",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmNlc3Nub2NrYWR2ZXJ0aXNlci5jb20uYXUvc3RvcnkvODU5OTIwOS93ZXN0cGFjLWhlbGljb3B0ZXItcmVzY3Vlcy1tYW4tZnJvbS1jcnVpc2Utc2hpcC1vZmYtbmV3Y2FzdGxlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 00:28:49 GMT",
+        "source_url": "https://www.cessnockadvertiser.com.au",
+        "source_name": "Cessnock Advertiser"
+    },
+    {
+        "title": "Anzac Day services in Singleton and the surrounding districts - The Singleton Argus",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnNpbmdsZXRvbmFyZ3VzLmNvbS5hdS9zdG9yeS84NTk2MTM5L2FuemFjLWRheS1zZXJ2aWNlcy1pbi1zaW5nbGV0b24tYW5kLXRoZS1zdXJyb3VuZGluZy1kaXN0cmljdHMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 01:41:15 GMT",
+        "source_url": "https://www.singletonargus.com.au",
+        "source_name": "The Singleton Argus"
     },
     {
         "title": "New technology supports oldest of skills: listening - NSW Department of Education",
@@ -224,52 +264,12 @@
         "source_name": "Newcastle Herald"
     },
     {
-        "title": "Julie Goodwin to headline Write Here festival, Lake Mac - Newcastle Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9qdWxpZS1nb29kd2luLXRvLWhlYWRsaW5lLXdyaXRlLWhlcmUtZmVzdGl2YWwtbGFrZS1tYWMv0gEA?oc=5",
+        "title": "Check out the latest on Newcastle and Hunter roads - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL25ld2Nhc3RsZS1hbmQtaHVudGVyLXRyYWZmaWMtY3Jhc2hlcy1kZWxheXMtdXBkYXRlcy9uZXdzLXN0b3J5LzRiMTM1YzdjNzVhNmEwZmZmOTkxZWRiZmYxNmZiM2Zl0gGkAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvbmV3Y2FzdGxlLWFuZC1odW50ZXItdHJhZmZpYy1jcmFzaGVzLWRlbGF5cy11cGRhdGVzL25ld3Mtc3RvcnkvNGIxMzVjN2M3NWE2YTBmZmY5OTFlZGJmZjE2ZmIzZmU_YW1w?oc=5",
         "description": [],
-        "pub_date": "Fri, 19 Apr 2024 05:45:00 GMT",
-        "source_url": "https://newcastleweekly.com.au",
-        "source_name": "Newcastle Weekly"
-    },
-    {
-        "title": "Trio debut version of 'Last Post' \u2013 NBN News - nbnnews.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDQvMTkvdHJpby1kZWJ1dC12ZXJzaW9uLW9mLWxhc3QtcG9zdC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 08:25:17 GMT",
-        "source_url": "https://www.nbnnews.com.au",
-        "source_name": "nbnnews.com.au"
-    },
-    {
-        "title": "Everybody appearing at Newcastle Local Court, Friday, April 19 - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtbmV3Y2FzdGxlLWxvY2FsLWNvdXJ0LWZyaWRheS1hcHJpbC0xOS9uZXdzLXN0b3J5L2FkOTRmYTVmOWY5MjM0NTBhNGI3ODM2OTczZjdjZmJm0gGtAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1uZXdjYXN0bGUtbG9jYWwtY291cnQtZnJpZGF5LWFwcmlsLTE5L25ld3Mtc3RvcnkvYWQ5NGZhNWY5ZjkyMzQ1MGE0Yjc4MzY5NzNmN2NmYmY_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 04:00:03 GMT",
+        "pub_date": "Sat, 20 Apr 2024 14:40:10 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
         "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Anzac Day services in Singleton and the surrounding districts - The Singleton Argus",
-        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnNpbmdsZXRvbmFyZ3VzLmNvbS5hdS9zdG9yeS84NTk2MTM5L2FuemFjLWRheS1zZXJ2aWNlcy1pbi1zaW5nbGV0b24tYW5kLXRoZS1zdXJyb3VuZGluZy1kaXN0cmljdHMv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 01:41:15 GMT",
-        "source_url": "https://www.singletonargus.com.au",
-        "source_name": "The Singleton Argus"
-    },
-    {
-        "title": "Prime development opportunity opposite Newcastle Racecourse - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5Mzc0Ny9wcmltZS1kZXZlbG9wbWVudC1vcHBvcnR1bml0eS1vcHBvc2l0ZS1uZXdjYXN0bGUtcmFjZWNvdXJzZS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 14:35:12 GMT",
-        "source_url": "https://www.newcastleherald.com.au",
-        "source_name": "Newcastle Herald"
-    },
-    {
-        "title": "Lake Mac local takes home $200,000 prize - Newcastle Live",
-        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbmV3Y2FzdGxlbGl2ZS5jb20uYXUvbGFrZS1tYWMtbG9jYWwtdGFrZXMtaG9tZS0yMDAwMDAtcHJpemUv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 21:35:00 GMT",
-        "source_url": "https://newcastlelive.com.au",
-        "source_name": "Newcastle Live"
     },
     {
         "title": "Orchestral Pops with the Lake Macquarie Philharmonic - Newcastle Weekly",
@@ -280,20 +280,12 @@
         "source_name": "Newcastle Weekly"
     },
     {
-        "title": "Latest news, live updates from across Newcastle and the Hunter - Gloucester Advocate",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lmdsb3VjZXN0ZXJhZHZvY2F0ZS5jb20uYXUvc3RvcnkvODM5MTMyMy9yYWFmLWZseW92ZXItdG9kYXktYW5kLXdpbnRlci12aXJ1cy1hbGVydC1saXZlLXVwZGF0ZXMv0gEA?oc=5",
+        "title": "Newcastle's Little National Hotel Opens With 181 Rooms - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9uZXdjYXN0bGUvdHJhdmVsL2FydGljbGUvbm93LW9wZW4tbmV3Y2FzdGxlLXdhdGVyZnJvbnQtbGl0dGxlLW5hdGlvbmFscy10aGlyZC1jbGV2ZXJseS1kZXNpZ25lZC1ob3RlbNIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 18 Apr 2024 21:57:26 GMT",
-        "source_url": "https://www.gloucesteradvocate.com.au",
-        "source_name": "Gloucester Advocate"
-    },
-    {
-        "title": "Where to find the cheapest fuel in Newcastle - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL3doZXJlLXRvLWZpbmQtdGhlLWNoZWFwZXN0LWZ1ZWwtaW4tbmV3Y2FzdGxlL25ld3Mtc3RvcnkvZjkzM2FkYWU5NjIzMmE2YTlhN2UzYjUxNmVjM2QwNDfSAZ0BaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3Nsb2NhbC9uZXdjYXN0bGUvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLW5ld2Nhc3RsZS9uZXdzLXN0b3J5L2Y5MzNhZGFlOTYyMzJhNmE5YTdlM2I1MTZlYzNkMDQ3P2FtcA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 02:31:39 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
+        "pub_date": "Thu, 18 Apr 2024 01:03:54 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
     },
     {
         "title": "Newcastle council to Invest $140M in infrastructure projects: 2024/25 Budget Plan - Cessnock Advertiser",
@@ -304,14 +296,6 @@
         "source_name": "Cessnock Advertiser"
     },
     {
-        "title": "Alleged Drunk Driver Escapes Overturned Ute Unharmed After Crash At Cessnock - 2hd",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LjJoZC5jb20uYXUvMjAyNC8wNC8xNy9hbGxlZ2VkLWRydW5rLWRyaXZlci1lc2NhcGVzLW92ZXJ0dXJuZWQtdXRlLXVuaGFybWVkLWFmdGVyLWNyYXNoLWF0LWNlc3Nub2NrL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 17 Apr 2024 02:47:32 GMT",
-        "source_url": "https://www.2hd.com.au",
-        "source_name": "2hd"
-    },
-    {
         "title": "Tocal Road, Bolwarra Heights set for $1.9 million upgrade | Transport for NSW - Transport for NSW",
         "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnRyYW5zcG9ydC5uc3cuZ292LmF1L25ld3MtYW5kLWV2ZW50cy9tZWRpYS1yZWxlYXNlcy90b2NhbC1yb2FkLWJvbHdhcnJhLWhlaWdodHMtc2V0LWZvci0xOS1taWxsaW9uLXVwZ3JhZGXSAQA?oc=5",
         "description": [],
@@ -320,28 +304,36 @@
         "source_name": "Transport for NSW"
     },
     {
-        "title": "Innovation Ready series: Newcastle AI - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvdmlkZW8vbG9jYWwveDh4MXFndS9pbm5vdmF0aW9uLXJlYWR5LXNlcmllcy1uZXdjYXN0bGUtYWkv0gEA?oc=5",
+        "title": "Alleged Drunk Driver Escapes Overturned Ute Unharmed After Crash At Cessnock - 2hd",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LjJoZC5jb20uYXUvMjAyNC8wNC8xNy9hbGxlZ2VkLWRydW5rLWRyaXZlci1lc2NhcGVzLW92ZXJ0dXJuZWQtdXRlLXVuaGFybWVkLWFmdGVyLWNyYXNoLWF0LWNlc3Nub2NrL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 19 Apr 2024 00:37:15 GMT",
+        "pub_date": "Wed, 17 Apr 2024 02:47:32 GMT",
+        "source_url": "https://www.2hd.com.au",
+        "source_name": "2hd"
+    },
+    {
+        "title": "Prime development opportunity opposite Newcastle Racecourse - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5Mzc0Ny9wcmltZS1kZXZlbG9wbWVudC1vcHBvcnR1bml0eS1vcHBvc2l0ZS1uZXdjYXN0bGUtcmFjZWNvdXJzZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 14:35:12 GMT",
         "source_url": "https://www.newcastleherald.com.au",
         "source_name": "Newcastle Herald"
     },
     {
-        "title": "Private dam overflows at Catherine Hill Bay building site as Newcastle drenched in rain - Cessnock Advertiser",
-        "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5jZXNzbm9ja2FkdmVydGlzZXIuY29tLmF1L3N0b3J5Lzg1OTg5MTYvcHJpdmF0ZS1kYW0tb3ZlcmZsb3ctYW5kLXNlcy1yZXNwb25zZS1hdC1jYXRoZXJpbmUtaGlsbC1iYXktYWZ0ZXItaGVhdnktcmFpbi1pbi1uZXdjYXN0bGUv0gEA?oc=5",
+        "title": "Bastille Market - Newcastle Live",
+        "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vbmV3Y2FzdGxlbGl2ZS5jb20uYXUvZXZlbnRzL2Jhc3RpbGxlLW1hcmtldC_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 20 Apr 2024 10:32:55 GMT",
-        "source_url": "https://www.cessnockadvertiser.com.au",
-        "source_name": "Cessnock Advertiser"
+        "pub_date": "Tue, 16 Apr 2024 05:52:27 GMT",
+        "source_url": "https://newcastlelive.com.au",
+        "source_name": "Newcastle Live"
     },
     {
-        "title": "Newcastle's Little National Hotel Opens With 181 Rooms - Broadsheet",
-        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9uZXdjYXN0bGUvdHJhdmVsL2FydGljbGUvbm93LW9wZW4tbmV3Y2FzdGxlLXdhdGVyZnJvbnQtbGl0dGxlLW5hdGlvbmFscy10aGlyZC1jbGV2ZXJseS1kZXNpZ25lZC1ob3RlbNIBAA?oc=5",
+        "title": "Everybody appearing at Newcastle District Court, Monday, April 22 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtbmV3Y2FzdGxlLWRpc3RyaWN0LWNvdXJ0LW1vbmRheS1hcHJpbC0yMi9uZXdzLXN0b3J5L2VjNjJhNzdkODllOWI4NTZjOWRiYjRmYjI0NDdkMGU50gGwAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1uZXdjYXN0bGUtZGlzdHJpY3QtY291cnQtbW9uZGF5LWFwcmlsLTIyL25ld3Mtc3RvcnkvZWM2MmE3N2Q4OWU5Yjg1NmM5ZGJiNGZiMjQ0N2QwZTk_YW1w?oc=5",
         "description": [],
-        "pub_date": "Thu, 18 Apr 2024 01:03:54 GMT",
-        "source_url": "https://www.broadsheet.com.au",
-        "source_name": "Broadsheet"
+        "pub_date": "Sun, 21 Apr 2024 00:22:16 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
     },
     {
         "title": "Outgrown Em Rusciano planning Newcastle stopover on latest tour - Newcastle Weekly",
@@ -352,20 +344,12 @@
         "source_name": "Newcastle Weekly"
     },
     {
-        "title": "Everybody appearing at Toronto Local Court, Monday, April 22 - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtdG9yb250by1sb2NhbC1jb3VydC1tb25kYXktYXByaWwtMjIvbmV3cy1zdG9yeS84MDU0YzUwZGU0MDQ1OGRiNjY1ZDg5N2IwMjkyOTE0NNIBqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtdG9yb250by1sb2NhbC1jb3VydC1tb25kYXktYXByaWwtMjIvbmV3cy1zdG9yeS84MDU0YzUwZGU0MDQ1OGRiNjY1ZDg5N2IwMjkyOTE0ND9hbXA?oc=5",
+        "title": "Fire crews rush to house fire at Greta - 2hd",
+        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LjJoZC5jb20uYXUvMjAyNC8wNC8xNS9maXJlLWNyZXdzLXJ1c2gtdG8taG91c2UtZmlyZS1hdC1ncmV0YS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sat, 20 Apr 2024 12:05:19 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Bastille Market - Newcastle Live",
-        "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vbmV3Y2FzdGxlbGl2ZS5jb20uYXUvZXZlbnRzL2Jhc3RpbGxlLW1hcmtldC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 16 Apr 2024 05:52:27 GMT",
-        "source_url": "https://newcastlelive.com.au",
-        "source_name": "Newcastle Live"
+        "pub_date": "Mon, 15 Apr 2024 04:28:18 GMT",
+        "source_url": "https://www.2hd.com.au",
+        "source_name": "2hd"
     },
     {
         "title": "Council meeting preview: Ordinary Meeting \u2013 Monday 22 April - Lake Macquarie City Council",
@@ -384,14 +368,6 @@
         "source_name": "The Maitland Mercury"
     },
     {
-        "title": "Mark Creighton pleads guilty in Maitland carjacking case - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU4OTc3NS9tYXJrLWNyZWlnaHRvbi1wbGVhZHMtZ3VpbHR5LWluLW1haXRsYW5kLWNhcmphY2tpbmctY2FzZS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 14 Apr 2024 21:01:44 GMT",
-        "source_url": "https://www.newcastleherald.com.au",
-        "source_name": "Newcastle Herald"
-    },
-    {
         "title": "FLASHBACK: Local Garbologists show us how it was done - Newcastle Live",
         "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbmV3Y2FzdGxlbGl2ZS5jb20uYXUvZmxhc2hiYWNrLWxvY2FsLWdhcmJvbG9naXN0cy1zaG93LXVzLWhvdy1pdC13YXMtZG9uZS_SAQA?oc=5",
         "description": [],
@@ -400,84 +376,12 @@
         "source_name": "Newcastle Live"
     },
     {
-        "title": "Heath Franklin Newcastle - Newcastle Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9hdXNzaWUtY29tZWR5LWljb24taGVhdGgtZnJhbmtsaW4tb3V0LWZvci1sYXVnaHMtaW4tbmV3eS_SAQA?oc=5",
+        "title": "Latest news, live updates from across Newcastle and the Hunter - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODM5MTMyMy9yb2Fkcy1jbG9zZWQtZm9yLW5ld2Nhc3RsZS1tYXJhdGhvbi1yYWlueS13ZWF0aGVyLXRvLWVhc2UtbGl2ZS11cGRhdGVzL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Tue, 16 Apr 2024 07:00:00 GMT",
-        "source_url": "https://newcastleweekly.com.au",
-        "source_name": "Newcastle Weekly"
-    },
-    {
-        "title": "Everybody appearing at Belmont Local Court, Monday, April 22 - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtYmVsbW9udC1sb2NhbC1jb3VydC1tb25kYXktYXByaWwtMjIvbmV3cy1zdG9yeS9lNDBkMDM0NWU1MGM5MDU1Y2VkNDZhZTkwMjcyM2YyOdIBqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtYmVsbW9udC1sb2NhbC1jb3VydC1tb25kYXktYXByaWwtMjIvbmV3cy1zdG9yeS9lNDBkMDM0NWU1MGM5MDU1Y2VkNDZhZTkwMjcyM2YyOT9hbXA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 20 Apr 2024 12:05:19 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Fire crews rush to house fire at Greta - 2hd",
-        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LjJoZC5jb20uYXUvMjAyNC8wNC8xNS9maXJlLWNyZXdzLXJ1c2gtdG8taG91c2UtZmlyZS1hdC1ncmV0YS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 04:28:18 GMT",
-        "source_url": "https://www.2hd.com.au",
-        "source_name": "2hd"
-    },
-    {
-        "title": "Man sentenced over Newcastle pursuit \u2013 NBN News - nbnnews.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDQvMTgvbWFuLXNlbnRlbmNlZC1vdmVyLW5ld2Nhc3RsZS1wdXJzdWl0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 08:05:48 GMT",
-        "source_url": "https://www.nbnnews.com.au",
-        "source_name": "nbnnews.com.au"
-    },
-    {
-        "title": "Scenic Eclipse II luxury ship to arrive in Newcastle - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5NzI1MS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 09:01:54 GMT",
+        "pub_date": "Sun, 21 Apr 2024 00:24:45 GMT",
         "source_url": "https://www.newcastleherald.com.au",
         "source_name": "Newcastle Herald"
-    },
-    {
-        "title": "Hunter wins at Australian Small Business Champion Awards 2024 - Newcastle Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9odW50ZXItd2lucy1hdC1hdXN0cmFsaWFuLXNtYWxsLWJ1c2luZXNzLWNoYW1waW9uLWF3YXJkcy0yMDI0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 17 Apr 2024 02:00:00 GMT",
-        "source_url": "https://newcastleweekly.com.au",
-        "source_name": "Newcastle Weekly"
-    },
-    {
-        "title": "Flood-resilient bridge and roads to keep Maitland connected | Transport for NSW - Transport for NSW",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRyYW5zcG9ydC5uc3cuZ292LmF1L25ld3MtYW5kLWV2ZW50cy9tZWRpYS1yZWxlYXNlcy9mbG9vZC1yZXNpbGllbnQtYnJpZGdlLWFuZC1yb2Fkcy10by1rZWVwLW1haXRsYW5kLWNvbm5lY3RlZNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 15 Apr 2024 12:00:00 GMT",
-        "source_url": "https://www.transport.nsw.gov.au",
-        "source_name": "Transport for NSW"
-    },
-    {
-        "title": "Everybody appearing at Newcastle District Court, Friday, April 19 - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtbmV3Y2FzdGxlLWRpc3RyaWN0LWNvdXJ0LWZyaWRheS1hcHJpbC0xOS9uZXdzLXN0b3J5L2RiYWMyZmJhMWIwMGUzYWMyYjA3NGQ4NTdlMzUxZGVh0gGwAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1uZXdjYXN0bGUtZGlzdHJpY3QtY291cnQtZnJpZGF5LWFwcmlsLTE5L25ld3Mtc3RvcnkvZGJhYzJmYmExYjAwZTNhYzJiMDc0ZDg1N2UzNTFkZWE_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 22:05:16 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Cameron McKenzie Jailed for Firing Gun During Police Chase - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5NzY5Ny9jYW1lcm9uLW1ja2VuemllLWphaWxlZC1mb3ItZmlyaW5nLWd1bi1kdXJpbmctcG9saWNlLWNoYXNlL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 04:34:07 GMT",
-        "source_url": "https://www.newcastleherald.com.au",
-        "source_name": "Newcastle Herald"
-    },
-    {
-        "title": "Hot Potato Band to launch 2024 Live Music Lake Mac program - Newcastle Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9ob3QtcG90YXRvLWJhbmQtdG8tbGF1bmNoLTIwMjQtbGl2ZS1tdXNpYy1sYWtlLW1hYy1wcm9ncmFtL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 16 Apr 2024 23:30:00 GMT",
-        "source_url": "https://newcastleweekly.com.au",
-        "source_name": "Newcastle Weekly"
     },
     {
         "title": "Everybody appearing in civil matters at Raymond Terrace Local Court, Thursday, April 18 - Daily Telegraph",
@@ -488,20 +392,44 @@
         "source_name": "Daily Telegraph"
     },
     {
-        "title": "Limbo The Return fire breather - Newcastle Herald",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvdmlkZW8vbG9jYWwveDh4MWxraS9saW1iby10aGUtcmV0dXJuLWZpcmUtYnJlYXRoZXIv0gEA?oc=5",
+        "title": "Hunter wins at Australian Small Business Champion Awards 2024 - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9odW50ZXItd2lucy1hdC1hdXN0cmFsaWFuLXNtYWxsLWJ1c2luZXNzLWNoYW1waW9uLWF3YXJkcy0yMDI0L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 18 Apr 2024 23:46:50 GMT",
-        "source_url": "https://www.newcastleherald.com.au",
-        "source_name": "Newcastle Herald"
-    },
-    {
-        "title": "Ian Kidd - Newcastle Weekly",
-        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9sb2NhbC1mdW5kcmFpc2VyLWlhbi1raWRkLXJldHVybmluZy10by1uZXdjYXN0bGUtYWZ0ZXItMTgwMGttLW9keXNzZXkv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 17 Apr 2024 07:00:00 GMT",
+        "pub_date": "Wed, 17 Apr 2024 02:00:00 GMT",
         "source_url": "https://newcastleweekly.com.au",
         "source_name": "Newcastle Weekly"
+    },
+    {
+        "title": "Lake Mac local takes home $200,000 prize - Newcastle Live",
+        "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vbmV3Y2FzdGxlbGl2ZS5jb20uYXUvbGFrZS1tYWMtbG9jYWwtdGFrZXMtaG9tZS0yMDAwMDAtcHJpemUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 21:35:00 GMT",
+        "source_url": "https://newcastlelive.com.au",
+        "source_name": "Newcastle Live"
+    },
+    {
+        "title": "Man sentenced over Newcastle pursuit \u2013 NBN News - nbnnews.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ibm5ld3MuY29tLmF1LzIwMjQvMDQvMTgvbWFuLXNlbnRlbmNlZC1vdmVyLW5ld2Nhc3RsZS1wdXJzdWl0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 08:05:48 GMT",
+        "source_url": "https://www.nbnnews.com.au",
+        "source_name": "nbnnews.com.au"
+    },
+    {
+        "title": "Flood-resilient bridge and roads to keep Maitland connected | Transport for NSW - Transport for NSW",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRyYW5zcG9ydC5uc3cuZ292LmF1L25ld3MtYW5kLWV2ZW50cy9tZWRpYS1yZWxlYXNlcy9mbG9vZC1yZXNpbGllbnQtYnJpZGdlLWFuZC1yb2Fkcy10by1rZWVwLW1haXRsYW5kLWNvbm5lY3RlZNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 12:00:00 GMT",
+        "source_url": "https://www.transport.nsw.gov.au",
+        "source_name": "Transport for NSW"
+    },
+    {
+        "title": "Innovation Ready series: Newcastle AI - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvdmlkZW8vbG9jYWwveDh4MXFndS9pbm5vdmF0aW9uLXJlYWR5LXNlcmllcy1uZXdjYXN0bGUtYWkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 00:37:15 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
     },
     {
         "title": "Everybody appearing in civil matters at Cessnock Local Court, Thursday, April 18 - Daily Telegraph",
@@ -512,6 +440,62 @@
         "source_name": "Daily Telegraph"
     },
     {
+        "title": "Heath Franklin Newcastle - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9hdXNzaWUtY29tZWR5LWljb24taGVhdGgtZnJhbmtsaW4tb3V0LWZvci1sYXVnaHMtaW4tbmV3eS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 16 Apr 2024 07:00:00 GMT",
+        "source_url": "https://newcastleweekly.com.au",
+        "source_name": "Newcastle Weekly"
+    },
+    {
+        "title": "Scenic Eclipse II luxury ship to arrive in Newcastle - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5NzI1MS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 09:01:54 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
+    },
+    {
+        "title": "Check out the latest on Lake Macquarie roads - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2xha2UtbWFjcXVhcmllL2h5cGVybG9jYWwvbGFrZS1tYWNxdWFyaWUtdHJhZmZpYy1jcmFzaGVzLWRlbGF5cy11cGRhdGVzL25ld3Mtc3RvcnkvOTFkMWMxNmIzMzViZjI2OWM5MTUxY2ZmYzU5NTA1MTnSAaMBaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3Nsb2NhbC9sYWtlLW1hY3F1YXJpZS9oeXBlcmxvY2FsL2xha2UtbWFjcXVhcmllLXRyYWZmaWMtY3Jhc2hlcy1kZWxheXMtdXBkYXRlcy9uZXdzLXN0b3J5LzkxZDFjMTZiMzM1YmYyNjljOTE1MWNmZmM1OTUwNTE5P2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 00:22:16 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Ian Kidd - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9sb2NhbC1mdW5kcmFpc2VyLWlhbi1raWRkLXJldHVybmluZy10by1uZXdjYXN0bGUtYWZ0ZXItMTgwMGttLW9keXNzZXkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 17 Apr 2024 07:00:00 GMT",
+        "source_url": "https://newcastleweekly.com.au",
+        "source_name": "Newcastle Weekly"
+    },
+    {
+        "title": "Cameron McKenzie Jailed for Firing Gun During Police Chase - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5NzY5Ny9jYW1lcm9uLW1ja2VuemllLWphaWxlZC1mb3ItZmlyaW5nLWd1bi1kdXJpbmctcG9saWNlLWNoYXNlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 04:34:07 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
+    },
+    {
+        "title": "Everybody appearing at Singleton Local Court, Friday, April 19 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtc2luZ2xldG9uLWxvY2FsLWNvdXJ0LWZyaWRheS1hcHJpbC0xOS9uZXdzLXN0b3J5LzU2ODAwNDMwOGVhNjdjN2UwNTc1MWE4MDc0NTU1OTRi0gGtAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvbmV3Y2FzdGxlL2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1zaW5nbGV0b24tbG9jYWwtY291cnQtZnJpZGF5LWFwcmlsLTE5L25ld3Mtc3RvcnkvNTY4MDA0MzA4ZWE2N2M3ZTA1NzUxYTgwNzQ1NTU5NGI_YW1w?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 03:45:00 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Hot Potato Band to launch 2024 Live Music Lake Mac program - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9ob3QtcG90YXRvLWJhbmQtdG8tbGF1bmNoLTIwMjQtbGl2ZS1tdXNpYy1sYWtlLW1hYy1wcm9ncmFtL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 16 Apr 2024 23:30:00 GMT",
+        "source_url": "https://newcastleweekly.com.au",
+        "source_name": "Newcastle Weekly"
+    },
+    {
         "title": "Dean Nickerson sentenced for stabbing in Cessnock pub - Newcastle Herald",
         "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5ld2Nhc3RsZWhlcmFsZC5jb20uYXUvc3RvcnkvODU5NTA2Mi9kZWFuLW5pY2tlcnNvbi1zZW50ZW5jZWQtZm9yLXN0YWJiaW5nLWluLWNlc3Nub2NrLXB1Yi_SAQA?oc=5",
         "description": [],
@@ -520,19 +504,43 @@
         "source_name": "Newcastle Herald"
     },
     {
+        "title": "Everybody appearing at Belmont Local Court, Friday, April 19 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtYmVsbW9udC1sb2NhbC1jb3VydC1mcmlkYXktYXByaWwtMTkvbmV3cy1zdG9yeS9jNmFjYzM1NmRiYmRiMGFlYzM4OGE5ZDQyMmNjNmU5M9IBqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL25ld2Nhc3RsZS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtYmVsbW9udC1sb2NhbC1jb3VydC1mcmlkYXktYXByaWwtMTkvbmV3cy1zdG9yeS9jNmFjYzM1NmRiYmRiMGFlYzM4OGE5ZDQyMmNjNmU5Mz9hbXA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 22:30:21 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Melville Ford Bridge - Newcastle Weekly",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9uZXctbWVsdmlsbGUtZm9yZC1icmlkZ2UtbG9uZy1vdmVyZHVlL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 15 Apr 2024 07:00:00 GMT",
+        "source_url": "https://newcastleweekly.com.au",
+        "source_name": "Newcastle Weekly"
+    },
+    {
+        "title": "Private dam overflows at Catherine Hill Bay building site as Newcastle drenched in rain - Newcastle Herald",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdjYXN0bGVoZXJhbGQuY29tLmF1L3N0b3J5Lzg1OTg5MTYvcHJpdmF0ZS1kYW0tb3ZlcmZsb3ctYW5kLXNlcy1yZXNwb25zZS1hdC1jYXRoZXJpbmUtaGlsbC1iYXktYWZ0ZXItaGVhdnktcmFpbi1pbi1uZXdjYXN0bGUv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 20 Apr 2024 10:33:54 GMT",
+        "source_url": "https://www.newcastleherald.com.au",
+        "source_name": "Newcastle Herald"
+    },
+    {
+        "title": "Masked teens allegedly hit bottle shop - Newcastle News",
+        "link": "https://news.google.com/rss/articles/CBMi0gFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3RoZS1uZXdjYXN0bGUtbmV3cy90d28tdGVlbmFnZS1naXJscy1jaGFyZ2VkLWFmdGVyLWFsbGVnZWRseS1zdGVhbGluZy1uZWFybHktMzAtYm90dGxlcy1vZi1hbGNvaG9sLWZyb20tY2FtZXJvbi1wYXJrLXN0b3JlL25ld3Mtc3RvcnkvZjU2NDM0OGM3NGVkMGUzODllM2JhMDNkZjIxODBlZWXSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 16 Apr 2024 02:38:40 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Newcastle News"
+    },
+    {
         "title": "Made New funding recipients to prepare for 2024 New Annual - Newcastle Weekly",
         "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbmV3Y2FzdGxld2Vla2x5LmNvbS5hdS9tYWRlLW5ldy1mdW5kaW5nLXJlY2lwaWVudHMtdG8tcHJlcGFyZS1mb3ItMjAyNC1uZXctYW5udWFsL9IBAA?oc=5",
         "description": [],
         "pub_date": "Mon, 15 Apr 2024 23:30:00 GMT",
         "source_url": "https://newcastleweekly.com.au",
         "source_name": "Newcastle Weekly"
-    },
-    {
-        "title": "Check out the latest on Lake Macquarie roads - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2xha2UtbWFjcXVhcmllL2h5cGVybG9jYWwvbGFrZS1tYWNxdWFyaWUtdHJhZmZpYy1jcmFzaGVzLWRlbGF5cy11cGRhdGVzL25ld3Mtc3RvcnkvODAyOWVhNjY1MDBlOWU0MGM1ODMxZTVhY2M3MWU0YmPSAaMBaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3Nsb2NhbC9sYWtlLW1hY3F1YXJpZS9oeXBlcmxvY2FsL2xha2UtbWFjcXVhcmllLXRyYWZmaWMtY3Jhc2hlcy1kZWxheXMtdXBkYXRlcy9uZXdzLXN0b3J5LzgwMjllYTY2NTAwZTllNDBjNTgzMWU1YWNjNzFlNGJjP2FtcA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 16:40:48 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
     }
 ]
