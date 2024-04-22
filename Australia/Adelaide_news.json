@@ -1,17 +1,33 @@
 [
     {
-        "title": "Bottega by Out In The Paddock pops up in Adelaide's east - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9ib3R0ZWdhLWJ5LW91dC1pbi10aGUtcGFkZG9jay1wb3BzLXVwLWluLWFkZWxhaWRlcy1lYXN0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 20 Apr 2024 19:13:15 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
         "title": "'Flawed' Aboriginal word dictionary wins the SA Museum's Waterhouse Natural Science Art Prize - Glam Adelaide",
         "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9mbGF3ZWQtYWJvcmlnaW5hbC13b3JkLWRpY3Rpb25hcnktd2lucy10aGUtc2EtbXVzZXVtcy13YXRlcmhvdXNlLW5hdHVyYWwtc2NpZW5jZS1hcnQtcHJpemUv0gEA?oc=5",
         "description": [],
         "pub_date": "Sat, 20 Apr 2024 05:30:35 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
+    },
+    {
+        "title": "Five Minutes With Good Mates Ben Williamson (of Brisbane's Agnes) and Ben Bertei (Kiin) - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9hZGVsYWlkZS9mb29kLWFuZC1kcmluay9hcnRpY2xlL2ZpdmUtbWludXRlcy1nb29kLW1hdGVzLWFuZC1ncmVhdC1jaGVmcy1iZW4td2lsbGlhbXNvbi1hbmQtYmVuLWJlcnRladIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 22 Apr 2024 03:58:05 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
+    },
+    {
+        "title": "Man allegedly killed wife, tried to kill daughter - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9zb3V0aC1hdXN0cmFsaWEvdmFzaWxpcy12ZXJndWxpcy1wbGVhZHMtbm90LWd1aWx0eS10by1tdXJkZXItYW5kLWF0dGVtcHRlZC1tdXJkZXIvbmV3cy1zdG9yeS9hMjhiMjIwMmVjNjI2ZDE3NjllMWZlNjg3OGQzNGZjY9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 22 Apr 2024 02:52:45 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
+        "title": "South Australia dominates nation in economic growth with second #1 ranking - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9zb3V0aC1hdXN0cmFsaWEtZG9taW5hdGVzLW5hdGlvbi1pbi1lY29ub21pYy1ncm93dGgtd2l0aC1zZWNvbmQtMS1yYW5raW5nL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 01:58:47 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
@@ -24,12 +40,20 @@
         "source_name": "InDaily"
     },
     {
-        "title": "South Australia dominates nation in economic growth with second #1 ranking - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9zb3V0aC1hdXN0cmFsaWEtZG9taW5hdGVzLW5hdGlvbi1pbi1lY29ub21pYy1ncm93dGgtd2l0aC1zZWNvbmQtMS1yYW5raW5nL9IBAA?oc=5",
+        "title": "OPEN NOW: New sando joint Don's Deli opens in Adelaide's east - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9vcGVuLW5vdy1uZXctc2FuZG8tam9pbnQtZG9ucy1kZWxpLW9wZW5zLWluLWFkZWxhaWRlcy1lYXN0L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sun, 21 Apr 2024 01:58:47 GMT",
+        "pub_date": "Sat, 20 Apr 2024 19:33:54 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
+    },
+    {
+        "title": "Extreme speeder detected at O'Halloran Hill - SA Police",
+        "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBvbGljZS5zYS5nb3YuYXUvc2EtcG9saWNlLW5ld3MtYXNzZXRzL3RyYWZmaWMvZXh0cmVtZS1zcGVlZGVyLWRldGVjdGVkLWF0LW9oYWxsb3Jhbi1oaWxs0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sat, 20 Apr 2024 23:25:25 GMT",
+        "source_url": "https://www.police.sa.gov.au",
+        "source_name": "SA Police"
     },
     {
         "title": "Research centre lands $6.2 million for green iron and steel - InDaily",
@@ -40,6 +64,14 @@
         "source_name": "InDaily"
     },
     {
+        "title": "Adelaide's iconic Myer Centre reveals striking $15M transformation - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9hZGVsYWlkZXMtaWNvbmljLW15ZXItY2VudHJlLXJldmVhbHMtc3RyaWtpbmctMTVtLXRyYW5zZm9ybWF0aW9uL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 19:18:57 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
+    },
+    {
         "title": "What to do this Record Store Day - CityMag",
         "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vY2l0eW1hZy5pbmRhaWx5LmNvbS5hdS9oYXBwZW5pbmcvd2hhdC10by1kby10aGlzLXJlY29yZC1zdG9yZS1kYXkv0gEA?oc=5",
         "description": [],
@@ -48,28 +80,12 @@
         "source_name": "CityMag"
     },
     {
-        "title": "Theatre Review: Little Women - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS90aGVhdHJlLXJldmlldy1saXR0bGUtd29tZW4v0gEA?oc=5",
+        "title": "VIDEO: Unusual Adelaide arrival | Woman flown to hospital after Barossa crash - InDaily",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L25ld3MvYWRlbGFpZGUvMjAyNC8wNC8yMi8xMC1uZXdzLWRhaWx5LXZpZGVv0gEA?oc=5",
         "description": [],
-        "pub_date": "Fri, 19 Apr 2024 23:32:49 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "Train strike threat for Showdown - InDaily",
-        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L25ld3MvYWRlbGFpZGUvMjAyNC8wNC8xOS90cmFpbi1zdHJpa2UtdGhyZWF0LWZvci1zaG93ZG93btIBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 02:26:13 GMT",
+        "pub_date": "Mon, 22 Apr 2024 02:30:36 GMT",
         "source_url": "https://www.indaily.com.au",
         "source_name": "InDaily"
-    },
-    {
-        "title": "Update after man\u2019s body found on road - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9zb3V0aC1hdXN0cmFsaWEvc2Vjb25kLW1hbi1jaGFyZ2VkLW92ZXItZGVhdGgtb2Ytd2lsbC1ob2xkYmFjay9uZXdzLXN0b3J5Lzg3MTI2YmJlNWRiNzhlNGNmNzMxNGM3ZWE3ZGFkM2Y10gGPAWh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L25hdGlvbmFsL3NvdXRoLWF1c3RyYWxpYS9zZWNvbmQtbWFuLWNoYXJnZWQtb3Zlci1kZWF0aC1vZi13aWxsLWhvbGRiYWNrL25ld3Mtc3RvcnkvODcxMjZiYmU1ZGI3OGU0Y2Y3MzE0YzdlYTdkYWQzZjU_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 06:04:19 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
     },
     {
         "title": "Theatre Review: Room on the Broom - KIDDO Mag",
@@ -80,10 +96,10 @@
         "source_name": "KIDDO Mag"
     },
     {
-        "title": "My Kingdom for a Horse announces new venue led by superstar barista - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9teS1raW5nZG9tLWZvci1hLWhvcnNlLWFubm91bmNlcy1uZXctdmVudWUtbGVkLWJ5LXN1cGVyc3Rhci1iYXJpc3RhL9IBAA?oc=5",
+        "title": "Significant increase in funding for Childhood Dementia research announced - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9zaWduaWZpY2FudC1pbmNyZWFzZS1pbi1mdW5kaW5nLWZvci1jaGlsZGhvb2QtZGVtZW50aWEtcmVzZWFyY2gtYW5ub3VuY2VkL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sun, 21 Apr 2024 18:59:16 GMT",
+        "pub_date": "Mon, 22 Apr 2024 04:18:45 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
@@ -104,6 +120,14 @@
         "source_name": "sa"
     },
     {
+        "title": "Update after man\u2019s body found on road - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9zb3V0aC1hdXN0cmFsaWEvc2Vjb25kLW1hbi1jaGFyZ2VkLW92ZXItZGVhdGgtb2Ytd2lsbC1ob2xkYmFjay9uZXdzLXN0b3J5Lzg3MTI2YmJlNWRiNzhlNGNmNzMxNGM3ZWE3ZGFkM2Y10gGPAWh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L25hdGlvbmFsL3NvdXRoLWF1c3RyYWxpYS9zZWNvbmQtbWFuLWNoYXJnZWQtb3Zlci1kZWF0aC1vZi13aWxsLWhvbGRiYWNrL25ld3Mtc3RvcnkvODcxMjZiYmU1ZGI3OGU0Y2Y3MzE0YzdlYTdkYWQzZjU_YW1w?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 06:04:19 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
         "title": "Improve your life - CityMag - CityMag",
         "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vY2l0eW1hZy5pbmRhaWx5LmNvbS5hdS9jb21tZXJjZS9pbXByb3ZlLXlvdXItbGlmZS1jbTQyL9IBAA?oc=5",
         "description": [],
@@ -112,18 +136,10 @@
         "source_name": "CityMag"
     },
     {
-        "title": "Drink driver caught at Ottoway - SA Police",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnBvbGljZS5zYS5nb3YuYXUvc2EtcG9saWNlLW5ld3MtYXNzZXRzL3RyYWZmaWMvZHJpbmstZHJpdmVyLWNhdWdodC1hdC1vdHRvd2F50gEA?oc=5",
+        "title": "Bottega by Out In The Paddock pops up in Adelaide's east - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9ib3R0ZWdhLWJ5LW91dC1pbi10aGUtcGFkZG9jay1wb3BzLXVwLWluLWFkZWxhaWRlcy1lYXN0L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 18 Apr 2024 21:10:50 GMT",
-        "source_url": "https://www.police.sa.gov.au",
-        "source_name": "SA Police"
-    },
-    {
-        "title": "Vivid Aurora Australis lights up Adelaide Hills skies - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS92aXZpZC1hdXJvcmEtYXVzdHJhbGlzLWxpZ2h0cy11cC1hZGVsYWlkZS1oaWxscy1za2llcy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 20 Apr 2024 00:37:49 GMT",
+        "pub_date": "Sat, 20 Apr 2024 19:13:15 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
@@ -136,26 +152,26 @@
         "source_name": "InDaily"
     },
     {
-        "title": "Revolutionary robotic surgeries back at Royal Adelaide Hospital - Premier of South Australia",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnByZW1pZXIuc2EuZ292LmF1L21lZGlhLXJlbGVhc2VzL25ld3MtaXRlbXMvcmV2b2x1dGlvbmFyeS1yb2JvdGljLXN1cmdlcmllcy1iYWNrLWF0LXJveWFsLWFkZWxhaWRlLWhvc3BpdGFs0gEA?oc=5",
+        "title": "Global tree planting campaign kicks off in Onkaparinga - KIDDO Mag",
+        "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8va2lkZG9tYWcuY29tLmF1L25ld3MvdHJlZS1wbGFudGluZy1jYW1wYWlnbi1vbmthcGFyaW5nYS_SAQA?oc=5",
         "description": [],
-        "pub_date": "Wed, 17 Apr 2024 04:57:07 GMT",
-        "source_url": "https://www.premier.sa.gov.au",
-        "source_name": "Premier of South Australia"
+        "pub_date": "Mon, 22 Apr 2024 05:32:17 GMT",
+        "source_url": "https://kiddomag.com.au",
+        "source_name": "KIDDO Mag"
     },
     {
-        "title": "Graduation day for Course 67 - SA Police",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbGljZS5zYS5nb3YuYXUvc2EtcG9saWNlLW5ld3MtYXNzZXRzL2Zyb250LXBhZ2UtbmV3cy9ncmFkdWF0aW9uLWRheS1mb3ItY291cnNlLTY30gEA?oc=5",
+        "title": "Drink driver caught at Ottoway - SA Police",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnBvbGljZS5zYS5nb3YuYXUvc2EtcG9saWNlLW5ld3MtYXNzZXRzL3RyYWZmaWMvZHJpbmstZHJpdmVyLWNhdWdodC1hdC1vdHRvd2F50gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 17 Apr 2024 05:05:13 GMT",
+        "pub_date": "Thu, 18 Apr 2024 21:10:50 GMT",
         "source_url": "https://www.police.sa.gov.au",
         "source_name": "SA Police"
     },
     {
-        "title": "R.M. Williams introduces new production line for women's boot manufacturing - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9yLW0td2lsbGlhbXMtaW50cm9kdWNlcy1uZXctcHJvZHVjdGlvbi1saW5lLWZvci13b21lbnMtYm9vdC1tYW51ZmFjdHVyaW5nL9IBAA?oc=5",
+        "title": "My Kingdom for a Horse announces new venue led by superstar barista - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9teS1raW5nZG9tLWZvci1hLWhvcnNlLWFubm91bmNlcy1uZXctdmVudWUtbGVkLWJ5LXN1cGVyc3Rhci1iYXJpc3RhL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 19 Apr 2024 19:15:38 GMT",
+        "pub_date": "Sun, 21 Apr 2024 18:59:16 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
@@ -176,28 +192,60 @@
         "source_name": "SA Police"
     },
     {
-        "title": "Jensen PLUS celebrates 30 years - InDaily",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L2lzcHkvMjAyNC8wNC8xNy9qZW5zZW4tcGx1cy1jZWxlYnJhdGVzLTMwLXllYXJz0gEA?oc=5",
+        "title": "Theatre Review: Little Women - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS90aGVhdHJlLXJldmlldy1saXR0bGUtd29tZW4v0gEA?oc=5",
         "description": [],
-        "pub_date": "Tue, 16 Apr 2024 23:52:57 GMT",
-        "source_url": "https://www.indaily.com.au",
-        "source_name": "InDaily"
-    },
-    {
-        "title": "OPEN NOW: New sando joint Don's Deli opens in Adelaide's east - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9vcGVuLW5vdy1uZXctc2FuZG8tam9pbnQtZG9ucy1kZWxpLW9wZW5zLWluLWFkZWxhaWRlcy1lYXN0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Sat, 20 Apr 2024 19:33:54 GMT",
+        "pub_date": "Fri, 19 Apr 2024 23:32:49 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
     {
-        "title": "Cancer can strike anyone, even CEOs - InDaily",
-        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L25ld3Mvc3BvbnNvcmVkLWNvbnRlbnQvMjAyNC8wNC8xOC9jYW5jZXItY2FuLXN0cmlrZS1hbnlvbmUtZXZlbi1jZW9z0gEA?oc=5",
+        "title": "Graduation day for Course 67 - SA Police",
+        "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbGljZS5zYS5nb3YuYXUvc2EtcG9saWNlLW5ld3MtYXNzZXRzL2Zyb250LXBhZ2UtbmV3cy9ncmFkdWF0aW9uLWRheS1mb3ItY291cnNlLTY30gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 18 Apr 2024 00:50:38 GMT",
+        "pub_date": "Wed, 17 Apr 2024 05:05:13 GMT",
+        "source_url": "https://www.police.sa.gov.au",
+        "source_name": "SA Police"
+    },
+    {
+        "title": "Multiple Sclerosis specialty centre to open in Adelaide - InDaily",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L25ld3MvYWRlbGFpZGUvMjAyNC8wNC8yMi9tdWx0aXBsZS1zY2xlcm9zaXMtc3BlY2lhbHR5LWNlbnRyZS10by1vcGVuLWluLWFkZWxhaWRl0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 22 Apr 2024 02:08:05 GMT",
         "source_url": "https://www.indaily.com.au",
         "source_name": "InDaily"
+    },
+    {
+        "title": "Construction begins on new $9M Mount Barker ambulance station - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9jb25zdHJ1Y3Rpb24tYmVnaW5zLW9uLW5ldy05bS1tb3VudC1iYXJrZXItYW1idWxhbmNlLXN0YXRpb24v0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 19:32:09 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
+    },
+    {
+        "title": "South Australia's newest space contribution headed to the UK - InDaily",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L25ld3Mvc2NpZW5jZS1hbmQtdGVjaC8yMDI0LzA0LzE5L3NvdXRoLWF1c3RyYWxpYXMtbmV3ZXN0LXNwYWNlLWNvbnRyaWJ1dGlvbi1oZWFkZWQtdG8tdGhlLXVr0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 02:26:15 GMT",
+        "source_url": "https://www.indaily.com.au",
+        "source_name": "InDaily"
+    },
+    {
+        "title": "R.M. Williams introduces new production line for women's boot manufacturing - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9yLW0td2lsbGlhbXMtaW50cm9kdWNlcy1uZXctcHJvZHVjdGlvbi1saW5lLWZvci13b21lbnMtYm9vdC1tYW51ZmFjdHVyaW5nL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 19 Apr 2024 19:15:38 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
+    },
+    {
+        "title": "3 Tasting Australia events you need to check out this May - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS8zLXRhc3RpbmctYXVzdHJhbGlhLWV2ZW50cy15b3UtbmVlZC10by1jaGVjay1vdXQtdGhpcy1tYXkv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Sun, 21 Apr 2024 19:04:39 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
     },
     {
         "title": "Chamber Music Adelaide presents four new South Australian Compositions as part of 'Perspectives' concert series - Glam Adelaide",
@@ -208,18 +256,10 @@
         "source_name": "Glam Adelaide"
     },
     {
-        "title": "Adelaide's iconic Myer Centre reveals striking $15M transformation - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9hZGVsYWlkZXMtaWNvbmljLW15ZXItY2VudHJlLXJldmVhbHMtc3RyaWtpbmctMTVtLXRyYW5zZm9ybWF0aW9uL9IBAA?oc=5",
+        "title": "Vivid Aurora Australis lights up Adelaide Hills skies - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS92aXZpZC1hdXJvcmEtYXVzdHJhbGlzLWxpZ2h0cy11cC1hZGVsYWlkZS1oaWxscy1za2llcy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Sun, 21 Apr 2024 19:18:57 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "3 Tasting Australia events you need to check out this May - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS8zLXRhc3RpbmctYXVzdHJhbGlhLWV2ZW50cy15b3UtbmVlZC10by1jaGVjay1vdXQtdGhpcy1tYXkv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Sun, 21 Apr 2024 19:04:39 GMT",
+        "pub_date": "Sat, 20 Apr 2024 00:37:49 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
@@ -248,10 +288,26 @@
         "source_name": "Glam Adelaide"
     },
     {
-        "title": "Construction begins on new $9M Mount Barker ambulance station - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9jb25zdHJ1Y3Rpb24tYmVnaW5zLW9uLW5ldy05bS1tb3VudC1iYXJrZXItYW1idWxhbmNlLXN0YXRpb24v0gEA?oc=5",
+        "title": "The Guilty Feminist returns to Adelaide for live podcast experience this May - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS90aGUtZ3VpbHR5LWZlbWluaXN0LXJldHVybnMtdG8tYWRlbGFpZGUtZm9yLWxpdmUtcG9kY2FzdC1leHBlcmllbmNlLXRoaXMtbWF5L9IBAA?oc=5",
         "description": [],
-        "pub_date": "Sun, 21 Apr 2024 19:32:09 GMT",
+        "pub_date": "Thu, 18 Apr 2024 18:56:49 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
+    },
+    {
+        "title": "Fresh 92.7 announces epic 26th birthday fundraiser event with EDM Powerhouses, Mash'd N Kutcher! - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9mcmVzaC05Mi03LWFubm91bmNlcy1lcGljLTI2dGgtYmlydGhkYXktZnVuZHJhaXNlci1ldmVudC13aXRoLWVkbS1wb3dlcmhvdXNlcy1tYXNoZC1uLWt1dGNoZXIv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 00:46:14 GMT",
+        "source_url": "https://glamadelaide.com.au",
+        "source_name": "Glam Adelaide"
+    },
+    {
+        "title": "Popular Italian restaurant on The Parade to close after almost two decades - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9wb3B1bGFyLWl0YWxpYW4tcmVzdGF1cmFudC1vbi10aGUtcGFyYWRlLXRvLWNsb3NlLWFmdGVyLWFsbW9zdC10d28tZGVjYWRlcy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 18 Apr 2024 23:07:19 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     },
@@ -272,36 +328,12 @@
         "source_name": "Glam Adelaide"
     },
     {
-        "title": "The Guilty Feminist returns to Adelaide for live podcast experience this May - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS90aGUtZ3VpbHR5LWZlbWluaXN0LXJldHVybnMtdG8tYWRlbGFpZGUtZm9yLWxpdmUtcG9kY2FzdC1leHBlcmllbmNlLXRoaXMtbWF5L9IBAA?oc=5",
+        "title": "Gathered's Market in the Mall is back this weekend - Glam Adelaide",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9nYXRoZXJlZHMtbWFya2V0LWluLXRoZS1tYWxsLWlzLWJhY2stdGhpcy13ZWVrZW5kL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 18 Apr 2024 18:56:49 GMT",
+        "pub_date": "Thu, 18 Apr 2024 22:02:01 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "South Australia's newest space contribution headed to the UK - InDaily",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L25ld3Mvc2NpZW5jZS1hbmQtdGVjaC8yMDI0LzA0LzE5L3NvdXRoLWF1c3RyYWxpYXMtbmV3ZXN0LXNwYWNlLWNvbnRyaWJ1dGlvbi1oZWFkZWQtdG8tdGhlLXVr0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 02:26:15 GMT",
-        "source_url": "https://www.indaily.com.au",
-        "source_name": "InDaily"
-    },
-    {
-        "title": "Fresh 92.7 announces epic 26th birthday fundraiser event with EDM Powerhouses, Mash'd N Kutcher! - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9mcmVzaC05Mi03LWFubm91bmNlcy1lcGljLTI2dGgtYmlydGhkYXktZnVuZHJhaXNlci1ldmVudC13aXRoLWVkbS1wb3dlcmhvdXNlcy1tYXNoZC1uLWt1dGNoZXIv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 00:46:14 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "On preserving our built heritage and more - InDaily",
-        "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmluZGFpbHkuY29tLmF1L29waW5pb24veW91ci12aWV3cy8yMDI0LzA0LzE3L29uLXByZXNlcnZpbmctb3VyLWJ1aWx0LWhlcml0YWdlLWFuZC1tb3Jl0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 17 Apr 2024 00:27:22 GMT",
-        "source_url": "https://www.indaily.com.au",
-        "source_name": "InDaily"
     },
     {
         "title": "Tones and I adds Adelaide show to national tour - Glam Adelaide",
@@ -312,42 +344,10 @@
         "source_name": "Glam Adelaide"
     },
     {
-        "title": "Popular Italian restaurant on The Parade to close after almost two decades - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9wb3B1bGFyLWl0YWxpYW4tcmVzdGF1cmFudC1vbi10aGUtcGFyYWRlLXRvLWNsb3NlLWFmdGVyLWFsbW9zdC10d28tZGVjYWRlcy_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 23:07:19 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "Gathered's Market in the Mall is back this weekend - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9nYXRoZXJlZHMtbWFya2V0LWluLXRoZS1tYWxsLWlzLWJhY2stdGhpcy13ZWVrZW5kL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 18 Apr 2024 22:02:01 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
         "title": "Why award-winning Bunnik Tours continues to be one of SA's top tourism operators - Glam Adelaide",
         "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS93aHktYXdhcmQtd2lubmluZy1idW5uaWstdG91cnMtY29udGludWVzLXRvLWJlLW9uZS1vZi1zYXMtdG9wLXRvdXJpc20tb3BlcmF0b3JzL9IBAA?oc=5",
         "description": [],
         "pub_date": "Wed, 17 Apr 2024 18:54:55 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "Iconic Hahndorf German Cake Shop says Auf Wiedersehen for now - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9pY29uaWMtaGFobmRvcmYtZ2VybWFuLWNha2Utc2hvcC1zYXlzLWF1Zi13aWVkZXJzZWhlbi1mb3Itbm93L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 19 Apr 2024 23:26:15 GMT",
-        "source_url": "https://glamadelaide.com.au",
-        "source_name": "Glam Adelaide"
-    },
-    {
-        "title": "Second earthquake rocks South Australia this week - Glam Adelaide",
-        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ2xhbWFkZWxhaWRlLmNvbS5hdS9zZWNvbmQtZWFydGhxdWFrZS1yb2Nrcy1zb3V0aC1hdXN0cmFsaWEtdGhpcy13ZWVrL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 17 Apr 2024 20:36:26 GMT",
         "source_url": "https://glamadelaide.com.au",
         "source_name": "Glam Adelaide"
     }
