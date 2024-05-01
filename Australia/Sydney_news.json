@@ -1,19 +1,19 @@
 [
     {
-        "title": "Live: Judge smashes Ten, Lisa in court - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9jb3VydHMtbGF3L2Nvc3RzLXRvLWJlLWNvbnNpZGVyZWQtYWZ0ZXItYnJ1Y2UtbGVocm1hbm5zLWZhaWxlZC1kZWZhbWF0aW9uLWNhc2UtYWdhaW5zdC1uZXR3b3JrLXRlbi1saXNhLXdpbGtpbnNvbi9uZXdzLXN0b3J5L2M3NzMzNjVjN2U4M2Q4MDdjOGI4ZDQwODRiOTBiZTkw0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 06:11:15 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
-    },
-    {
         "title": "Billie Eilish's 2025 Sydney tour: tickets, presale, prices and everything you need to know - Time Out",
         "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aW1lb3V0LmNvbS9zeWRuZXkvbmV3cy9ob3ctdG8tZ2V0LXRpY2tldHMtZm9yLWJpbGxpZS1laWxpc2hzLTIwMjUtc3lkbmV5LXRvdXItcHJlc2FsZS1wcmljZXMtYW5kLWV2ZXJ5dGhpbmcteW91LW5lZWQtdG8ta25vdy0wNTAxMjTSAQA?oc=5",
         "description": [],
         "pub_date": "Wed, 01 May 2024 02:14:03 GMT",
         "source_url": "https://www.timeout.com",
         "source_name": "Time Out"
+    },
+    {
+        "title": "Sad detail at scene of 19yo\u2019s death - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9uc3ctYWN0L3NhZC1kZXRhaWwtb3V0c2lkZS1zY2VuZS13aGVyZS0xOXllYXJvbGQtbXVtLXlvbG9uZGEtbXVtYnVsbGEtZGllZC9uZXdzLXN0b3J5L2ZkZjVkYjc5MjgzMjUzNWRjODMwNTJjYjBmZmI2YWQx0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 11:10:53 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
     },
     {
         "title": "New name revealed for Sydney\u2019s metro line beneath harbour and CBD - Sydney Morning Herald",
@@ -32,12 +32,12 @@
         "source_name": "realestate.com.au"
     },
     {
-        "title": "Body of 19yo woman found in Sydney - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9uc3ctYWN0L2NyaW1lL3BvbGljZS1maW5kLWJvZHktb2YteW91bmctd29tYW4tZm91bmQtaW4tc3lkbmV5cy1lYXN0ZXJuLXN1YnVyYnMvbmV3cy1zdG9yeS9hOTA3NmU5YzUyMGU3YzliYzE4MmJmYTQ2NTllMGMzZNIBAA?oc=5",
+        "title": "Mad transformation: Hemsworth\u2019s Furiosa return to big screen - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMizAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvZW50ZXJ0YWlubWVudC9zeWRuZXktY29uZmlkZW50aWFsL2hvbGx5d29vZC1zdGFycy1jaHJpcy1oZW1zd29ydGgtYW55YS10YXlsb3Jqb3ktaW4tc3lkbmV5LWZvci1mdXJpb3NhLWEtbWFkLW1heC1zYWdhLXByZW1pZXJlL25ld3Mtc3RvcnkvMDI0ODJlM2YzYjU2YmQzZjhhOTJiNWM2ZWZmNzE0MjPSAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 30 Apr 2024 08:47:17 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
+        "pub_date": "Wed, 01 May 2024 05:03:45 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
     },
     {
         "title": "This is Nick Cave at his transcendent, heartbreaking best - Sydney Morning Herald",
@@ -48,36 +48,20 @@
         "source_name": "Sydney Morning Herald"
     },
     {
-        "title": "Mad transformation: Hemsworth\u2019s Furiosa return to big screen - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMizAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvZW50ZXJ0YWlubWVudC9zeWRuZXktY29uZmlkZW50aWFsL2hvbGx5d29vZC1zdGFycy1jaHJpcy1oZW1zd29ydGgtYW55YS10YXlsb3Jqb3ktaW4tc3lkbmV5LWZvci1mdXJpb3NhLWEtbWFkLW1heC1zYWdhLXByZW1pZXJlL25ld3Mtc3RvcnkvMDI0ODJlM2YzYjU2YmQzZjhhOTJiNWM2ZWZmNzE0MjPSAQA?oc=5",
+        "title": "Merivale venues, NSW clubs caught up in major data breach - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvbW9yZS10aGFuLWEtbWlsbGlvbi12aXNpdG9ycy10by1zb21lLW9mLW5zd3MtdG9wLXB1YnMtYW5kLWNsdWJzLWltcGFjdGVkLWJ5LWRhdGEtYnJlYWNoL25ld3Mtc3RvcnkvMWYwNzk2Y2E0MjU3NzMwODUxYzg3ZGI2ZmM0ODU5YmTSAbIBaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3MvbnN3L21vcmUtdGhhbi1hLW1pbGxpb24tdmlzaXRvcnMtdG8tc29tZS1vZi1uc3dzLXRvcC1wdWJzLWFuZC1jbHVicy1pbXBhY3RlZC1ieS1kYXRhLWJyZWFjaC9uZXdzLXN0b3J5LzFmMDc5NmNhNDI1NzczMDg1MWM4N2RiNmZjNDg1OWJkP2FtcA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 02:49:18 GMT",
+        "pub_date": "Wed, 01 May 2024 10:17:49 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
         "source_name": "Daily Telegraph"
     },
     {
-        "title": "\u2018Pressure\u2019: Major fears for cramped houses - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9maW5hbmNlL3JlYWwtZXN0YXRlL2Etc3lkbmV5LW1heW9yLWhhcy11bmxlYXNoZWQtb24tZ292ZXJubWVudC1wb2xpY2llcy10aGF0LWxlZC10by10ZW5zLW9mLXRob3VzYW5kcy1vZi1jaGVla2J5am93bC1ob21lcy9uZXdzLXN0b3J5L2EzZDRhM2FjMjNlMWJlNmNhZmJjNzMxYzMxYTE4MDI40gEA?oc=5",
+        "title": "Sydney can\u2019t stand the rain, but here are five ways to keep the city moving - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5zbWguY29tLmF1L25hdGlvbmFsL25zdy9zeWRuZXktY2FuLXQtc3RhbmQtdGhlLXJhaW4tYnV0LWhlcmUtYXJlLWZpdmUtd2F5cy10by1rZWVwLXRoZS1jaXR5LW1vdmluZy0yMDI0MDMxMy1wNWZjNW8uaHRtbNIBgwFodHRwczovL2FtcC5zbWguY29tLmF1L25hdGlvbmFsL25zdy9zeWRuZXktY2FuLXQtc3RhbmQtdGhlLXJhaW4tYnV0LWhlcmUtYXJlLWZpdmUtd2F5cy10by1rZWVwLXRoZS1jaXR5LW1vdmluZy0yMDI0MDMxMy1wNWZjNW8uaHRtbA?oc=5",
         "description": [],
-        "pub_date": "Tue, 30 Apr 2024 04:57:54 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
-    },
-    {
-        "title": "\u2018Path forward remains uncertain\u2019: Spending slumps before RBA\u2019s pre-budget rates call - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zbWguY29tLmF1L3BvbGl0aWNzL2ZlZGVyYWwvcGF0aC1mb3J3YXJkLXJlbWFpbnMtdW5jZXJ0YWluLXNwZW5kaW5nLXNsdW1wcy1iZWZvcmUtcmJhLXMtcHJlLWJ1ZGdldC1yYXRlcy1jYWxsLTIwMjQwNDMwLXA1Zm5sMy5odG1s0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 14:01:00 GMT",
+        "pub_date": "Wed, 01 May 2024 01:38:08 GMT",
         "source_url": "https://www.smh.com.au",
         "source_name": "Sydney Morning Herald"
-    },
-    {
-        "title": "Sydney set for a week of heavy rain - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvc3lkbmV5LXdlYXRoZXItY29sZC1mcm9udHMtaGVhdnktcmFpbi1mbGFzaC1mbG9vZGluZy1sb29tcy1hcy1uc3ctYnJhY2VzLWZvci13aWxkLXdlZWsvbmV3cy1zdG9yeS84NDNmOGRhY2ZjYzk4N2ZiYWZjYjlmNDg2ZWM5ODBlY9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 02:30:48 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
     },
     {
         "title": "8K vs 18K | Sydney cinematographer pushing technology at home and Hollywood - 9News",
@@ -88,380 +72,12 @@
         "source_name": "9News"
     },
     {
-        "title": "Sydney hotels don\u2019t get much more central than this - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNtaC5jb20uYXUvdHJhdmVsbGVyL3Jldmlld3MtYW5kLWFkdmljZS9zeWRuZXktaG90ZWxzLWRvbi10LWdldC1tdWNoLW1vcmUtY2VudHJhbC10aGFuLXRoaXMtMjAyNDAzMjUtcDVmZjJ6Lmh0bWzSAXxodHRwczovL2FtcC5zbWguY29tLmF1L3RyYXZlbGxlci9yZXZpZXdzLWFuZC1hZHZpY2Uvc3lkbmV5LWhvdGVscy1kb24tdC1nZXQtbXVjaC1tb3JlLWNlbnRyYWwtdGhhbi10aGlzLTIwMjQwMzI1LXA1ZmYyei5odG1s?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 19:00:00 GMT",
-        "source_url": "https://www.smh.com.au",
-        "source_name": "Sydney Morning Herald"
-    },
-    {
         "title": "Sydney is home to the world's most Instagrammable restaurant - Time Out",
         "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRpbWVvdXQuY29tL3N5ZG5leS9uZXdzL2l0cy1vZmZpY2lhbC1zeWRuZXktaXMtaG9tZS10by10aGUtd29ybGRzLW1vc3QtaW5zdGFncmFtbWFibGUtcmVzdGF1cmFudC0wNDMwMjTSAQA?oc=5",
         "description": [],
         "pub_date": "Tue, 30 Apr 2024 03:05:36 GMT",
         "source_url": "https://www.timeout.com",
         "source_name": "Time Out"
-    },
-    {
-        "title": "Sydney\u2019s cut price mansions revealed - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9maW5hbmNlL3JlYWwtZXN0YXRlL2J1eWluZy9zeWRuZXlzLWN1dC1wcmljZS1tYW5zaW9ucy1yZXZlYWxlZC9uZXdzLXN0b3J5L2JlNDEwMzZhOGIxNDY5MzlhN2I3ZTRlODNmM2M1Yjkx0gGGAWh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L2ZpbmFuY2UvcmVhbC1lc3RhdGUvYnV5aW5nL3N5ZG5leXMtY3V0LXByaWNlLW1hbnNpb25zLXJldmVhbGVkL25ld3Mtc3RvcnkvYmU0MTAzNmE4YjE0NjkzOWE3YjdlNGU4M2YzYzViOTE_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 05:08:31 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
-    },
-    {
-        "title": "Inquest hears fresh evidence in 30-year mystery of Revelle Balmain's disappearance - 9News",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LjluZXdzLmNvbS5hdS9uYXRpb25hbC9mcmllbmRzLW9mLW1vZGVsLWVzY29ydC1yZWNvdW50LWRheS1zaGUtZGlzYXBwZWFyZWQvOTBjNWYzMDktZWVhOC00ODhjLTk1M2UtNzA5ZDdiMDJmOWM10gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvOTBjNWYzMDktZWVhOC00ODhjLTk1M2UtNzA5ZDdiMDJmOWM1?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 08:13:40 GMT",
-        "source_url": "https://www.9news.com.au",
-        "source_name": "9News"
-    },
-    {
-        "title": "JUST IN: Amy Poehler is joining Vivid Sydney for a special event at Sydney Opera House - Time Out",
-        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL3N5ZG5leS9uZXdzL2FteS1wb2VobGVyLWlzLWpvaW5pbmctdml2aWQtc3lkbmV5LWZvci1hLXNwZWNpYWwtZXZlbnQtYXQtc3lkbmV5LW9wZXJhLWhvdXNlLTA0MjkyNNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 21:08:57 GMT",
-        "source_url": "https://www.timeout.com",
-        "source_name": "Time Out"
-    },
-    {
-        "title": "Made In Chelsea stars jet Down Under for Bondi spin-off - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvZW50ZXJ0YWlubWVudC9zeWRuZXktY29uZmlkZW50aWFsL21hZGUtaW4tY2hlbHNlYS1zdGFycy1mbHktZG93bi11bmRlci1mb3ItYm9uZGktc3Bpbm9mZi9uZXdzLXN0b3J5Lzg0NTc1ZWUwOTIwZGY5NGZhOTdjZmVkNGU1MzAwY2Zk0gGqAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9lbnRlcnRhaW5tZW50L3N5ZG5leS1jb25maWRlbnRpYWwvbWFkZS1pbi1jaGVsc2VhLXN0YXJzLWZseS1kb3duLXVuZGVyLWZvci1ib25kaS1zcGlub2ZmL25ld3Mtc3RvcnkvODQ1NzVlZTA5MjBkZjk0ZmE5N2NmZWQ0ZTUzMDBjZmQ_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 08:04:25 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "This luxed-up Latin American diner in Martin Place has bags of personality \u2013 and a hat - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvZ29vZGZvb2Qvc3lkbmV5LWVhdGluZy1vdXQvdGFrZS1hLWdyYW5kLXRvdXItb2YtbGF0aW4tYW1lcmljYS1hdC1tb3JlbmEtMjAyNDA0MjMtcDVmbTI2Lmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 14:00:00 GMT",
-        "source_url": "https://www.smh.com.au",
-        "source_name": "Sydney Morning Herald"
-    },
-    {
-        "title": "Coming Soon: Matt Whiley's Sustainability-Forward Cocktail Bar Re Is Reopening at The Norfolk Hotel - Concrete Playground Sydney",
-        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vc3lkbmV5L2Zvb2QtZHJpbmsvY29taW5nLXNvb24tbWF0dC13aGlsZXlzLXN1c3RhaW5hYmlsaXR5LWZvcndhcmQtY29ja3RhaWwtYmFyLXJlLWlzLXJlb3BlbmluZy1hdC10aGUtbm9yZm9say1ob3RlbNIBlgFodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vc3lkbmV5L2Zvb2QtZHJpbmsvY29taW5nLXNvb24tbWF0dC13aGlsZXlzLXN1c3RhaW5hYmlsaXR5LWZvcndhcmQtY29ja3RhaWwtYmFyLXJlLWlzLXJlb3BlbmluZy1hdC10aGUtbm9yZm9say1ob3RlbC9hbXA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 04:10:58 GMT",
-        "source_url": "https://concreteplayground.com",
-        "source_name": "Concrete Playground Sydney"
-    },
-    {
-        "title": "Drive-by shooting, car fire overnight in western Sydney - 9News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvbWVycnlsYW5kcy1kcml2ZS1ieS1zaG9vdGluZy1iYXNzLWhpbGwtY2FyLWZpcmUtcG9saWNlLWludmVzdGlnYXRpbmcvNTlkYWE5OTAtZTFjMy00MjM3LWI0MjQtMTRkNzI4YzA0NTlm0gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvNTlkYWE5OTAtZTFjMy00MjM3LWI0MjQtMTRkNzI4YzA0NTlm?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 00:24:57 GMT",
-        "source_url": "https://www.9news.com.au",
-        "source_name": "9News"
-    },
-    {
-        "title": "Jetstar sale | Return for free sale \u2013 cheap flights from Sydney - Time Out",
-        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50aW1lb3V0LmNvbS9zeWRuZXkvbmV3cy9qZXRzdGFyLWlzLWRyb3BwaW5nLWEtbWFzc2l2ZS0yMHRoLWJpcnRoZGF5LXJldHVybi1mb3ItZnJlZS1zYWxlLW9uLWZsaWdodHMtZnJvbS1zeWRuZXktYWNyb3NzLWF1c3RyYWxpYS1hbmQtdGhlLXdvcmxkLTA0MzAyNNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 01:45:08 GMT",
-        "source_url": "https://www.timeout.com",
-        "source_name": "Time Out"
-    },
-    {
-        "title": "\u2018Ethnic cleansing\u2019: Councillor fires up against Sydney\u2019s density drive - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMi1wFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3RoZS1leHByZXNzL25zdy1wbGFubmluZy1jaGFuZ2VzLWNvdW5jaWxsb3ItY2xhaW1zLWxvbmd0ZXJtLXJlc2lkZW50cy13aWxsLWJlLWRyaXZlbi1mcm9tLWhvbWVzLXVuZGVyLW5zdy1ob3VzaW5nLWRlbnNpdHktZHJpdmUvbmV3cy1zdG9yeS8yZDA1NmRlNmM0ODI5N2RkN2ZhMzhkN2FmMGFhNmNjONIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 06:11:22 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
-    },
-    {
-        "title": "Slice of Seoul: Tenacious Pizza's Korean-Inspired - Not Quite Nigella",
-        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5vdHF1aXRlbmlnZWxsYS5jb20vMjAyNC8wNC8zMC90ZW5hY2lvdXMtcGl6emEtZGFybGluZ2h1cnN0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 14:13:47 GMT",
-        "source_url": "https://www.notquitenigella.com",
-        "source_name": "Not Quite Nigella"
-    },
-    {
-        "title": "Sydney Metro West tunnel boring machines reach Burwood North - Sydney Metro",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnN5ZG5leW1ldHJvLmluZm8vYXJ0aWNsZS9zeWRuZXktbWV0cm8td2VzdC10dW5uZWwtYm9yaW5nLW1hY2hpbmVzLXJlYWNoLWJ1cndvb2Qtbm9ydGjSAQA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 22:53:59 GMT",
-        "source_url": "https://www.sydneymetro.info",
-        "source_name": "Sydney Metro"
-    },
-    {
-        "title": "My daughter was killed in the Bondi Junction attack. How my family found out is shameful - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5zbWguY29tLmF1L25hdGlvbmFsL25zdy9teS1kYXVnaHRlci13YXMta2lsbGVkLWluLXRoZS1ib25kaS1qdW5jdGlvbi1hdHRhY2staG93LW15LWZhbWlseS1mb3VuZC1vdXQtaXMtc2hhbWVmdWwtMjAyNDA0MjktcDVmbmJ3Lmh0bWzSAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 09:30:00 GMT",
-        "source_url": "https://www.smh.com.au",
-        "source_name": "Sydney Morning Herald"
-    },
-    {
-        "title": "Mensho Tokyo's Michelin-Recognised Ramen Is Now In Sydney - Urban List",
-        "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnRoZXVyYmFubGlzdC5jb20vc3lkbmV5L2RpcmVjdG9yeS9tZW5zaG8tdG9reW8tc3lkbmV50gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 06:27:32 GMT",
-        "source_url": "https://www.theurbanlist.com",
-        "source_name": "Urban List"
-    },
-    {
-        "title": "\u2018Stunting fun\u2019: Pub\u2019s footpath dining dream hits red-tape battle - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMi2QFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2NlbnRyYWwtc3lkbmV5L2JlcmVzZm9yZC1ob3RlbC1zdXJyeS1oaWxscy1mb290cGF0aC1kaW5pbmctcGxhbi1mYWNlcy1zdHJpY3QtY291bmNpbC1jb25kaXRpb25zLWFmdGVyLXdhdmUtb2YtcmVzaWRlbnQtY29tcGxhaW50cy9uZXdzLXN0b3J5LzcyNmU0NmMwNGZhZmMzYWE5Mjc4NjA5NjNjOTkzNzky0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 19:01:22 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
-    },
-    {
-        "title": "Build-to-rent: BTR projects in western Sydney's Parramatta get NSW government development approval despite flood risks - The Australian Financial Review",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9idHItcHVzaC1pbi1zeWRuZXktcy13ZXN0LWdhaW5zLXN0ZWFtLWRlc3BpdGUtZmxvb2Qtcmlza3MtMjAyNDA0MjktcDVmbjl10gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 07:39:00 GMT",
-        "source_url": "https://www.afr.com",
-        "source_name": "The Australian Financial Review"
-    },
-    {
-        "title": "Where Chefs Eat in Sydney: Ahana Dutt of Raja - Broadsheet",
-        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9zeWRuZXkvZm9vZC1hbmQtZHJpbmsvYXJ0aWNsZS93aGVyZS1jaGVmcy1lYXQtcmFqYXMtYWhhbmEtZHV0dC1jaGF0cy1sb25nLWx1bmNoaW5nLXBvcmNpbmUtYW5kLXNwZWN0YWN1bGFyLXZpZXRuYW1lc2XSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 05:35:20 GMT",
-        "source_url": "https://www.broadsheet.com.au",
-        "source_name": "Broadsheet"
-    },
-    {
-        "title": "Sad note scrawled on fire truck - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9uc3ctYWN0L25ld3MvaXQtYWxsLWFkZHMtdXAtZmVkdXAtZmlyZWZpZ2h0ZXJzLXJhaXNlLXRoZS1hbGFybS9uZXdzLXN0b3J5L2Q0ZDdkY2Y3NjUxNWFmYmRjNzYxODhkOWZhZTc1MWUz0gEA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 06:09:08 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
-    },
-    {
-        "title": "San Francisco-style house set to smash Church Point record - realestate.com.au - realestate.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3Mvc2FuLWZyYW5jaXNjb3N0eWxlLWhvdXNlLXNldC10by1zbWFzaC1jaHVyY2gtcG9pbnQtcmVjb3JkL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 02:15:17 GMT",
-        "source_url": "https://www.realestate.com.au",
-        "source_name": "realestate.com.au"
-    },
-    {
-        "title": "\u2018If I get busted, I get done for fraud\u2019: ICAC finds council worker corrupt - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvbmF0aW9uYWwvbnN3L2lmLWktZ2V0LWJ1c3RlZC1pLWdldC1kb25lLWZvci1mcmF1ZC1pY2FjLWZpbmRzLWNvdW5jaWwtd29ya2VyLWNvcnJ1cHQtMjAyNDA0MzAtcDVmbnI4Lmh0bWzSAX9odHRwczovL2FtcC5zbWguY29tLmF1L25hdGlvbmFsL25zdy9pZi1pLWdldC1idXN0ZWQtaS1nZXQtZG9uZS1mb3ItZnJhdWQtaWNhYy1maW5kcy1jb3VuY2lsLXdvcmtlci1jb3JydXB0LTIwMjQwNDMwLXA1Zm5yOC5odG1s?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 09:00:21 GMT",
-        "source_url": "https://www.smh.com.au",
-        "source_name": "Sydney Morning Herald"
-    },
-    {
-        "title": "Locals fire warning shot over controversial pub hours - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2NlbnRyYWwtc3lkbmV5L3RoZS1hYmVyY3JvbWJpZS1ob3RlbC1sb2RnZXMtcGxhbnMtdG8tY291bmNpbC1mb3ItdmVudWUtdG8tcGxheS1tdXNpYy1vdXRkb29ycy11bnRpbC0zYW0vbmV3cy1zdG9yeS85YmNlODdlNzdiZGQ3ZTk1MGFmZjliNDJhN2I3Zjg4M9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 00:34:40 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
-    },
-    {
-        "title": "Council has its say on RFS and emergency services funding - Northern Beaches Council",
-        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5vcnRoZXJuYmVhY2hlcy5uc3cuZ292LmF1L2NvdW5jaWwvbmV3cy9tZWRpYS1yZWxlYXNlcy9jb3VuY2lsLWhhcy1pdHMtc2F5LXJmcy1hbmQtZW1lcmdlbmN5LXNlcnZpY2VzLWZ1bmRpbmfSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 04:29:18 GMT",
-        "source_url": "https://www.northernbeaches.nsw.gov.au",
-        "source_name": "Northern Beaches Council"
-    },
-    {
-        "title": "Sydney man to face court after allegedly attacking woman known to him - 9News",
-        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvbWFuLXRvLWZhY2UtY291cnQtYWZ0ZXItYWxsZWdlZGx5LWNob2tpbmctcGFydG5lci1pbi1zeWRuZXlzLXNvdXRod2VzdC9hYmIzMjQyZS1jYzMwLTQ2YWEtYTBlYi0yNjNmNWI3ZTc4ZmTSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS9hYmIzMjQyZS1jYzMwLTQ2YWEtYTBlYi0yNjNmNWI3ZTc4ZmQ?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 02:59:46 GMT",
-        "source_url": "https://www.9news.com.au",
-        "source_name": "9News"
-    },
-    {
-        "title": "Investors on the hook for artificial intelligence abuse - Illawarra Mercury",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmlsbGF3YXJyYW1lcmN1cnkuY29tLmF1L3N0b3J5Lzg2MTIzMTAvaW52ZXN0b3JzLW9uLXRoZS1ob29rLWZvci1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hYnVzZS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 17:49:09 GMT",
-        "source_url": "https://www.illawarramercury.com.au",
-        "source_name": "Illawarra Mercury"
-    },
-    {
-        "title": "Uninhabitable Potts Point apartment without a bathroom or kitchen sells for $13.7 million - Domain News",
-        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kb21haW4uY29tLmF1L25ld3MvdW5pbmhhYml0YWJsZS1wb3R0cy1wb2ludC1hcGFydG1lbnQtd2l0aG91dC1hLWJhdGhyb29tLW9yLWtpdGNoZW4tc2VsbHMtZm9yLTEzLTctbWlsbGlvbi0xMjgwOTg5L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 03:59:24 GMT",
-        "source_url": "https://www.domain.com.au",
-        "source_name": "Domain News"
-    },
-    {
-        "title": "Hairstylists recommend their favourite products and the autumn trends they\u2019re seeing take off - 7NEWS",
-        "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovLzduZXdzLmNvbS5hdS9iZXN0LXBpY2tzL2hhaXJzdHlsaXN0cy1yZWNvbW1lbmQtdGhlaXItZmF2b3VyaXRlLXByb2R1Y3RzLWFuZC10aGUtYXV0dW1uLXRyZW5kcy10aGV5cmUtc2VlaW5nLXRha2Utb2ZmLWMtMTQ0OTM5MjbSAYsBaHR0cHM6Ly83bmV3cy5jb20uYXUvYmVzdC1waWNrcy9oYWlyc3R5bGlzdHMtcmVjb21tZW5kLXRoZWlyLWZhdm91cml0ZS1wcm9kdWN0cy1hbmQtdGhlLWF1dHVtbi10cmVuZHMtdGhleXJlLXNlZWluZy10YWtlLW9mZi1jLTE0NDkzOTI2LmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 12:02:18 GMT",
-        "source_url": "https://7news.com.au",
-        "source_name": "7NEWS"
-    },
-    {
-        "title": "\u2018I can\u2019t sleep\u2019: Man reveals encounter with accused terror teens - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvc3lkbmV5LWJvdHRsZS1zaG9wLXdvcmtlci1yZXZlYWxzLWRpc3R1cmJpbmctZW5jb3VudGVyLXdpdGgtYWNjdXNlZC10ZXJyb3ItdGVlbnMvbmV3cy1zdG9yeS81ODg5YzFmMzJjNmI4ZThmOTFlNGViZDQ1MzdhMzA3Y9IBqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uc3cvc3lkbmV5LWJvdHRsZS1zaG9wLXdvcmtlci1yZXZlYWxzLWRpc3R1cmJpbmctZW5jb3VudGVyLXdpdGgtYWNjdXNlZC10ZXJyb3ItdGVlbnMvbmV3cy1zdG9yeS81ODg5YzFmMzJjNmI4ZThmOTFlNGViZDQ1MzdhMzA3Yz9hbXA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 04:32:28 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
-    },
-    {
-        "title": "The Star\u2019s chairman ousted following inquiry fallout - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL3RoZS1zdGFyLXMtY2hhaXItcXVpdHMtZm9sbG93aW5nLWlucXVpcnktZmFsbG91dC0yMDI0MDQyOS1wNWZuYXEuaHRtbNIBb2h0dHBzOi8vYW1wLnNtaC5jb20uYXUvYnVzaW5lc3MvY29tcGFuaWVzL3RoZS1zdGFyLXMtY2hhaXItcXVpdHMtZm9sbG93aW5nLWlucXVpcnktZmFsbG91dC0yMDI0MDQyOS1wNWZuYXEuaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 04:54:52 GMT",
-        "source_url": "https://www.smh.com.au",
-        "source_name": "Sydney Morning Herald"
-    },
-    {
-        "title": "Milestone in children\u2019s cancer centre - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9saWZlc3R5bGUvaGVhbHRoL2hlYWx0aC1wcm9ibGVtcy9zeWRuZXktY2hpbGRyZW5zLWhvc3BpdGFsLWFuZC1jYW5jZXItY2VudHJlLXJlYWNoZXMtbWFqb3ItbWlsZXN0b25lL25ld3Mtc3RvcnkvMjg5ZDVmNTU5ZjQzMjYwOTczYTY4MmFiNDlhMmUwZTXSAawBaHR0cHM6Ly93d3cubmV3cy5jb20uYXUvbGlmZXN0eWxlL2hlYWx0aC9oZWFsdGgtcHJvYmxlbXMvc3lkbmV5LWNoaWxkcmVucy1ob3NwaXRhbC1hbmQtY2FuY2VyLWNlbnRyZS1yZWFjaGVzLW1ham9yLW1pbGVzdG9uZS9uZXdzLXN0b3J5LzI4OWQ1ZjU1OWY0MzI2MDk3M2E2ODJhYjQ5YTJlMGU1P2FtcA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 12:00:27 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
-    },
-    {
-        "title": "Council dead broke - Northern Beaches Advocate",
-        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5vcnRoZXJuYmVhY2hlc2Fkdm9jYXRlLmNvbS5hdS8yMDI0LzA1LzAxL2NvdW5jaWwtZGVhZC1icm9rZS_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 15:25:41 GMT",
-        "source_url": "https://www.northernbeachesadvocate.com.au",
-        "source_name": "Northern Beaches Advocate"
-    },
-    {
-        "title": "Tickets For Luna Park In The Dark Sydney Are On Sale - Secret Sydney",
-        "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vc2VjcmV0c3lkbmV5LmNvbS9sdW5hLXBhcmstaW4tdGhlLWRhcmstc3lkbmV5L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 08:01:10 GMT",
-        "source_url": "https://secretsydney.com",
-        "source_name": "Secret Sydney"
-    },
-    {
-        "title": "Emergency response after serious crash on M4 at South Wentworthville - 7NEWS",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vN25ld3MuY29tLmF1L25ld3MvZW1lcmdlbmN5LXJlc3BvbnNlLWFmdGVyLXNlcmlvdXMtY3Jhc2gtb24tbTQtYXQtc291dGgtd2VudHdvcnRodmlsbGUtLWMtMTQ1MDYxNjHSAQA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 04:37:50 GMT",
-        "source_url": "https://7news.com.au",
-        "source_name": "7NEWS"
-    },
-    {
-        "title": "AREC24: 'Find your edge and then sharpen it', says TRG founder Gavin Rubinstein - realestate.com.au - realestate.com.au",
-        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3MvYXJlYzI0LW15LWFkdmljZS1pcy1kb250LWJlLWEtZ2F2aW4tcnViaW5zdGVpbi13YW5uYWJlLXNheXMtdHJnLWZvdW5kZXIv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 07:26:29 GMT",
-        "source_url": "https://www.realestate.com.au",
-        "source_name": "realestate.com.au"
-    },
-    {
-        "title": "New NSW Gov stimulus draws buyers to Sapphire Apartments... - Urban",
-        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnVyYmFuLmNvbS5hdS9uZXdzL25zdy9uZXctbnN3LWdvdi1zdGltdWx1cy1kcmF3cy1idXllcnMtdG8tc2FwcGhpcmUtYXBhcnRtZW50cy1pbi1zeWRuZXktb2x5bXBpYy1wYXJr0gEA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 00:52:43 GMT",
-        "source_url": "https://www.urban.com.au",
-        "source_name": "Urban"
-    },
-    {
-        "title": "Where to find the cheapest fuel in Southeast Sydney - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3NvdXRoZXJuLWNvdXJpZXIvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLXNvdXRoZWFzdC1zeWRuZXkvbmV3cy1zdG9yeS8wZmRmMjlkNmEzYjI1OTQxY2M0YjZlZjVlMTYzNTRiZtIBqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3NvdXRoZXJuLWNvdXJpZXIvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLXNvdXRoZWFzdC1zeWRuZXkvbmV3cy1zdG9yeS8wZmRmMjlkNmEzYjI1OTQxY2M0YjZlZjVlMTYzNTRiZj9hbXA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 00:14:56 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
-    },
-    {
-        "title": "Pasticceria Papa cake shop closes Bondi Beach location after 10 years - 7NEWS",
-        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vN25ld3MuY29tLmF1L25ld3MvcGFzdGljY2VyaWEtcGFwYS1jYWtlLXNob3AtY2xvc2VzLWJvbmRpLWJlYWNoLWxvY2F0aW9uLWFmdGVyLTEwLXllYXJzLWMtMTQ0ODkyNjLSAW5odHRwczovLzduZXdzLmNvbS5hdS9uZXdzL3Bhc3RpY2NlcmlhLXBhcGEtY2FrZS1zaG9wLWNsb3Nlcy1ib25kaS1iZWFjaC1sb2NhdGlvbi1hZnRlci0xMC15ZWFycy1jLTE0NDg5MjYyLmFtcA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 11:22:53 GMT",
-        "source_url": "https://7news.com.au",
-        "source_name": "7NEWS"
-    },
-    {
-        "title": "Man slashed across neck with box cutter during Sydney soccer match - Sydney Morning Herald",
-        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvbmF0aW9uYWwvbnN3L21hbi1zbGFzaGVkLWFjcm9zcy1uZWNrLXdpdGgtYm94LWN1dHRlci1kdXJpbmctc3lkbmV5LXNvY2Nlci1tYXRjaC0yMDI0MDQzMC1wNWZub3guaHRtbNIBe2h0dHBzOi8vYW1wLnNtaC5jb20uYXUvbmF0aW9uYWwvbnN3L21hbi1zbGFzaGVkLWFjcm9zcy1uZWNrLXdpdGgtYm94LWN1dHRlci1kdXJpbmctc3lkbmV5LXNvY2Nlci1tYXRjaC0yMDI0MDQzMC1wNWZub3guaHRtbA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 04:40:16 GMT",
-        "source_url": "https://www.smh.com.au",
-        "source_name": "Sydney Morning Herald"
-    },
-    {
-        "title": "Meticulously maintained five-bedroom family oasis in Oatley West - St George & Sutherland Shire Leader",
-        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMTc3My9tZXRpY3Vsb3VzbHktbWFpbnRhaW5lZC1maXZlLWJlZHJvb20tZmFtaWx5LW9hc2lzLWluLW9hdGxleS13ZXN0L9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 23:06:21 GMT",
-        "source_url": "https://www.theleader.com.au",
-        "source_name": "St George & Sutherland Shire Leader"
-    },
-    {
-        "title": "Disabilities Community Room launches at Manning House - Honi Soit",
-        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaG9uaXNvaXQuY29tLzIwMjQvMDUvZGlzYWJpbGl0aWVzLWNvbW11bml0eS1yb29tLWxhdW5jaGVzLWF0LW1hbm5pbmctaG91c2Uv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 21:00:00 GMT",
-        "source_url": "https://honisoit.com",
-        "source_name": "Honi Soit"
-    },
-    {
-        "title": "Sutherland Shire Citizens' Heritage Festival in Cronulla - St George & Sutherland Shire Leader",
-        "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMDIxNS9zdXRoZXJsYW5kLXNoaXJlLWNpdGl6ZW5zLWhlcml0YWdlLWZlc3RpdmFsLWluLWNyb251bGxhL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 05:31:12 GMT",
-        "source_url": "https://www.theleader.com.au",
-        "source_name": "St George & Sutherland Shire Leader"
-    },
-    {
-        "title": "Sydney District Court civil matters list, Wednesday, May 1 - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2NlbnRyYWwtc3lkbmV5L2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1pbi1jaXZpbC1tYXR0ZXJzLWF0LXN5ZG5leS1kaXN0cmljdC1jb3VydC13ZWRuZXNkYXktbWF5LTEvbmV3cy1zdG9yeS8zMTViZGI0OGU4YzQ1Zjg2OTJmNDUwMmM3ZjdjMGM0NtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 23:17:35 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
-    },
-    {
-        "title": "Another Shocking Stabbing In Sydney 30/04/24 | news.com.au \u2014 Australia's leading news site - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L25hdGlvbmFsL2Fub3RoZXItc2hvY2tpbmctc3RhYmJpbmctaW4tc3lkbmV5LTMwMDQyNC9hdWRpby9hZjcwZWQ2NGVmY2RkODNiOTVkZTViMjQ4YWMwODIyN9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 20:43:40 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
-    },
-    {
-        "title": "\u2018It\u2019s really exhausting and demoralising.\u2019: Students express frustration at difficulties accessing transport concession disability exemptions - Honi Soit",
-        "link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL2hvbmlzb2l0LmNvbS8yMDI0LzA1L2l0cy1yZWFsbHktZXhoYXVzdGluZy1hbmQtZGVtb3JhbGlzaW5nLXN0dWRlbnRzLWV4cHJlc3MtZnJ1c3RyYXRpb24tYXQtZGlmZmljdWx0aWVzLWFjY2Vzc2luZy10cmFuc3BvcnQtY29uY2Vzc2lvbi1kaXNhYmlsaXR5LWV4ZW1wdGlvbnMv0gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 22:17:00 GMT",
-        "source_url": "https://honisoit.com",
-        "source_name": "Honi Soit"
-    },
-    {
-        "title": "'The wild west': Dermatologists warn of dangers of unregulated cosmetic laser industry - 9News",
-        "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvZGVybWF0b2xvZ2lzdHMtd2Fybi1vZi1kYW5nZXJzLW9mLXVucmVndWxhdGVkLWNvc21ldGljLWxhc2VyLWluZHVzdHJ5L2VlYmE0ZjBiLTk0MzYtNDYyZS05YjVjLTA0MjVlMTEyMjMyZdIBRWh0dHBzOi8vYW1wLjluZXdzLmNvbS5hdS9hcnRpY2xlL2VlYmE0ZjBiLTk0MzYtNDYyZS05YjVjLTA0MjVlMTEyMjMyZQ?oc=5",
-        "description": [],
-        "pub_date": "Mon, 29 Apr 2024 09:25:21 GMT",
-        "source_url": "https://www.9news.com.au",
-        "source_name": "9News"
-    },
-    {
-        "title": "Westfield Bondi Junction stabbing victim Pikria Darchia\u2019s son shares details of last phone call - 7NEWS",
-        "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vN25ld3MuY29tLmF1L25ld3MvYm9uZGktanVuY3Rpb24tc3RhYmJpbmctdmljdGltLXBpa3JpYS1kYXJjaGlhcy1zb24tc2hhcmVzLWRldGFpbHMtb2YtbGFzdC1waG9uZS1jYWxsLS1jLTE0NDc5NDA50gEA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 00:04:27 GMT",
-        "source_url": "https://7news.com.au",
-        "source_name": "7NEWS"
-    },
-    {
-        "title": "'Intensive services' critical to reducing crime: Greg Barns - Sky News Australia",
-        "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9jcmltZS9pbnRlbnNpdmUtc2VydmljZXMtY3JpdGljYWwtdG8tcmVkdWNpbmctY3JpbWUtZ3JlZy1iYXJucy92aWRlby83MzNlZmZlMzZiYWUxNWU0ZjFjYmIwMzViZWVhNGM5N9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Tue, 30 Apr 2024 06:23:43 GMT",
-        "source_url": "https://www.skynews.com.au",
-        "source_name": "Sky News Australia"
     },
     {
         "title": "Sydney suburb record still in sight after $14m sale of Paddington's Brompton fell through - Domain News",
@@ -472,20 +88,388 @@
         "source_name": "Domain News"
     },
     {
-        "title": "Everybody appearing in NSW Supreme Court matters on Wednesday, May 1 - Coffs Coast Advocate",
-        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctaW4tbnN3LXN1cHJlbWUtY291cnQtbWF0dGVycy1vbi13ZWRuZXNkYXktbWF5LTEvbmV3cy1zdG9yeS9jZWZjNTZiODIwMTE3ZTFhYTBhZmRjODQ4MTUyZGI0NdIBpQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctaW4tbnN3LXN1cHJlbWUtY291cnQtbWF0dGVycy1vbi13ZWRuZXNkYXktbWF5LTEvbmV3cy1zdG9yeS9jZWZjNTZiODIwMTE3ZTFhYTBhZmRjODQ4MTUyZGI0NT9hbXA?oc=5",
+        "title": "Police search for 'stupid' suspects in drive-by shooting on wrong house - 9News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvbWVycnlsYW5kcy1kcml2ZS1ieS1zaG9vdGluZy1iYXNzLWhpbGwtY2FyLWZpcmUtcG9saWNlLWludmVzdGlnYXRpbmcvNTlkYWE5OTAtZTFjMy00MjM3LWI0MjQtMTRkNzI4YzA0NTlm0gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvNTlkYWE5OTAtZTFjMy00MjM3LWI0MjQtMTRkNzI4YzA0NTlm?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 08:06:11 GMT",
+        "source_url": "https://www.9news.com.au",
+        "source_name": "9News"
+    },
+    {
+        "title": "Sydney hotels don't get much more central than this - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNtaC5jb20uYXUvdHJhdmVsbGVyL3Jldmlld3MtYW5kLWFkdmljZS9zeWRuZXktaG90ZWxzLWRvbi10LWdldC1tdWNoLW1vcmUtY2VudHJhbC10aGFuLXRoaXMtMjAyNDAzMjUtcDVmZjJ6Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 19:00:00 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "Sydney set for a drenching as cold front brings chilly weather to eastern states - 7NEWS",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vN25ld3MuY29tLmF1L3N1bnJpc2Uvc3lkbmV5LXNldC1mb3ItYS1kcmVuY2hpbmctYXMtY29sZC1mcm9udC1icmluZ3MtY2hpbGx5LXdlYXRoZXItdG8tZWFzdGVybi1zdGF0ZXMtLWMtMTQ0ODk0NDTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 11:03:09 GMT",
+        "source_url": "https://7news.com.au",
+        "source_name": "7NEWS"
+    },
+    {
+        "title": "\u2018Pressure\u2019: Major fears for cramped houses - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9maW5hbmNlL3JlYWwtZXN0YXRlL2Etc3lkbmV5LW1heW9yLWhhcy11bmxlYXNoZWQtb24tZ292ZXJubWVudC1wb2xpY2llcy10aGF0LWxlZC10by10ZW5zLW9mLXRob3VzYW5kcy1vZi1jaGVla2J5am93bC1ob21lcy9uZXdzLXN0b3J5L2EzZDRhM2FjMjNlMWJlNmNhZmJjNzMxYzMxYTE4MDI40gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 04:57:54 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
+        "title": "JUST IN: Amy Poehler is joining Vivid Sydney for a special event at Sydney Opera House - Time Out",
+        "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRpbWVvdXQuY29tL3N5ZG5leS9uZXdzL2FteS1wb2VobGVyLWlzLWpvaW5pbmctdml2aWQtc3lkbmV5LWZvci1hLXNwZWNpYWwtZXZlbnQtYXQtc3lkbmV5LW9wZXJhLWhvdXNlLTA0MjkyNNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 21:08:57 GMT",
+        "source_url": "https://www.timeout.com",
+        "source_name": "Time Out"
+    },
+    {
+        "title": "It's not Sydney or Melbourne, so which city are the big restaurant names flocking to open in? - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5zbWguY29tLmF1L2dvb2Rmb29kL2l0LXMtbm90LXN5ZG5leS1vci1tZWxib3VybmUtc28td2hpY2gtY2l0eS1hcmUtdGhlLWJpZy1yZXN0YXVyYW50LW5hbWVzLWZsb2NraW5nLXRvLW9wZW4taW4tMjAyNDA0MjYtcDVmbXZ3Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 20:00:00 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "Boyfriend unaware of missing Sydney model\u2019s \u2018double life\u2019 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMizgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3NvdXRoZXJuLWNvdXJpZXIvcmV2ZWxsZS1iYWxtYWluLWJveWZyaWVuZC1vZi1zeWRuZXktbW9kZWwtd2hvLXdlbnQtbWlzc2luZy1pbi0xOTk0LWRpZC1ub3Qta25vdy1hYm91dC1oZXItZG91YmxlLWxpZmUvbmV3cy1zdG9yeS8wYzI3ZDY3YWFmMTk4MDc4ODM3ZjU3ZTEwZGI2YzI2YtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 04:40:16 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Coming Soon: Matt Whiley's Sustainability-Forward Cocktail Bar Re Is Reopening at The Norfolk Hotel - Concrete Playground Sydney",
+        "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vc3lkbmV5L2Zvb2QtZHJpbmsvY29taW5nLXNvb24tbWF0dC13aGlsZXlzLXN1c3RhaW5hYmlsaXR5LWZvcndhcmQtY29ja3RhaWwtYmFyLXJlLWlzLXJlb3BlbmluZy1hdC10aGUtbm9yZm9say1ob3RlbNIBlgFodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vc3lkbmV5L2Zvb2QtZHJpbmsvY29taW5nLXNvb24tbWF0dC13aGlsZXlzLXN1c3RhaW5hYmlsaXR5LWZvcndhcmQtY29ja3RhaWwtYmFyLXJlLWlzLXJlb3BlbmluZy1hdC10aGUtbm9yZm9say1ob3RlbC9hbXA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 04:10:58 GMT",
+        "source_url": "https://concreteplayground.com",
+        "source_name": "Concrete Playground Sydney"
+    },
+    {
+        "title": "Jetstar sale | Return for free sale \u2013 cheap flights from Sydney - Time Out",
+        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy50aW1lb3V0LmNvbS9zeWRuZXkvbmV3cy9qZXRzdGFyLWlzLWRyb3BwaW5nLWEtbWFzc2l2ZS0yMHRoLWJpcnRoZGF5LXJldHVybi1mb3ItZnJlZS1zYWxlLW9uLWZsaWdodHMtZnJvbS1zeWRuZXktYWNyb3NzLWF1c3RyYWxpYS1hbmQtdGhlLXdvcmxkLTA0MzAyNNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 01:45:08 GMT",
+        "source_url": "https://www.timeout.com",
+        "source_name": "Time Out"
+    },
+    {
+        "title": "Sydney's cut price mansions revealed - realestate.com.au - realestate.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3Mvc3lkbmV5cy1jdXQtcHJpY2UtbWFuc2lvbnMtcmV2ZWFsZWQv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 05:05:10 GMT",
+        "source_url": "https://www.realestate.com.au",
+        "source_name": "realestate.com.au"
+    },
+    {
+        "title": "Slice of Seoul: Tenacious Pizza's Korean-Inspired - Not Quite Nigella",
+        "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm5vdHF1aXRlbmlnZWxsYS5jb20vMjAyNC8wNC8zMC90ZW5hY2lvdXMtcGl6emEtZGFybGluZ2h1cnN0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 14:13:47 GMT",
+        "source_url": "https://www.notquitenigella.com",
+        "source_name": "Not Quite Nigella"
+    },
+    {
+        "title": "This luxed-up Latin American diner in Martin Place has bags of personality \u2013 and a hat - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvZ29vZGZvb2Qvc3lkbmV5LWVhdGluZy1vdXQvdGFrZS1hLWdyYW5kLXRvdXItb2YtbGF0aW4tYW1lcmljYS1hdC1tb3JlbmEtMjAyNDA0MjMtcDVmbTI2Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 14:00:00 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "Emergency response after serious crash on M4 at South Wentworthville - 7NEWS",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vN25ld3MuY29tLmF1L25ld3MvZW1lcmdlbmN5LXJlc3BvbnNlLWFmdGVyLXNlcmlvdXMtY3Jhc2gtb24tbTQtYXQtc291dGgtd2VudHdvcnRodmlsbGUtLWMtMTQ1MDYxNjHSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 04:59:49 GMT",
+        "source_url": "https://7news.com.au",
+        "source_name": "7NEWS"
+    },
+    {
+        "title": "Sydney Metro West tunnel boring machines reach Burwood North - Sydney Metro",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnN5ZG5leW1ldHJvLmluZm8vYXJ0aWNsZS9zeWRuZXktbWV0cm8td2VzdC10dW5uZWwtYm9yaW5nLW1hY2hpbmVzLXJlYWNoLWJ1cndvb2Qtbm9ydGjSAQA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 22:53:59 GMT",
+        "source_url": "https://www.sydneymetro.info",
+        "source_name": "Sydney Metro"
+    },
+    {
+        "title": "Made In Chelsea stars jet Down Under for Bondi spin-off - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvZW50ZXJ0YWlubWVudC9zeWRuZXktY29uZmlkZW50aWFsL21hZGUtaW4tY2hlbHNlYS1zdGFycy1mbHktZG93bi11bmRlci1mb3ItYm9uZGktc3Bpbm9mZi9uZXdzLXN0b3J5Lzg0NTc1ZWUwOTIwZGY5NGZhOTdjZmVkNGU1MzAwY2Zk0gGqAWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9lbnRlcnRhaW5tZW50L3N5ZG5leS1jb25maWRlbnRpYWwvbWFkZS1pbi1jaGVsc2VhLXN0YXJzLWZseS1kb3duLXVuZGVyLWZvci1ib25kaS1zcGlub2ZmL25ld3Mtc3RvcnkvODQ1NzVlZTA5MjBkZjk0ZmE5N2NmZWQ0ZTUzMDBjZmQ_YW1w?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 08:04:25 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Addenbrooke offloads site that sparked A2B board's exit to City West Housing - The Australian Financial Review",
+        "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFmci5jb20vcHJvcGVydHkvY29tbWVyY2lhbC9hZGRlbmJyb29rZS1zZWxscy1zaXRlLW1lYW50LWZvci1jb250cm92ZXJzaWFsLWxhbmQtc3dhcC1kZWFsLTIwMjQwNDMwLXA1Zm5xaNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 05:35:00 GMT",
+        "source_url": "https://www.afr.com",
+        "source_name": "The Australian Financial Review"
+    },
+    {
+        "title": "Tickets For Luna Park In The Dark Sydney Are On Sale - Secret Sydney",
+        "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vc2VjcmV0c3lkbmV5LmNvbS9sdW5hLXBhcmstaW4tdGhlLWRhcmstc3lkbmV5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 08:01:10 GMT",
+        "source_url": "https://secretsydney.com",
+        "source_name": "Secret Sydney"
+    },
+    {
+        "title": "Sydney man to face court after allegedly attacking woman known to him - 9News",
+        "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvbWFuLXRvLWZhY2UtY291cnQtYWZ0ZXItYWxsZWdlZGx5LWNob2tpbmctcGFydG5lci1pbi1zeWRuZXlzLXNvdXRod2VzdC9hYmIzMjQyZS1jYzMwLTQ2YWEtYTBlYi0yNjNmNWI3ZTc4ZmTSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS9hYmIzMjQyZS1jYzMwLTQ2YWEtYTBlYi0yNjNmNWI3ZTc4ZmQ?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 02:59:46 GMT",
+        "source_url": "https://www.9news.com.au",
+        "source_name": "9News"
+    },
+    {
+        "title": "Now Open: The Chippendale Hotel Has Officially Relaunched with a Completely Vegan Offering - Concrete Playground Sydney",
+        "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vc3lkbmV5L2Zvb2QtZHJpbmsvdGhlLWNoaXBwZW5kYWxlLWhvdGVsLWhhcy1vZmZpY2lhbGx5LXJlbGF1bmNoZWQtd2l0aC1hLWNvbXBsZXRlbHktdmVnYW4tb2ZmZXJpbmfSAYUBaHR0cHM6Ly9jb25jcmV0ZXBsYXlncm91bmQuY29tL3N5ZG5leS9mb29kLWRyaW5rL3RoZS1jaGlwcGVuZGFsZS1ob3RlbC1oYXMtb2ZmaWNpYWxseS1yZWxhdW5jaGVkLXdpdGgtYS1jb21wbGV0ZWx5LXZlZ2FuLW9mZmVyaW5nL2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 06:56:46 GMT",
+        "source_url": "https://concreteplayground.com",
+        "source_name": "Concrete Playground Sydney"
+    },
+    {
+        "title": "\u2018If I get busted, I get done for fraud\u2019: ICAC finds council worker corrupt - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvbmF0aW9uYWwvbnN3L2lmLWktZ2V0LWJ1c3RlZC1pLWdldC1kb25lLWZvci1mcmF1ZC1pY2FjLWZpbmRzLWNvdW5jaWwtd29ya2VyLWNvcnJ1cHQtMjAyNDA0MzAtcDVmbnI4Lmh0bWzSAX9odHRwczovL2FtcC5zbWguY29tLmF1L25hdGlvbmFsL25zdy9pZi1pLWdldC1idXN0ZWQtaS1nZXQtZG9uZS1mb3ItZnJhdWQtaWNhYy1maW5kcy1jb3VuY2lsLXdvcmtlci1jb3JydXB0LTIwMjQwNDMwLXA1Zm5yOC5odG1s?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 09:00:21 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "\u2018Ethnic cleansing\u2019: Councillor fires up against Sydney\u2019s density drive - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMi1wFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3RoZS1leHByZXNzL25zdy1wbGFubmluZy1jaGFuZ2VzLWNvdW5jaWxsb3ItY2xhaW1zLWxvbmd0ZXJtLXJlc2lkZW50cy13aWxsLWJlLWRyaXZlbi1mcm9tLWhvbWVzLXVuZGVyLW5zdy1ob3VzaW5nLWRlbnNpdHktZHJpdmUvbmV3cy1zdG9yeS8yZDA1NmRlNmM0ODI5N2RkN2ZhMzhkN2FmMGFhNmNjONIBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 06:11:22 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "AREC24: 'Find your edge and then sharpen it!' says TRG's Gavin Rubinstein as he signs third office - realestate.com.au - realestate.com.au",
+        "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3MvYXJlYzI0LW15LWFkdmljZS1pcy1kb250LWJlLWEtZ2F2aW4tcnViaW5zdGVpbi13YW5uYWJlLXNheXMtdHJnLWZvdW5kZXIv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 07:26:29 GMT",
+        "source_url": "https://www.realestate.com.au",
+        "source_name": "realestate.com.au"
+    },
+    {
+        "title": "Furiosa Premiere in Sydney - St George & Sutherland Shire Leader",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMzY1MC9mdXJpb3NhLXByZW1pZXJlLWluLXN5ZG5leS8_c3JjPXJzc9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 10:04:38 GMT",
+        "source_url": "https://www.theleader.com.au",
+        "source_name": "St George & Sutherland Shire Leader"
+    },
+    {
+        "title": "Harm Reduction Coalition Aotearoa's Dr Julian Buchanan on Legalising All Illicit Drugs - Sydney Criminal Lawyers",
+        "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zeWRuZXljcmltaW5hbGxhd3llcnMuY29tLmF1L2Jsb2cvaGFybS1yZWR1Y3Rpb24tY29hbGl0aW9uLWFvdGVhcm9hcy1kci1qdWxpYW4tYnVjaGFuYW4tb24tbGVnYWxpc2luZy1hbGwtaWxsaWNpdC1kcnVncy_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 07:35:30 GMT",
+        "source_url": "https://www.sydneycriminallawyers.com.au",
+        "source_name": "Sydney Criminal Lawyers"
+    },
+    {
+        "title": "Council has its say on RFS and emergency services funding - Northern Beaches Council",
+        "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm5vcnRoZXJuYmVhY2hlcy5uc3cuZ292LmF1L2NvdW5jaWwvbmV3cy9tZWRpYS1yZWxlYXNlcy9jb3VuY2lsLWhhcy1pdHMtc2F5LXJmcy1hbmQtZW1lcmdlbmN5LXNlcnZpY2VzLWZ1bmRpbmfSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 10:28:36 GMT",
+        "source_url": "https://www.northernbeaches.nsw.gov.au",
+        "source_name": "Northern Beaches Council"
+    },
+    {
+        "title": "Investors on the hook for artificial intelligence abuse - Illawarra Mercury",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmlsbGF3YXJyYW1lcmN1cnkuY29tLmF1L3N0b3J5Lzg2MTIzMTAvaW52ZXN0b3JzLW9uLXRoZS1ob29rLWZvci1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1hYnVzZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 17:49:09 GMT",
+        "source_url": "https://www.illawarramercury.com.au",
+        "source_name": "Illawarra Mercury"
+    },
+    {
+        "title": "\u2018Stunting fun\u2019: Pub\u2019s footpath dining dream hits red-tape battle - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMi2QFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2NlbnRyYWwtc3lkbmV5L2JlcmVzZm9yZC1ob3RlbC1zdXJyeS1oaWxscy1mb290cGF0aC1kaW5pbmctcGxhbi1mYWNlcy1zdHJpY3QtY291bmNpbC1jb25kaXRpb25zLWFmdGVyLXdhdmUtb2YtcmVzaWRlbnQtY29tcGxhaW50cy9uZXdzLXN0b3J5LzcyNmU0NmMwNGZhZmMzYWE5Mjc4NjA5NjNjOTkzNzky0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 19:01:22 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Where Chefs Eat in Sydney: Ahana Dutt of Raja - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5icm9hZHNoZWV0LmNvbS5hdS9zeWRuZXkvZm9vZC1hbmQtZHJpbmsvYXJ0aWNsZS93aGVyZS1jaGVmcy1lYXQtcmFqYXMtYWhhbmEtZHV0dC1jaGF0cy1sb25nLWx1bmNoaW5nLXBvcmNpbmUtYW5kLXNwZWN0YWN1bGFyLXZpZXRuYW1lc2XSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 05:35:20 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
+    },
+    {
+        "title": "My daughter was killed in the Bondi Junction attack. How my family found out is shameful - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5zbWguY29tLmF1L25hdGlvbmFsL25zdy9teS1kYXVnaHRlci13YXMta2lsbGVkLWluLXRoZS1ib25kaS1qdW5jdGlvbi1hdHRhY2staG93LW15LWZhbWlseS1mb3VuZC1vdXQtaXMtc2hhbWVmdWwtMjAyNDA0MjktcDVmbmJ3Lmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 09:30:00 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "San Francisco-style house set to smash Church Point record - realestate.com.au - realestate.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3Mvc2FuLWZyYW5jaXNjb3N0eWxlLWhvdXNlLXNldC10by1zbWFzaC1jaHVyY2gtcG9pbnQtcmVjb3JkL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 02:15:17 GMT",
+        "source_url": "https://www.realestate.com.au",
+        "source_name": "realestate.com.au"
+    },
+    {
+        "title": "Council dead broke - Northern Beaches Advocate",
+        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5vcnRoZXJuYmVhY2hlc2Fkdm9jYXRlLmNvbS5hdS8yMDI0LzA1LzAxL2NvdW5jaWwtZGVhZC1icm9rZS_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 15:25:41 GMT",
+        "source_url": "https://www.northernbeachesadvocate.com.au",
+        "source_name": "Northern Beaches Advocate"
+    },
+    {
+        "title": "Milestone in children\u2019s cancer centre - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9saWZlc3R5bGUvaGVhbHRoL2hlYWx0aC1wcm9ibGVtcy9zeWRuZXktY2hpbGRyZW5zLWhvc3BpdGFsLWFuZC1jYW5jZXItY2VudHJlLXJlYWNoZXMtbWFqb3ItbWlsZXN0b25lL25ld3Mtc3RvcnkvMjg5ZDVmNTU5ZjQzMjYwOTczYTY4MmFiNDlhMmUwZTXSAawBaHR0cHM6Ly93d3cubmV3cy5jb20uYXUvbGlmZXN0eWxlL2hlYWx0aC9oZWFsdGgtcHJvYmxlbXMvc3lkbmV5LWNoaWxkcmVucy1ob3NwaXRhbC1hbmQtY2FuY2VyLWNlbnRyZS1yZWFjaGVzLW1ham9yLW1pbGVzdG9uZS9uZXdzLXN0b3J5LzI4OWQ1ZjU1OWY0MzI2MDk3M2E2ODJhYjQ5YTJlMGU1P2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 12:00:27 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
+        "title": "Everybody appearing at Sydney Downing Centre Local Court, Wednesday, May 1 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2NlbnRyYWwtc3lkbmV5L2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1zeWRuZXktZG93bmluZy1jZW50cmUtbG9jYWwtY291cnQtd2VkbmVzZGF5LW1heS0xL25ld3Mtc3RvcnkvNjY3OTZmNTY4NmM4YzYwNTcxNTkwYjBmM2QyMGE1MGPSAb4BaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L25ld3Nsb2NhbC9jZW50cmFsLXN5ZG5leS9oeXBlcmxvY2FsL2V2ZXJ5Ym9keS1hcHBlYXJpbmctYXQtc3lkbmV5LWRvd25pbmctY2VudHJlLWxvY2FsLWNvdXJ0LXdlZG5lc2RheS1tYXktMS9uZXdzLXN0b3J5LzY2Nzk2ZjU2ODZjOGM2MDU3MTU5MGIwZjNkMjBhNTBjP2FtcA?oc=5",
         "description": [],
         "pub_date": "Tue, 30 Apr 2024 23:17:35 GMT",
         "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Coffs Coast Advocate"
+        "source_name": "Daily Telegraph"
     },
     {
-        "title": "First Look: Fior, a Good-Times Italian Diner From the Arthur and Jane Team, Opens in the Shire - Broadsheet",
-        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJyb2Fkc2hlZXQuY29tLmF1L3N5ZG5leS9mb29kLWFuZC1kcmluay9hcnRpY2xlL2ZpcnN0LWxvb2stZmlvci1neW1lYS1zaGlyZS1pdGFsaWFuLWphbmUtYW5kLWFydGh1ci10ZWFt0gEA?oc=5",
+        "title": "Workshop | Planning - NSW Department of Planning",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5wbGFubmluZy5uc3cuZ292LmF1L3BsYW5zLWZvci15b3VyLWFyZWEvc3RhdGUtc2lnbmlmaWNhbnQtcHJlY2luY3RzL3RoZS1iYXlzL2JheXMtd2VzdC93aGl0ZS1iYXktcG93ZXItc3RhdGlvbi93b3Jrc2hvcNIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 00:05:40 GMT",
-        "source_url": "https://www.broadsheet.com.au",
-        "source_name": "Broadsheet"
+        "pub_date": "Wed, 01 May 2024 06:51:03 GMT",
+        "source_url": "https://www.planning.nsw.gov.au",
+        "source_name": "NSW Department of Planning"
+    },
+    {
+        "title": "Meticulously maintained five-bedroom family oasis in Oatley West - St George & Sutherland Shire Leader",
+        "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMTc3My9tZXRpY3Vsb3VzbHktbWFpbnRhaW5lZC1maXZlLWJlZHJvb20tZmFtaWx5LW9hc2lzLWluLW9hdGxleS13ZXN0L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 23:06:21 GMT",
+        "source_url": "https://www.theleader.com.au",
+        "source_name": "St George & Sutherland Shire Leader"
+    },
+    {
+        "title": "Pasticceria Papa cake shop closes Bondi Beach location after 10 years - 7NEWS",
+        "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vN25ld3MuY29tLmF1L25ld3MvcGFzdGljY2VyaWEtcGFwYS1jYWtlLXNob3AtY2xvc2VzLWJvbmRpLWJlYWNoLWxvY2F0aW9uLWFmdGVyLTEwLXllYXJzLWMtMTQ0ODkyNjLSAW5odHRwczovLzduZXdzLmNvbS5hdS9uZXdzL3Bhc3RpY2NlcmlhLXBhcGEtY2FrZS1zaG9wLWNsb3Nlcy1ib25kaS1iZWFjaC1sb2NhdGlvbi1hZnRlci0xMC15ZWFycy1jLTE0NDg5MjYyLmFtcA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 21:09:09 GMT",
+        "source_url": "https://7news.com.au",
+        "source_name": "7NEWS"
+    },
+    {
+        "title": "Disabilities Community Room launches at Manning House - Honi Soit",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaG9uaXNvaXQuY29tLzIwMjQvMDUvZGlzYWJpbGl0aWVzLWNvbW11bml0eS1yb29tLWxhdW5jaGVzLWF0LW1hbm5pbmctaG91c2Uv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 21:00:00 GMT",
+        "source_url": "https://honisoit.com",
+        "source_name": "Honi Soit"
+    },
+    {
+        "title": "Man slashed across neck with box cutter during Sydney soccer match - Sydney Morning Herald",
+        "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvbmF0aW9uYWwvbnN3L21hbi1zbGFzaGVkLWFjcm9zcy1uZWNrLXdpdGgtYm94LWN1dHRlci1kdXJpbmctc3lkbmV5LXNvY2Nlci1tYXRjaC0yMDI0MDQzMC1wNWZub3guaHRtbNIBe2h0dHBzOi8vYW1wLnNtaC5jb20uYXUvbmF0aW9uYWwvbnN3L21hbi1zbGFzaGVkLWFjcm9zcy1uZWNrLXdpdGgtYm94LWN1dHRlci1kdXJpbmctc3lkbmV5LXNvY2Nlci1tYXRjaC0yMDI0MDQzMC1wNWZub3guaHRtbA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 04:40:16 GMT",
+        "source_url": "https://www.smh.com.au",
+        "source_name": "Sydney Morning Herald"
+    },
+    {
+        "title": "Retailer \u2013 food and beverage | Planning - NSW Department of Planning",
+        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5wbGFubmluZy5uc3cuZ292LmF1L3BsYW5zLWZvci15b3VyLWFyZWEvc3RhdGUtc2lnbmlmaWNhbnQtcHJlY2luY3RzL3RoZS1iYXlzL2JheXMtd2VzdC93aGl0ZS1iYXktcG93ZXItc3RhdGlvbi9yZXRhaWxlci1mb29kLWFuZC1iZXZlcmFnZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 06:49:59 GMT",
+        "source_url": "https://www.planning.nsw.gov.au",
+        "source_name": "NSW Department of Planning"
+    },
+    {
+        "title": "New NSW Gov stimulus draws buyers to Sapphire Apartments... - Urban",
+        "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnVyYmFuLmNvbS5hdS9uZXdzL25zdy9uZXctbnN3LWdvdi1zdGltdWx1cy1kcmF3cy1idXllcnMtdG8tc2FwcGhpcmUtYXBhcnRtZW50cy1pbi1zeWRuZXktb2x5bXBpYy1wYXJr0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 06:29:22 GMT",
+        "source_url": "https://www.urban.com.au",
+        "source_name": "Urban"
+    },
+    {
+        "title": "Where to find the cheapest fuel in Southeast Sydney - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3NvdXRoZXJuLWNvdXJpZXIvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLXNvdXRoZWFzdC1zeWRuZXkvbmV3cy1zdG9yeS8wZmRmMjlkNmEzYjI1OTQxY2M0YjZlZjVlMTYzNTRiZtIBqwFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL3NvdXRoZXJuLWNvdXJpZXIvaHlwZXJsb2NhbC93aGVyZS10by1maW5kLXRoZS1jaGVhcGVzdC1mdWVsLWluLXNvdXRoZWFzdC1zeWRuZXkvbmV3cy1zdG9yeS8wZmRmMjlkNmEzYjI1OTQxY2M0YjZlZjVlMTYzNTRiZj9hbXA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 00:14:56 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Residents Call for Action on Rideshare Drivers in Wolli Creek - St George & Sutherland Shire Leader",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMTkwNS9yZXNpZGVudHMtY2FsbC1mb3ItYWN0aW9uLW9uLXJpZGVzaGFyZS1kcml2ZXJzLWluLXdvbGxpLWNyZWVrL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 22:33:32 GMT",
+        "source_url": "https://www.theleader.com.au",
+        "source_name": "St George & Sutherland Shire Leader"
+    },
+    {
+        "title": "\u2018It\u2019s really exhausting and demoralising\u2019: Students express frustration at difficulties accessing transport concession disability exemptions - Honi Soit",
+        "link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL2hvbmlzb2l0LmNvbS8yMDI0LzA1L2l0cy1yZWFsbHktZXhoYXVzdGluZy1hbmQtZGVtb3JhbGlzaW5nLXN0dWRlbnRzLWV4cHJlc3MtZnJ1c3RyYXRpb24tYXQtZGlmZmljdWx0aWVzLWFjY2Vzc2luZy10cmFuc3BvcnQtY29uY2Vzc2lvbi1kaXNhYmlsaXR5LWV4ZW1wdGlvbnMv0gEA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 22:17:00 GMT",
+        "source_url": "https://honisoit.com",
+        "source_name": "Honi Soit"
+    },
+    {
+        "title": "Another Shocking Stabbing In Sydney 30/04/24 | news.com.au \u2014 Australia's leading news site - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5ld3MuY29tLmF1L25hdGlvbmFsL2Fub3RoZXItc2hvY2tpbmctc3RhYmJpbmctaW4tc3lkbmV5LTMwMDQyNC9hdWRpby9hZjcwZWQ2NGVmY2RkODNiOTVkZTViMjQ4YWMwODIyN9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 20:43:40 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
+        "title": "Uninhabitable Potts Point apartment without a bathroom or kitchen sells for $13.7 million - Domain News",
+        "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kb21haW4uY29tLmF1L25ld3MvdW5pbmhhYml0YWJsZS1wb3R0cy1wb2ludC1hcGFydG1lbnQtd2l0aG91dC1hLWJhdGhyb29tLW9yLWtpdGNoZW4tc2VsbHMtZm9yLTEzLTctbWlsbGlvbi0xMjgwOTg5L9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 03:59:24 GMT",
+        "source_url": "https://www.domain.com.au",
+        "source_name": "Domain News"
+    },
+    {
+        "title": "Paul Kent charged with affray over Rozelle street fight - WAtoday",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndhdG9kYXkuY29tLmF1L25hdGlvbmFsL25zdy9wYXVsLWtlbnQtY2hhcmdlZC13aXRoLWFmZnJheS1vdmVyLWxhdGUtbmlnaHQtYnJhd2wtMjAyNDA1MDEtcDVmbzFqLmh0bWzSAQA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 03:34:53 GMT",
+        "source_url": "https://www.watoday.com.au",
+        "source_name": "WAtoday"
+    },
+    {
+        "title": "World-famous chef Nobu lands in Sydney to host lux sushi parties - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvZW50ZXJ0YWlubWVudC9zeWRuZXktY29uZmlkZW50aWFsL3dvcmxkZmFtb3VzLWNoZWYtbm9idS1hcnJpdmVzLWluLXN5ZG5leS10by1ob3N0LWdsYW1vcm91cy1wYXJ0aWVzL25ld3Mtc3RvcnkvOWYyYTBmOTU2NDk3ZGRjMDZhMTY0MDYzNzIwMjkxZmXSAbUBaHR0cHM6Ly93d3cuZGFpbHl0ZWxlZ3JhcGguY29tLmF1L2VudGVydGFpbm1lbnQvc3lkbmV5LWNvbmZpZGVudGlhbC93b3JsZGZhbW91cy1jaGVmLW5vYnUtYXJyaXZlcy1pbi1zeWRuZXktdG8taG9zdC1nbGFtb3JvdXMtcGFydGllcy9uZXdzLXN0b3J5LzlmMmEwZjk1NjQ5N2RkYzA2YTE2NDA2MzcyMDI5MWZlP2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 08:39:18 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Sad note scrawled on fire truck - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9uc3ctYWN0L25ld3MvaXQtYWxsLWFkZHMtdXAtZmVkdXAtZmlyZWZpZ2h0ZXJzLXJhaXNlLXRoZS1hbGFybS9uZXdzLXN0b3J5L2Q0ZDdkY2Y3NjUxNWFmYmRjNzYxODhkOWZhZTc1MWUz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Mon, 29 Apr 2024 06:09:08 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
     },
     {
         "title": "The USU\u2019s DIAP: An analysis of the 2024 USU Board candidates\u2019 vision - Honi Soit",
@@ -496,34 +480,50 @@
         "source_name": "Honi Soit"
     },
     {
-        "title": "Paul Kent charged with affray over Rozelle street fight - WAtoday",
-        "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy53YXRvZGF5LmNvbS5hdS9uYXRpb25hbC9uc3cvcGF1bC1rZW50LWNoYXJnZWQtd2l0aC1hZmZyYXktb3Zlci1sYXRlLW5pZ2h0LWJyYXdsLTIwMjQwNTAxLXA1Zm8xai5odG1sP3JlZj1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX3NvdXJjZT1yc3NfZmVlZNIBAA?oc=5",
+        "title": "Greek Fest Returns to Brighton-Le-Sands - St George & Sutherland Shire Leader",
+        "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMjc4Ni9ncmVlay1mZXN0LXJldHVybnMtdG8tYnJpZ2h0b24tbGUtc2FuZHMv0gEA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 03:34:53 GMT",
-        "source_url": "https://www.watoday.com.au",
-        "source_name": "WAtoday"
+        "pub_date": "Wed, 01 May 2024 04:36:50 GMT",
+        "source_url": "https://www.theleader.com.au",
+        "source_name": "St George & Sutherland Shire Leader"
     },
     {
-        "title": "Two charged after woman's body found in Bondi unit - Central Western Daily",
-        "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmNlbnRyYWx3ZXN0ZXJuZGFpbHkuY29tLmF1L3N0b3J5Lzg2MTI1NDkv0gEA?oc=5",
+        "title": "New York-style launch for Sydney's new level 83 home in the clouds - realestate.com.au - realestate.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnJlYWxlc3RhdGUuY29tLmF1L25ld3MvbmV3LXlvcmtzdHlsZS1sYXVuY2gtZm9yLXN5ZG5leXMtbmV3LWxldmVsLTgzLWhvbWUtaW4tdGhlLWNsb3Vkcy_SAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 30 Apr 2024 23:48:05 GMT",
-        "source_url": "https://www.centralwesterndaily.com.au",
-        "source_name": "Central Western Daily"
+        "pub_date": "Wed, 01 May 2024 08:09:44 GMT",
+        "source_url": "https://www.realestate.com.au",
+        "source_name": "realestate.com.au"
     },
     {
-        "title": "\u2018I lost someone who was my everything\u2019: Bondi Junction victim Pikria Darchia remembered - The Age",
-        "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy50aGVhZ2UuY29tLmF1L25hdGlvbmFsL25zdy9pLWxvc3Qtc29tZW9uZS13aG8td2FzLW15LWV2ZXJ5dGhpbmctYm9uZGktanVuY3Rpb24tdmljdGltLXBpa3JpYS1kYXJjaGlhLXJlbWVtYmVyZWQtMjAyNDA0MjItcDVmbHNyLmh0bWzSAZABaHR0cHM6Ly9hbXAudGhlYWdlLmNvbS5hdS9uYXRpb25hbC9uc3cvaS1sb3N0LXNvbWVvbmUtd2hvLXdhcy1teS1ldmVyeXRoaW5nLWJvbmRpLWp1bmN0aW9uLXZpY3RpbS1waWtyaWEtZGFyY2hpYS1yZW1lbWJlcmVkLTIwMjQwNDIyLXA1Zmxzci5odG1s?oc=5",
+        "title": "What is the University of Sydney encampment? - Honi Soit",
+        "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vaG9uaXNvaXQuY29tLzIwMjQvMDUvd2hhdC1pcy10aGUtdW5pdmVyc2l0eS1vZi1zeWRuZXktZW5jYW1wbWVudC_SAQA?oc=5",
         "description": [],
-        "pub_date": "Tue, 30 Apr 2024 05:39:45 GMT",
-        "source_url": "https://www.theage.com.au",
-        "source_name": "The Age"
+        "pub_date": "Tue, 30 Apr 2024 20:30:00 GMT",
+        "source_url": "https://honisoit.com",
+        "source_name": "Honi Soit"
     },
     {
-        "title": "Residents Call for Action on Rideshare Drivers in Wolli Creek - St George & Sutherland Shire Leader",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMTkwNS9yZXNpZGVudHMtY2FsbC1mb3ItYWN0aW9uLW9uLXJpZGVzaGFyZS1kcml2ZXJzLWluLXdvbGxpLWNyZWVrL9IBAA?oc=5",
+        "title": "Everybody appearing at NSW Local and Environment Court, Wednesday, May 1 - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3c2xvY2FsL2NlbnRyYWwtc3lkbmV5L2h5cGVybG9jYWwvZXZlcnlib2R5LWFwcGVhcmluZy1hdC1uc3ctbG9jYWwtYW5kLWVudmlyb25tZW50LWNvdXJ0LXdlZG5lc2RheS1tYXktMS9uZXdzLXN0b3J5LzNiNDAzZDU0ZjQ1YzA4YTYyZDUwNjM1ZmZmOGI0Mjdh0gG8AWh0dHBzOi8vd3d3LmRhaWx5dGVsZWdyYXBoLmNvbS5hdS9uZXdzbG9jYWwvY2VudHJhbC1zeWRuZXkvaHlwZXJsb2NhbC9ldmVyeWJvZHktYXBwZWFyaW5nLWF0LW5zdy1sb2NhbC1hbmQtZW52aXJvbm1lbnQtY291cnQtd2VkbmVzZGF5LW1heS0xL25ld3Mtc3RvcnkvM2I0MDNkNTRmNDVjMDhhNjJkNTA2MzVmZmY4YjQyN2E_YW1w?oc=5",
         "description": [],
-        "pub_date": "Tue, 30 Apr 2024 22:33:32 GMT",
+        "pub_date": "Tue, 30 Apr 2024 23:17:35 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "First Look: Fior, a Good-Times Italian Diner From the Arthur and Jane Team, Opens in the Shire - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJyb2Fkc2hlZXQuY29tLmF1L3N5ZG5leS9mb29kLWFuZC1kcmluay9hcnRpY2xlL2ZpcnN0LWxvb2stZmlvci1neW1lYS1zaGlyZS1pdGFsaWFuLWphbmUtYW5kLWFydGh1ci10ZWFt0gEA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 00:05:40 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
+    },
+    {
+        "title": "Luxury home on Kangaroo Point featuring style and river views - St George & Sutherland Shire Leader",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWxlYWRlci5jb20uYXUvc3RvcnkvODYxMTgwMS9sdXh1cnktaG9tZS1vbi1rYW5nYXJvby1wb2ludC1mZWF0dXJpbmctc3R5bGUtYW5kLXJpdmVyLXZpZXdzL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Tue, 30 Apr 2024 23:06:21 GMT",
         "source_url": "https://www.theleader.com.au",
         "source_name": "St George & Sutherland Shire Leader"
     }
