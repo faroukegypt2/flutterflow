@@ -8,6 +8,14 @@
         "source_name": "news.com.au"
     },
     {
+        "title": "Boutique Brisbane hotel named among top stays in entire South Pacific - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbGlmZXN0eWxlL3RoZS1lbXBvcml1bS1ob3RlbC1pbi1zb3V0aGJhbmstdGFrZXMtaG9tZS10cmlwYWR2aXNvci10cmF2ZWwtYXdhcmQvbmV3cy1zdG9yeS9hOWJkMDYwNGM4MDVjYzY3YmM3ZTYzNWUyZmU4ZDU3YtIBnAFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbGlmZXN0eWxlL3RoZS1lbXBvcml1bS1ob3RlbC1pbi1zb3V0aGJhbmstdGFrZXMtaG9tZS10cmlwYWR2aXNvci10cmF2ZWwtYXdhcmQvbmV3cy1zdG9yeS9hOWJkMDYwNGM4MDVjYzY3YmM3ZTYzNWUyZmU4ZDU3Yj9hbXA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 12:01:47 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
         "title": "Brisbane boom is being held back by tight housing market: Schrinner - Brisbane Times",
         "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2JyaXNiYW5lLWJvb20taXMtYmVpbmctaGVsZC1iYWNrLWJ5LXRpZ2h0LWhvdXNpbmctbWFya2V0LXNjaHJpbm5lci0yMDI0MDUwMi1wNWZvYTcuaHRtbNIBAA?oc=5",
         "description": [],
@@ -32,14 +40,6 @@
         "source_name": "Concrete Playground Brisbane"
     },
     {
-        "title": "First look at Gabba\u2019s new 14,000-home precinct plans - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMi2wFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvc3BvcnQvYnJpc2JhbmUtb2x5bXBpY3MtYW5kLXBhcmFseW1waWNzLTIwMzIvd29vbGxvb25nYWJiYS1wcmVjaW5jdC1yZXZhbXAtc3RhZGl1bS10by1nZXQtbW9kZXN0LWVuaGFuY2VtZW50LWluLTE0MDAwaG9tZS1wbGFuLXB1dC1vdXQtdG8tcHVibGljL25ld3Mtc3RvcnkvMmJlNjc2YjQyZDllNTNmYjdjZTRmYzZmYzc4OTVjMTbSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 18:08:58 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
-    },
-    {
         "title": "Gold Coast mother\u2019s dying wish made true just in time by Ambulance Wish Queensland - The Mercury",
         "link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy50aGVtZXJjdXJ5LmNvbS5hdS9uZXdzL2dvbGQtY29hc3QvZ29sZC1jb2FzdC1tb3RoZXJzLWR5aW5nLXdpc2gtbWFkZS10cnVlLWp1c3QtaW4tdGltZS1ieS1hbWJ1bGFuY2Utd2lzaC1xdWVlbnNsYW5kL25ld3Mtc3RvcnkvZWRiZTljZDYyMGVjMTY0MGJkZWYwOWYwZjNiYzUwYTPSAQA?oc=5",
         "description": [],
@@ -48,36 +48,20 @@
         "source_name": "The Mercury"
     },
     {
-        "title": "Transport lobby wants Brisbane tunnel modelling released amid congestion fears - Brisbane Times",
-        "link": "https://news.google.com/rss/articles/CBMiwwFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL3RyYW5zcG9ydC1sb2JieS13YW50cy1icmlzYmFuZS10dW5uZWwtbW9kZWxsaW5nLXJlbGVhc2VkLWFtaWQtY29uZ2VzdGlvbi1mZWFycy0yMDI0MDUwMS1wNWZvMzAuaHRtbD9yZWY9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9zb3VyY2U9cnNzX2ZlZWTSAQA?oc=5",
+        "title": "First look at Gabba\u2019s new 14,000-home precinct plans - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMi2wFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvc3BvcnQvYnJpc2JhbmUtb2x5bXBpY3MtYW5kLXBhcmFseW1waWNzLTIwMzIvd29vbGxvb25nYWJiYS1wcmVjaW5jdC1yZXZhbXAtc3RhZGl1bS10by1nZXQtbW9kZXN0LWVuaGFuY2VtZW50LWluLTE0MDAwaG9tZS1wbGFuLXB1dC1vdXQtdG8tcHVibGljL25ld3Mtc3RvcnkvMmJlNjc2YjQyZDllNTNmYjdjZTRmYzZmYzc4OTVjMTbSAQA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 05:34:43 GMT",
-        "source_url": "https://www.brisbanetimes.com.au",
-        "source_name": "Brisbane Times"
-    },
-    {
-        "title": "Minister slams use of flag as student activists shut down Brisbane CBD - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL2h1bmRyZWRzLW9mLXByb3BhbGVzdGluaWFuLWFjdGl2aXN0cy1hcmUtc2V0LXRvLXN0cmlrZS1pbi1icmlzYmFuZXMtY2JkL25ld3Mtc3RvcnkvYjc4MmMwZjM5Y2RlY2E0NzgyOTY2NTU0YTMxOTlmOWLSAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 09:13:11 GMT",
+        "pub_date": "Thu, 02 May 2024 18:08:58 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
     },
     {
-        "title": "Fortitude Valley's Brunswick Street Live Festival Is Bringing Its Free Tunes Back for a Second Year - Concrete Playground Brisbane",
-        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vY29uY3JldGVwbGF5Z3JvdW5kLmNvbS9icmlzYmFuZS9hcnRzLWVudGVydGFpbm1lbnQvYnJ1bnN3aWNrLXN0cmVldC1saXZlLXNlY29uZC15ZWFyLTIwMjTSAWVodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vYnJpc2JhbmUvYXJ0cy1lbnRlcnRhaW5tZW50L2JydW5zd2ljay1zdHJlZXQtbGl2ZS1zZWNvbmQteWVhci0yMDI0L2FtcA?oc=5",
+        "title": "As it happened: Brisbane on Thursday, May 2 - Brisbane Times",
+        "link": "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2JyaXNiYW5lLW5ld3MtbGl2ZS10d28tZGVhZC1hZnRlci1ob3Jyb3ItYnJpc2JhbmUtdHVubmVsLWNyYXNoLWV4LWNoZWYtYmVoaW5kLWJhcnMtb24tc3RhbGtpbmctc2V4LWFzc2F1bHQtY2hhcmdlcy0yMDI0MDUwMS1wNWZvM20uaHRtbNIBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 03:05:19 GMT",
-        "source_url": "https://concreteplayground.com",
-        "source_name": "Concrete Playground Brisbane"
-    },
-    {
-        "title": "18 Of The Best Things To Do In Woolloongabba - Style Magazines",
-        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L2xpZmVzdHlsZS93b29sbG9vbmdhYmJhLXRoaW5ncy10by1kby_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 02:27:47 GMT",
-        "source_url": "https://stylemagazines.com.au",
-        "source_name": "Style Magazines"
+        "pub_date": "Thu, 02 May 2024 08:17:56 GMT",
+        "source_url": "https://www.brisbanetimes.com.au",
+        "source_name": "Brisbane Times"
     },
     {
         "title": "Four religious sisters share life-giving message at Brisbane event - Catholic Leader",
@@ -88,12 +72,44 @@
         "source_name": "Catholic Leader"
     },
     {
+        "title": "Fortitude Valley's Brunswick Street Live Festival Is Bringing Its Free Tunes Back for a Second Year - Concrete Playground Brisbane",
+        "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vY29uY3JldGVwbGF5Z3JvdW5kLmNvbS9icmlzYmFuZS9hcnRzLWVudGVydGFpbm1lbnQvYnJ1bnN3aWNrLXN0cmVldC1saXZlLXNlY29uZC15ZWFyLTIwMjTSAWVodHRwczovL2NvbmNyZXRlcGxheWdyb3VuZC5jb20vYnJpc2JhbmUvYXJ0cy1lbnRlcnRhaW5tZW50L2JydW5zd2ljay1zdHJlZXQtbGl2ZS1zZWNvbmQteWVhci0yMDI0L2FtcA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 03:05:19 GMT",
+        "source_url": "https://concreteplayground.com",
+        "source_name": "Concrete Playground Brisbane"
+    },
+    {
         "title": "Former high-profile lawyer allegedly trafficked 120kg cocaine in frozen chicken - Courier Mail",
         "link": "https://news.google.com/rss/articles/CBMizwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL2Zvcm1lci1oaWdocHJvZmlsZS1sYXd5ZXItbWljaGFlbC1ib3NzY2hlci1hbGxlZ2VkbHktdHJhZmZpY2tlZC0xMjBrZy1jb2NhaW5lLWluLWZyb3plbi1jaGlja2VuL25ld3Mtc3RvcnkvNGE4Yzc4YmJhYTU1ODEwYjk4OWIyMjA3MDdkMjRmMzTSAdMBaHR0cHM6Ly93d3cuY291cmllcm1haWwuY29tLmF1L3RydWVjcmltZWF1c3RyYWxpYS9wb2xpY2UtY291cnRzLXFsZC9mb3JtZXItaGlnaHByb2ZpbGUtbGF3eWVyLW1pY2hhZWwtYm9zc2NoZXItYWxsZWdlZGx5LXRyYWZmaWNrZWQtMTIwa2ctY29jYWluZS1pbi1mcm96ZW4tY2hpY2tlbi9uZXdzLXN0b3J5LzRhOGM3OGJiYWE1NTgxMGI5ODliMjIwNzA3ZDI0ZjM0P2FtcA?oc=5",
         "description": [],
         "pub_date": "Thu, 02 May 2024 23:46:31 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
+    },
+    {
+        "title": "Brisbane 2032 hopefuls to train at WA surf park - Brisbane Times",
+        "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmJyaXNiYW5ldGltZXMuY29tLmF1L25hdGlvbmFsL2JyaXNiYW5lLTIwMzItaG9wZWZ1bHMtdG8tdHJhaW4tYXQtd2Etc3VyZi1wYXJrLTIwMjQwNTAzLXA1Zm92NS5odG1s0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 10:52:37 GMT",
+        "source_url": "https://www.brisbanetimes.com.au",
+        "source_name": "Brisbane Times"
+    },
+    {
+        "title": "18 Of The Best Things To Do In Woolloongabba - Style Magazines",
+        "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L2xpZmVzdHlsZS93b29sbG9vbmdhYmJhLXRoaW5ncy10by1kby_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 02:27:47 GMT",
+        "source_url": "https://stylemagazines.com.au",
+        "source_name": "Style Magazines"
+    },
+    {
+        "title": "Cheaper to go overseas: Regional airfares to skyrocket due to Bonza collapse - Toowoomba Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy50aGVjaHJvbmljbGUuY29tLmF1L25ld3MvcXVlZW5zbGFuZC90aGUtaHVnZS1jb3N0LW9mLWFpcmZhcmVzLXRvLXJlZ2lvbmFsLXF1ZWVuc2xhbmQtcG9zdGJvbnphL25ld3Mtc3RvcnkvMTI4MGM0N2MzZTI4NTYwY2NiNWQxNTQ0YTE5YTFmZmLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 12:02:09 GMT",
+        "source_url": "https://www.thechronicle.com.au",
+        "source_name": "Toowoomba Chronicle"
     },
     {
         "title": "Roxette 2025 Australian tour: Date and location of southeast Queensland show at Sirromet Wines revealed - Gold Coast Bulletin",
@@ -104,10 +120,18 @@
         "source_name": "Gold Coast Bulletin"
     },
     {
-        "title": "As it happened: Brisbane on Thursday, May 2 - Brisbane Times",
-        "link": "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2JyaXNiYW5lLW5ld3MtbGl2ZS10d28tZGVhZC1hZnRlci1ob3Jyb3ItYnJpc2JhbmUtdHVubmVsLWNyYXNoLWV4LWNoZWYtYmVoaW5kLWJhcnMtb24tc3RhbGtpbmctc2V4LWFzc2F1bHQtY2hhcmdlcy0yMDI0MDUwMS1wNWZvM20uaHRtbNIBAA?oc=5",
+        "title": "Brisbane man allegedly played sick waiting game with sex assault victims - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMiyQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL2JyaXNiYW5lLW1hbi1taXRjaGVsbC1qYW1lcy1lZmVpbW9mZi1mcm9udHMtYnJpc2JhbmUtY291cnQtb24tMTgtY291bnRzLW9mLXNleHVhbC1hc3NhdWx0L25ld3Mtc3RvcnkvNTc2ZDEzMzc2ZmExMTk4ZDM1N2RkMGQwMzM5NTdjMjLSAQA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 08:17:56 GMT",
+        "pub_date": "Thu, 02 May 2024 01:06:01 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "Transport lobby wants Brisbane tunnel modelling released amid congestion fears - Brisbane Times",
+        "link": "https://news.google.com/rss/articles/CBMiwwFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL3RyYW5zcG9ydC1sb2JieS13YW50cy1icmlzYmFuZS10dW5uZWwtbW9kZWxsaW5nLXJlbGVhc2VkLWFtaWQtY29uZ2VzdGlvbi1mZWFycy0yMDI0MDUwMS1wNWZvMzAuaHRtbD9yZWY9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9zb3VyY2U9cnNzX2ZlZWTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 05:34:43 GMT",
         "source_url": "https://www.brisbanetimes.com.au",
         "source_name": "Brisbane Times"
     },
@@ -128,68 +152,12 @@
         "source_name": "Urban List"
     },
     {
-        "title": "Rock icon Alice Cooper stuns Brisbane bar with surprise gig - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvZW50ZXJ0YWlubWVudC9yb2NrLWxlZ2VuZC1hbGljZS1jb29wZXItc3VycHJpc2VzLWJyaXNiYW5lLWZhbnMtd2l0aC1hbi1pbXByb21wdHUtcGVyZm9ybWFuY2UtYXQtYnJpc2JhbmVzLWFsaWNlLWJhci9uZXdzLXN0b3J5Lzg1ODBmOGE0MTcwODBiZDQ0MzAxNWM2MTE0ZDEyODM20gHCAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9lbnRlcnRhaW5tZW50L3JvY2stbGVnZW5kLWFsaWNlLWNvb3Blci1zdXJwcmlzZXMtYnJpc2JhbmUtZmFucy13aXRoLWFuLWltcHJvbXB0dS1wZXJmb3JtYW5jZS1hdC1icmlzYmFuZXMtYWxpY2UtYmFyL25ld3Mtc3RvcnkvODU4MGY4YTQxNzA4MGJkNDQzMDE1YzYxMTRkMTI4MzY_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 23:58:29 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
-    },
-    {
         "title": "Theatre terrors, street art and wine trails \u2013 here\u2019s what\u2019s on in Brisbane this weekend - InQueensland",
         "link": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5pbnFsZC5jb20uYXUvYXJ0cy1jdWx0dXJlL2N1bHR1cmUvdGhlLXdlZWtlbmQtZWRpdGlvbi8yMDI0LzA1LzAyL3RoZWF0cmUtdGVycm9ycy1zdHJlZXQtYXJ0LWFuZC13aW5lLXRyYWlscy1oZXJlcy13aGF0cy1vbi1pbi1icmlzYmFuZS10aGlzLXdlZWtlbmTSAQA?oc=5",
         "description": [],
         "pub_date": "Thu, 02 May 2024 02:03:22 GMT",
         "source_url": "https://www.inqld.com.au",
         "source_name": "InQueensland"
-    },
-    {
-        "title": "Appeal for information, attempted armed robbery, Logan Central - myPolice",
-        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDIvYXBwZWFsLWZvci1pbmZvcm1hdGlvbi1hdHRlbXB0ZWQtYXJtZWQtcm9iYmVyeS1sb2dhbi1jZW50cmFsL9IBbWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDIvYXBwZWFsLWZvci1pbmZvcm1hdGlvbi1hdHRlbXB0ZWQtYXJtZWQtcm9iYmVyeS1sb2dhbi1jZW50cmFsL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 03:30:00 GMT",
-        "source_url": "https://mypolice.qld.gov.au",
-        "source_name": "myPolice"
-    },
-    {
-        "title": "I Tried TotalFusion Platinum Spa: Here's What I Thought - Style Magazines",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L3VuY2F0ZWdvcmlzZWQvdG90YWxmdXNpb24tcGxhdGludW0tc3BhL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 09:36:49 GMT",
-        "source_url": "https://stylemagazines.com.au",
-        "source_name": "Style Magazines"
-    },
-    {
-        "title": "25 things to do over the Labour Day long weekend in Brisbane - Brisbane Times",
-        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kLzI1LXRoaW5ncy10by1kby1vdmVyLXRoZS1sYWJvdXItZGF5LWxvbmctd2Vla2VuZC1pbi1icmlzYmFuZS0yMDI0MDQyNS1wNWZtbTMuaHRtbNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 09:44:19 GMT",
-        "source_url": "https://www.brisbanetimes.com.au",
-        "source_name": "Brisbane Times"
-    },
-    {
-        "title": "10 Of The Best Places To Eat In Logan In 2024 - Urban List",
-        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnRoZXVyYmFubGlzdC5jb20vYnJpc2JhbmUvYS1saXN0L3doZXJlLXRvLWVhdC1sb2dhbtIBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 06:43:00 GMT",
-        "source_url": "https://www.theurbanlist.com",
-        "source_name": "Urban List"
-    },
-    {
-        "title": "What waitress did next had us asking for a new table - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbGlmZXN0eWxlL3F3ZWVrZW5kL25ld3N0ZWFkLXJlc3RhdXJhbnQtZHVja2ZhdC1lbmpveS10aGUtY3Vpc2luZS1pZ25vcmUtdGhlLWxlYWt5LXJvb2YvbmV3cy1zdG9yeS81YjliNjQ1ZjlkMGM5YjgxNDViYjQ0YTc3MWU1YTBlMNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 19:02:38 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
-    },
-    {
-        "title": "The Zoo (1992\u20132024): A Eulogy for One of Brisbane's Most Sacred Music Venues - Broadsheet",
-        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJyb2Fkc2hlZXQuY29tLmF1L2JyaXNiYW5lL2VudGVydGFpbm1lbnQvYXJ0aWNsZS96b28tMTk5MjIwMjQtZXVsb2d5LW9uZS1icmlzYmFuZXMtbW9zdC1zYWNyZWQtbXVzaWMtdmVudWVz0gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 03:02:36 GMT",
-        "source_url": "https://www.broadsheet.com.au",
-        "source_name": "Broadsheet"
     },
     {
         "title": "Operation Whiskey Dolma, Queen Street Mall - myPolice",
@@ -200,20 +168,28 @@
         "source_name": "myPolice"
     },
     {
-        "title": "Now Open: Contro Wellness, a Luxury Lutwyche Bathhouse With Private Therapy Rooms - Broadsheet",
-        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmJyb2Fkc2hlZXQuY29tLmF1L2JyaXNiYW5lL2FjdGl2ZS9hcnRpY2xlL25vdy1vcGVuLWNvbnRyby13ZWxsbmVzcy1sdXh1cnktbHV0d3ljaGUtYmF0aGhvdXNlLXByaXZhdGUtdGhlcmFweS1yb29tc9IBAA?oc=5",
+        "title": "Rock icon Alice Cooper stuns Brisbane bar with surprise gig - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvZW50ZXJ0YWlubWVudC9yb2NrLWxlZ2VuZC1hbGljZS1jb29wZXItc3VycHJpc2VzLWJyaXNiYW5lLWZhbnMtd2l0aC1hbi1pbXByb21wdHUtcGVyZm9ybWFuY2UtYXQtYnJpc2JhbmVzLWFsaWNlLWJhci9uZXdzLXN0b3J5Lzg1ODBmOGE0MTcwODBiZDQ0MzAxNWM2MTE0ZDEyODM20gHCAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9lbnRlcnRhaW5tZW50L3JvY2stbGVnZW5kLWFsaWNlLWNvb3Blci1zdXJwcmlzZXMtYnJpc2JhbmUtZmFucy13aXRoLWFuLWltcHJvbXB0dS1wZXJmb3JtYW5jZS1hdC1icmlzYmFuZXMtYWxpY2UtYmFyL25ld3Mtc3RvcnkvODU4MGY4YTQxNzA4MGJkNDQzMDE1YzYxMTRkMTI4MzY_YW1w?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 02:33:17 GMT",
-        "source_url": "https://www.broadsheet.com.au",
-        "source_name": "Broadsheet"
+        "pub_date": "Wed, 01 May 2024 23:58:29 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
     },
     {
-        "title": "Riverside-suburb project reveals final product - news.com.au",
-        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2RldmVsb3BpbmctcXVlZW5zbGFuZC1ncmF5YXMtbGF0ZXN0LWx1eHVyeS1kZXZlbG9wbWVudC11bnZlaWxzLWRlc2lnbmVyLXBlbnRob3VzZXMvbmV3cy1zdG9yeS8wYWUxZjkwMDI1YzU1MWFiNjI0ODE2YWEwMjJiOTg1MNIBrgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2RldmVsb3BpbmctcXVlZW5zbGFuZC1ncmF5YXMtbGF0ZXN0LWx1eHVyeS1kZXZlbG9wbWVudC11bnZlaWxzLWRlc2lnbmVyLXBlbnRob3VzZXMvbmV3cy1zdG9yeS8wYWUxZjkwMDI1YzU1MWFiNjI0ODE2YWEwMjJiOTg1MD9hbXA?oc=5",
+        "title": "I Tried TotalFusion Platinum Spa: Here's What I Thought - Style Magazines",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L3VuY2F0ZWdvcmlzZWQvdG90YWxmdXNpb24tcGxhdGludW0tc3BhL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 00:03:59 GMT",
-        "source_url": "https://www.news.com.au",
-        "source_name": "news.com.au"
+        "pub_date": "Fri, 03 May 2024 09:36:49 GMT",
+        "source_url": "https://stylemagazines.com.au",
+        "source_name": "Style Magazines"
+    },
+    {
+        "title": "10 Of The Best Places To Eat In Logan In 2024 - Urban List",
+        "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnRoZXVyYmFubGlzdC5jb20vYnJpc2JhbmUvYS1saXN0L3doZXJlLXRvLWVhdC1sb2dhbtIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 06:43:00 GMT",
+        "source_url": "https://www.theurbanlist.com",
+        "source_name": "Urban List"
     },
     {
         "title": "Fast Food Restaurant - Manly Road, Tingalpa - Your Neighbourhood",
@@ -224,52 +200,44 @@
         "source_name": "Your Neighbourhood"
     },
     {
-        "title": "Labour Day trading hours 2024: What\u2019s open in Brisbane - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL2xhYm91ci1kYXktdHJhZGluZy1ob3Vycy0yMDI0LXdoYXRzLW9wZW4taW4tYnJpc2JhbmUvbmV3cy1zdG9yeS8xYWNmMjllZDRjZWRhN2FkOWQwZDBmYzcyYWY4NjRmMdIBAA?oc=5",
+        "title": "Appeal for information, attempted armed robbery, Logan Central - myPolice",
+        "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDIvYXBwZWFsLWZvci1pbmZvcm1hdGlvbi1hdHRlbXB0ZWQtYXJtZWQtcm9iYmVyeS1sb2dhbi1jZW50cmFsL9IBbWh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDIvYXBwZWFsLWZvci1pbmZvcm1hdGlvbi1hdHRlbXB0ZWQtYXJtZWQtcm9iYmVyeS1sb2dhbi1jZW50cmFsL2FtcC8?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 05:51:14 GMT",
+        "pub_date": "Thu, 02 May 2024 03:30:00 GMT",
+        "source_url": "https://mypolice.qld.gov.au",
+        "source_name": "myPolice"
+    },
+    {
+        "title": "The Zoo (1992\u20132024): A Eulogy for One of Brisbane's Most Sacred Music Venues - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJyb2Fkc2hlZXQuY29tLmF1L2JyaXNiYW5lL2VudGVydGFpbm1lbnQvYXJ0aWNsZS96b28tMTk5MjIwMjQtZXVsb2d5LW9uZS1icmlzYmFuZXMtbW9zdC1zYWNyZWQtbXVzaWMtdmVudWVz0gEA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 03:02:36 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
+    },
+    {
+        "title": "Minister slams use of flag as student activists shut down Brisbane CBD - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL2h1bmRyZWRzLW9mLXByb3BhbGVzdGluaWFuLWFjdGl2aXN0cy1hcmUtc2V0LXRvLXN0cmlrZS1pbi1icmlzYmFuZXMtY2JkL25ld3Mtc3RvcnkvYjc4MmMwZjM5Y2RlY2E0NzgyOTY2NTU0YTMxOTlmOWLSAQA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 09:13:11 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
     },
     {
-        "title": "Review: Beth Orton @ The Tivoli (Brisbane) - scenestr",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2NlbmVzdHIuY29tLmF1L211c2ljL3Jldmlldy1iZXRoLW9ydG9uLXRoZS10aXZvbGktYnJpc2JhbmUtMjAyNDA1MDPSAQA?oc=5",
+        "title": "Now Open: Contro Wellness, a Luxury Lutwyche Bathhouse With Private Therapy Rooms - Broadsheet",
+        "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmJyb2Fkc2hlZXQuY29tLmF1L2JyaXNiYW5lL2FjdGl2ZS9hcnRpY2xlL25vdy1vcGVuLWNvbnRyby13ZWxsbmVzcy1sdXh1cnktbHV0d3ljaGUtYmF0aGhvdXNlLXByaXZhdGUtdGhlcmFweS1yb29tc9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 07:35:09 GMT",
-        "source_url": "https://scenestr.com.au",
-        "source_name": "scenestr"
+        "pub_date": "Fri, 03 May 2024 02:33:17 GMT",
+        "source_url": "https://www.broadsheet.com.au",
+        "source_name": "Broadsheet"
     },
     {
-        "title": "Unique hospital unit is one of a kind for Queensland - Metro South Health",
-        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWV0cm9zb3V0aC5oZWFsdGgucWxkLmdvdi5hdS9uZXdzL3VuaXF1ZS1ob3NwaXRhbC11bml0LWlzLW9uZS1vZi1hLWtpbmQtZm9yLXF1ZWVuc2xhbmTSAQA?oc=5",
+        "title": "Found kayak, Port of Brisbane - myPolice",
+        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9zb3V0aGJyaXNiYW5lLzIwMjQvMDUvMDMvZm91bmQta2F5YWstcG9ydC1vZi1icmlzYmFuZS_SAVZodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvc291dGhicmlzYmFuZS8yMDI0LzA1LzAzL2ZvdW5kLWtheWFrLXBvcnQtb2YtYnJpc2JhbmUvYW1wLw?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 01:54:06 GMT",
-        "source_url": "https://metrosouth.health.qld.gov.au",
-        "source_name": "Metro South Health"
-    },
-    {
-        "title": "Toby's Estate | Newstead | URBAN LIST BRISBANE - Urban List",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZXVyYmFubGlzdC5jb20vYnJpc2JhbmUvZGlyZWN0b3J5L3RvYnlzLWVzdGF0ZS1icmlzYmFuZdIBAA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 05:45:12 GMT",
-        "source_url": "https://www.theurbanlist.com",
-        "source_name": "Urban List"
-    },
-    {
-        "title": "Mitchelton Community Comes Together to Support Renovation of St. Matthew\u2019s Anglican Hall - The Hills Echo Community Newsmagazine",
-        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZWNoby1uZXdzLmNvbS5hdS9taXRjaGVsdG9uLWNvbW11bml0eS1jb21lcy10b2dldGhlci10by1zdXBwb3J0LXJlbm92YXRpb24tb2Ytc3QtbWF0dGhld3MtYW5nbGljYW4taGFsbC_SAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 02:19:28 GMT",
-        "source_url": "https://echo-news.com.au",
-        "source_name": "The Hills Echo Community Newsmagazine"
-    },
-    {
-        "title": "Brisbane 2032 hopefuls to train at WA surf park - Brisbane Times",
-        "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9icmlzYmFuZS0yMDMyLWhvcGVmdWxzLXRvLXRyYWluLWF0LXdhLXN1cmYtcGFyay0yMDI0MDUwMy1wNWZvdjUuaHRtbD9yZWY9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9zb3VyY2U9cnNzX2ZlZWTSAQA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 10:52:37 GMT",
-        "source_url": "https://www.brisbanetimes.com.au",
-        "source_name": "Brisbane Times"
+        "pub_date": "Fri, 03 May 2024 06:48:00 GMT",
+        "source_url": "https://mypolice.qld.gov.au",
+        "source_name": "myPolice"
     },
     {
         "title": "First Look: Fatcow Is Reopening in Luxe New James Street Digs with Gold-Wrapped Steaks on the Menu - Concrete Playground Brisbane",
@@ -280,6 +248,78 @@
         "source_name": "Concrete Playground Brisbane"
     },
     {
+        "title": "Riverside-suburb project reveals final product - news.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2RldmVsb3BpbmctcXVlZW5zbGFuZC1ncmF5YXMtbGF0ZXN0LWx1eHVyeS1kZXZlbG9wbWVudC11bnZlaWxzLWRlc2lnbmVyLXBlbnRob3VzZXMvbmV3cy1zdG9yeS8wYWUxZjkwMDI1YzU1MWFiNjI0ODE2YWEwMjJiOTg1MNIBrgFodHRwczovL3d3dy5uZXdzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kL2RldmVsb3BpbmctcXVlZW5zbGFuZC1ncmF5YXMtbGF0ZXN0LWx1eHVyeS1kZXZlbG9wbWVudC11bnZlaWxzLWRlc2lnbmVyLXBlbnRob3VzZXMvbmV3cy1zdG9yeS8wYWUxZjkwMDI1YzU1MWFiNjI0ODE2YWEwMjJiOTg1MD9hbXA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 00:03:59 GMT",
+        "source_url": "https://www.news.com.au",
+        "source_name": "news.com.au"
+    },
+    {
+        "title": "scenestr - Review: Beth Orton @ The Tivoli (Brisbane) - scenestr",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2NlbmVzdHIuY29tLmF1L211c2ljL3Jldmlldy1iZXRoLW9ydG9uLXRoZS10aXZvbGktYnJpc2JhbmUtMjAyNDA1MDPSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 07:35:09 GMT",
+        "source_url": "https://scenestr.com.au",
+        "source_name": "scenestr"
+    },
+    {
+        "title": "Armed robbery appeal, Park Ridge - myPolice",
+        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDMvYXJtZWQtcm9iYmVyeS1hcHBlYWwtcGFyay1yaWRnZS_SAVBodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvbmV3cy8yMDI0LzA1LzAzL2FybWVkLXJvYmJlcnktYXBwZWFsLXBhcmstcmlkZ2UvYW1wLw?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 04:13:00 GMT",
+        "source_url": "https://mypolice.qld.gov.au",
+        "source_name": "myPolice"
+    },
+    {
+        "title": "Here\u2019s what you can expect with today\u2019s Brisbane Southeast weather - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL2hlcmVzLXdoYXQteW91LWNhbi1leHBlY3Qtd2l0aC10b2RheXMtYnJpc2JhbmUtc291dGhlYXN0LXdlYXRoZXIvbmV3cy1zdG9yeS9iZGU5NWIyMTY3NDlmOTVkYzdiNTk2NzFlNzI4Mjc3MdIBrgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRoZWFzdC9oeXBlcmxvY2FsL2hlcmVzLXdoYXQteW91LWNhbi1leHBlY3Qtd2l0aC10b2RheXMtYnJpc2JhbmUtc291dGhlYXN0LXdlYXRoZXIvbmV3cy1zdG9yeS9iZGU5NWIyMTY3NDlmOTVkYzdiNTk2NzFlNzI4Mjc3MT9hbXA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 14:55:44 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "Unique hospital unit is one of a kind for Queensland - Metro South Health",
+        "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbWV0cm9zb3V0aC5oZWFsdGgucWxkLmdvdi5hdS9uZXdzL3VuaXF1ZS1ob3NwaXRhbC11bml0LWlzLW9uZS1vZi1hLWtpbmQtZm9yLXF1ZWVuc2xhbmTSAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 01:54:06 GMT",
+        "source_url": "https://metrosouth.health.qld.gov.au",
+        "source_name": "Metro South Health"
+    },
+    {
+        "title": "25 things to do over the Labour Day long weekend in Brisbane - Brisbane Times",
+        "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9xdWVlbnNsYW5kLzI1LXRoaW5ncy10by1kby1vdmVyLXRoZS1sYWJvdXItZGF5LWxvbmctd2Vla2VuZC1pbi1icmlzYmFuZS0yMDI0MDQyNS1wNWZtbTMuaHRtbNIBAA?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 09:44:19 GMT",
+        "source_url": "https://www.brisbanetimes.com.au",
+        "source_name": "Brisbane Times"
+    },
+    {
+        "title": "Toby's Estate | Newstead | URBAN LIST BRISBANE - Urban List",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZXVyYmFubGlzdC5jb20vYnJpc2JhbmUvZGlyZWN0b3J5L3RvYnlzLWVzdGF0ZS1icmlzYmFuZdIBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 05:45:12 GMT",
+        "source_url": "https://www.theurbanlist.com",
+        "source_name": "Urban List"
+    },
+    {
+        "title": "Victim left fighting for life after double-fatal Brisbane tunnel smash was recently engaged - Daily Telegraph",
+        "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uYXRpb25hbC92aWN0aW0tbGVmdC1maWdodGluZy1mb3ItbGlmZS1hZnRlci1kb3VibGVmYXRhbC1icmlzYmFuZS10dW5uZWwtc21hc2gtd2FzLXJlY2VudGx5LWVuZ2FnZWQvbmV3cy1zdG9yeS9hNzJjNGYxMDhlZTgzNTQ4YWI0MzJlMTljODUyODgyY9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 22:54:35 GMT",
+        "source_url": "https://www.dailytelegraph.com.au",
+        "source_name": "Daily Telegraph"
+    },
+    {
+        "title": "Mitchelton Community Comes Together to Support Renovation of St. Matthew\u2019s Anglican Hall - The Hills Echo Community Newsmagazine",
+        "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZWNoby1uZXdzLmNvbS5hdS9taXRjaGVsdG9uLWNvbW11bml0eS1jb21lcy10b2dldGhlci10by1zdXBwb3J0LXJlbm92YXRpb24tb2Ytc3QtbWF0dGhld3MtYW5nbGljYW4taGFsbC_SAQA?oc=5",
+        "description": [],
+        "pub_date": "Fri, 03 May 2024 02:19:28 GMT",
+        "source_url": "https://echo-news.com.au",
+        "source_name": "The Hills Echo Community Newsmagazine"
+    },
+    {
         "title": "Forensic Science Queensland hosts international stakeholders forum - Queensland Health",
         "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmhlYWx0aC5xbGQuZ292LmF1L25ld3Nyb29tL2RvaC1tZWRpYS1yZWxlYXNlcy9mb3JlbnNpYy1zY2llbmNlLXF1ZWVuc2xhbmQtaG9zdHMtaW50ZXJuYXRpb25hbC1zdGFrZWhvbGRlcnMtZm9ydW3SAQA?oc=5",
         "description": [],
@@ -288,12 +328,12 @@
         "source_name": "Queensland Health"
     },
     {
-        "title": "Boutique Brisbane hotel named among top stays in entire South Pacific - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbGlmZXN0eWxlL3RoZS1lbXBvcml1bS1ob3RlbC1pbi1zb3V0aGJhbmstdGFrZXMtaG9tZS10cmlwYWR2aXNvci10cmF2ZWwtYXdhcmQvbmV3cy1zdG9yeS9hOWJkMDYwNGM4MDVjYzY3YmM3ZTYzNWUyZmU4ZDU3YtIBnAFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbGlmZXN0eWxlL3RoZS1lbXBvcml1bS1ob3RlbC1pbi1zb3V0aGJhbmstdGFrZXMtaG9tZS10cmlwYWR2aXNvci10cmF2ZWwtYXdhcmQvbmV3cy1zdG9yeS9hOWJkMDYwNGM4MDVjYzY3YmM3ZTYzNWUyZmU4ZDU3Yj9hbXA?oc=5",
+        "title": "IHG Hotels & Resorts Partners with Kokoda Property to Introduce Kimpton Hotel to Brisbane\u2019s Teneriffe - BrisbaneDevelopment.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2JyaXNiYW5lZGV2ZWxvcG1lbnQuY29tL2loZy1ob3RlbHMtcmVzb3J0cy1wYXJ0bmVycy13aXRoLWtva29kYS1wcm9wZXJ0eS10by1pbnRyb2R1Y2Uta2ltcHRvbi1ob3RlbC10by1icmlzYmFuZXMtdGVuZXJpZmZlL9IBiQFodHRwczovL2JyaXNiYW5lZGV2ZWxvcG1lbnQuY29tL2loZy1ob3RlbHMtcmVzb3J0cy1wYXJ0bmVycy13aXRoLWtva29kYS1wcm9wZXJ0eS10by1pbnRyb2R1Y2Uta2ltcHRvbi1ob3RlbC10by1icmlzYmFuZXMtdGVuZXJpZmZlLz9hbXA9MQ?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 12:01:47 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
+        "pub_date": "Wed, 01 May 2024 03:24:55 GMT",
+        "source_url": "https://brisbanedevelopment.com",
+        "source_name": "BrisbaneDevelopment.com"
     },
     {
         "title": "The front desk mission to foster positivity one patient at a time - Metro South Health",
@@ -304,10 +344,18 @@
         "source_name": "Metro South Health"
     },
     {
-        "title": "Missing woman, Brisbane City - myPolice",
-        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDIvbWlzc2luZy13b21hbi1icmlzYmFuZS1jaXR5LTkv0gFOaHR0cHM6Ly9teXBvbGljZS5xbGQuZ292LmF1L25ld3MvMjAyNC8wNS8wMi9taXNzaW5nLXdvbWFuLWJyaXNiYW5lLWNpdHktOS9hbXAv?oc=5",
+        "title": "What waitress did next had us asking for a new table - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbGlmZXN0eWxlL3F3ZWVrZW5kL25ld3N0ZWFkLXJlc3RhdXJhbnQtZHVja2ZhdC1lbmpveS10aGUtY3Vpc2luZS1pZ25vcmUtdGhlLWxlYWt5LXJvb2YvbmV3cy1zdG9yeS81YjliNjQ1ZjlkMGM5YjgxNDViYjQ0YTc3MWU1YTBlMNIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 15:10:00 GMT",
+        "pub_date": "Wed, 01 May 2024 19:02:38 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
+    },
+    {
+        "title": "Garage storage theft from unit complexes, North Brisbane - myPolice",
+        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9icmlzYmFuZWNlbnRyYWwvMjAyNC8wNS8wMy9nYXJhZ2Utc3RvcmFnZS10aGVmdC1mcm9tLXVuaXQtY29tcGxleGVzLW5vcnRoLWJyaXNiYW5lL9IBc2h0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9icmlzYmFuZWNlbnRyYWwvMjAyNC8wNS8wMy9nYXJhZ2Utc3RvcmFnZS10aGVmdC1mcm9tLXVuaXQtY29tcGxleGVzLW5vcnRoLWJyaXNiYW5lL2FtcC8?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 22:45:00 GMT",
         "source_url": "https://mypolice.qld.gov.au",
         "source_name": "myPolice"
     },
@@ -320,22 +368,6 @@
         "source_name": "Brisbane Times"
     },
     {
-        "title": "Meet The Team Behind Brisbane Fashion Festival - Style Magazines",
-        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L2Zhc2hpb24vYnJpc2JhbmUtZmFzaGlvbi1mZXN0aXZhbC10ZWFtL9IBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 06:46:53 GMT",
-        "source_url": "https://stylemagazines.com.au",
-        "source_name": "Style Magazines"
-    },
-    {
-        "title": "IHG Hotels & Resorts Partners with Kokoda Property to Introduce Kimpton Hotel to Brisbane\u2019s Teneriffe - BrisbaneDevelopment.com",
-        "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2JyaXNiYW5lZGV2ZWxvcG1lbnQuY29tL2loZy1ob3RlbHMtcmVzb3J0cy1wYXJ0bmVycy13aXRoLWtva29kYS1wcm9wZXJ0eS10by1pbnRyb2R1Y2Uta2ltcHRvbi1ob3RlbC10by1icmlzYmFuZXMtdGVuZXJpZmZlL9IBiQFodHRwczovL2JyaXNiYW5lZGV2ZWxvcG1lbnQuY29tL2loZy1ob3RlbHMtcmVzb3J0cy1wYXJ0bmVycy13aXRoLWtva29kYS1wcm9wZXJ0eS10by1pbnRyb2R1Y2Uta2ltcHRvbi1ob3RlbC10by1icmlzYmFuZXMtdGVuZXJpZmZlLz9hbXA9MQ?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 03:24:55 GMT",
-        "source_url": "https://brisbanedevelopment.com",
-        "source_name": "BrisbaneDevelopment.com"
-    },
-    {
         "title": "VOTE NOW: Who is Ipswich\u2019s best barber? - Toowoomba Chronicle",
         "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50aGVjaHJvbmljbGUuY29tLmF1L25ld3MvcXVlZW5zbGFuZC9pcHN3aWNoL3ZvdGUtbm93LXdoby1pcy1pcHN3aWNocy1iZXN0LWJhcmJlci9uZXdzLXN0b3J5LzgyYzQ2ZmNjMjZmZmJkNThlMjVkMjgyZjljMmI4ZTY20gGMAWh0dHBzOi8vd3d3LnRoZWNocm9uaWNsZS5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL2lwc3dpY2gvdm90ZS1ub3ctd2hvLWlzLWlwc3dpY2hzLWJlc3QtYmFyYmVyL25ld3Mtc3RvcnkvODJjNDZmY2MyNmZmYmQ1OGUyNWQyODJmOWMyYjhlNjY_YW1w?oc=5",
         "description": [],
@@ -344,12 +376,12 @@
         "source_name": "Toowoomba Chronicle"
     },
     {
-        "title": "Victim left fighting for life after double-fatal Brisbane tunnel smash was recently engaged - Daily Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5kYWlseXRlbGVncmFwaC5jb20uYXUvbmV3cy9uYXRpb25hbC92aWN0aW0tbGVmdC1maWdodGluZy1mb3ItbGlmZS1hZnRlci1kb3VibGVmYXRhbC1icmlzYmFuZS10dW5uZWwtc21hc2gtd2FzLXJlY2VudGx5LWVuZ2FnZWQvbmV3cy1zdG9yeS9hNzJjNGYxMDhlZTgzNTQ4YWI0MzJlMTljODUyODgyY9IBAA?oc=5",
+        "title": "Meet The Team Behind Brisbane Fashion Festival - Style Magazines",
+        "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L2Zhc2hpb24vYnJpc2JhbmUtZmFzaGlvbi1mZXN0aXZhbC10ZWFtL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 22:54:35 GMT",
-        "source_url": "https://www.dailytelegraph.com.au",
-        "source_name": "Daily Telegraph"
+        "pub_date": "Wed, 01 May 2024 06:46:53 GMT",
+        "source_url": "https://stylemagazines.com.au",
+        "source_name": "Style Magazines"
     },
     {
         "title": "Scenestr Publisher Condemns QMusic CEO Kris Stewart and Board over Awarding of Media Contracts - scenestr",
@@ -360,12 +392,12 @@
         "source_name": "scenestr"
     },
     {
-        "title": "Here\u2019s what you can expect with tomorrow\u2019s Brisbane weather - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL2h5cGVybG9jYWwvaGVyZXMtd2hhdC15b3UtY2FuLWV4cGVjdC13aXRoLXRvZGF5cy1icmlzYmFuZS13ZWF0aGVyL25ld3Mtc3RvcnkvZDQ1NTEwODU4N2RkYzY2YzRkZjZiZTE3MGZkZTQwMWPSAZoBaHR0cHM6Ly93d3cuY291cmllcm1haWwuY29tLmF1L3F1ZXN0bmV3cy9oeXBlcmxvY2FsL2hlcmVzLXdoYXQteW91LWNhbi1leHBlY3Qtd2l0aC10b2RheXMtYnJpc2JhbmUtd2VhdGhlci9uZXdzLXN0b3J5L2Q0NTUxMDg1ODdkZGM2NmM0ZGY2YmUxNzBmZGU0MDFjP2FtcA?oc=5",
+        "title": "Lily Galbraith, Emma McLean tributes after Legacy Way Tunnel crash - Gold Coast Bulletin",
+        "link": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9zb3V0aC1hdXN0cmFsaWEvdGhhbmsteW91LWZvci15b3VyLXNlcnZpY2UtdHJpYnV0ZXMtZm9yLXlvdW5nLXNvdXRoLWF1c3RyYWxpYW4tbnVyc2UtZm9sbG93aW5nLWhvcnJvci1icmlzYmFuZS1jcmFzaC9uZXdzLXN0b3J5Lzg2NjBkYmNmODc4MGM5OGFiMzU4ZTBjNmM5ZTU2MGVm0gEA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 23:34:21 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
+        "pub_date": "Thu, 02 May 2024 07:56:56 GMT",
+        "source_url": "https://www.goldcoastbulletin.com.au",
+        "source_name": "Gold Coast Bulletin"
     },
     {
         "title": "Is the Sydney-fication of Brisbane making us all less artful? - InQueensland",
@@ -384,20 +416,20 @@
         "source_name": "Ipswich First"
     },
     {
-        "title": "Found kayak, Port of Brisbane - myPolice",
-        "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9zb3V0aGJyaXNiYW5lLzIwMjQvMDUvMDMvZm91bmQta2F5YWstcG9ydC1vZi1icmlzYmFuZS_SAVZodHRwczovL215cG9saWNlLnFsZC5nb3YuYXUvc291dGhicmlzYmFuZS8yMDI0LzA1LzAzL2ZvdW5kLWtheWFrLXBvcnQtb2YtYnJpc2JhbmUvYW1wLw?oc=5",
+        "title": "All The Deets On Iris Van Herpen's Exclusive Brisbane Exhibition - Style Magazines",
+        "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vc3R5bGVtYWdhemluZXMuY29tLmF1L3RoaW5ncy10by1kby9pcmlzLXZhbi1oZXJwZW4tcWFnb21hL9IBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 06:48:00 GMT",
-        "source_url": "https://mypolice.qld.gov.au",
-        "source_name": "myPolice"
+        "pub_date": "Tue, 30 Apr 2024 06:16:56 GMT",
+        "source_url": "https://stylemagazines.com.au",
+        "source_name": "Style Magazines"
     },
     {
-        "title": "Lily Galbraith, Emma McLean tributes after Legacy Way Tunnel crash - Gold Coast Bulletin",
-        "link": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9zb3V0aC1hdXN0cmFsaWEvdGhhbmsteW91LWZvci15b3VyLXNlcnZpY2UtdHJpYnV0ZXMtZm9yLXlvdW5nLXNvdXRoLWF1c3RyYWxpYW4tbnVyc2UtZm9sbG93aW5nLWhvcnJvci1icmlzYmFuZS1jcmFzaC9uZXdzLXN0b3J5Lzg2NjBkYmNmODc4MGM5OGFiMzU4ZTBjNmM5ZTU2MGVm0gEA?oc=5",
+        "title": "Southwest Brisbane fuel: Where you can get petrol today for 211.5 cents - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRod2VzdC9oeXBlcmxvY2FsL3NvdXRod2VzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMjExNS1jZW50cy9uZXdzLXN0b3J5L2JlNDRkMDMzZDFiZmI4ZTkwMzIyYzgwOTZkODkwZmQ20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGh3ZXN0L2h5cGVybG9jYWwvc291dGh3ZXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0yMTE1LWNlbnRzL25ld3Mtc3RvcnkvYmU0NGQwMzNkMWJmYjhlOTAzMjJjODA5NmQ4OTBmZDY_YW1w?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 07:56:56 GMT",
-        "source_url": "https://www.goldcoastbulletin.com.au",
-        "source_name": "Gold Coast Bulletin"
+        "pub_date": "Thu, 02 May 2024 23:34:18 GMT",
+        "source_url": "https://www.couriermail.com.au",
+        "source_name": "Courier Mail"
     },
     {
         "title": "Young Brisbane man suffers critical head injuries after assault in a Mt Mee home - Geelong Advertiser",
@@ -408,12 +440,20 @@
         "source_name": "Geelong Advertiser"
     },
     {
-        "title": "Brisbane man allegedly played sick waiting game with sex assault victims - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMiyQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL2JyaXNiYW5lLW1hbi1taXRjaGVsbC1qYW1lcy1lZmVpbW9mZi1mcm9udHMtYnJpc2JhbmUtY291cnQtb24tMTgtY291bnRzLW9mLXNleHVhbC1hc3NhdWx0L25ld3Mtc3RvcnkvNTc2ZDEzMzc2ZmExMTk4ZDM1N2RkMGQwMzM5NTdjMjLSAQA?oc=5",
+        "title": "Coming Soon: Sokyo Is Opening a Brisbane Restaurant with \"Sashimi Florist\" Alex Yu at the Helm - Concrete Playground Brisbane",
+        "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vY29uY3JldGVwbGF5Z3JvdW5kLmNvbS9icmlzYmFuZS9mb29kLWRyaW5rL2NvbWluZy1zb29uLXNva3lvLWJyaXNiYW5lL9IBUWh0dHBzOi8vY29uY3JldGVwbGF5Z3JvdW5kLmNvbS9icmlzYmFuZS9mb29kLWRyaW5rL2NvbWluZy1zb29uLXNva3lvLWJyaXNiYW5lL2FtcA?oc=5",
         "description": [],
-        "pub_date": "Thu, 02 May 2024 01:06:01 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
+        "pub_date": "Mon, 29 Apr 2024 22:11:30 GMT",
+        "source_url": "https://concreteplayground.com",
+        "source_name": "Concrete Playground Brisbane"
+    },
+    {
+        "title": "People of the Precinct: Meet Sofia of Sofia's Nails and Spa - Ipswich First",
+        "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lmlwc3dpY2hmaXJzdC5jb20uYXUvcGVvcGxlLW9mLXRoZS1wcmVjaW5jdC1tZWV0LXNvZmlhLW9mLXNvZmlhcy1uYWlscy1hbmQtc3BhL9IBAA?oc=5",
+        "description": [],
+        "pub_date": "Thu, 02 May 2024 00:30:15 GMT",
+        "source_url": "https://www.ipswichfirst.com.au",
+        "source_name": "Ipswich First"
     },
     {
         "title": "Ascot \u2013 Best of both worlds - InQueensland",
@@ -422,22 +462,6 @@
         "pub_date": "Wed, 01 May 2024 23:12:55 GMT",
         "source_url": "https://www.inqld.com.au",
         "source_name": "InQueensland"
-    },
-    {
-        "title": "Garage storage theft from unit complexes, North Brisbane - myPolice",
-        "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9icmlzYmFuZWNlbnRyYWwvMjAyNC8wNS8wMy9nYXJhZ2Utc3RvcmFnZS10aGVmdC1mcm9tLXVuaXQtY29tcGxleGVzLW5vcnRoLWJyaXNiYW5lL9IBc2h0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9icmlzYmFuZWNlbnRyYWwvMjAyNC8wNS8wMy9nYXJhZ2Utc3RvcmFnZS10aGVmdC1mcm9tLXVuaXQtY29tcGxleGVzLW5vcnRoLWJyaXNiYW5lL2FtcC8?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 22:45:00 GMT",
-        "source_url": "https://mypolice.qld.gov.au",
-        "source_name": "myPolice"
-    },
-    {
-        "title": "Brawl breaks out between union and non-union members - Brisbane Times",
-        "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9icmF3bC1icmVha3Mtb3V0LWJldHdlZW4tdW5pb24tYW5kLW5vbi11bmlvbi1tZW1iZXJzLTIwMjQwNTAxLXA1Zm83dS5odG1sP3JlZj1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX3NvdXJjZT1yc3NfZmVlZNIBAA?oc=5",
-        "description": [],
-        "pub_date": "Wed, 01 May 2024 09:08:24 GMT",
-        "source_url": "https://www.brisbanetimes.com.au",
-        "source_name": "Brisbane Times"
     },
     {
         "title": "Upcoming Coffee With A Cop, Wynnum - myPolice",
@@ -456,42 +480,10 @@
         "source_name": "news.com.au"
     },
     {
-        "title": "Cheaper to go overseas: Regional airfares to skyrocket due to Bonza collapse - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL3RoZS1odWdlLWNvc3Qtb2YtYWlyZmFyZXMtdG8tcmVnaW9uYWwtcXVlZW5zbGFuZC1wb3N0Ym9uemEvbmV3cy1zdG9yeS8xMjgwYzQ3YzNlMjg1NjBjY2I1ZDE1NDRhMTlhMWZmYtIBmQFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL3RoZS1odWdlLWNvc3Qtb2YtYWlyZmFyZXMtdG8tcmVnaW9uYWwtcXVlZW5zbGFuZC1wb3N0Ym9uemEvbmV3cy1zdG9yeS8xMjgwYzQ3YzNlMjg1NjBjY2I1ZDE1NDRhMTlhMWZmYj9hbXA?oc=5",
+        "title": "Labour Day trading hours 2024: What\u2019s open in Brisbane - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL2xhYm91ci1kYXktdHJhZGluZy1ob3Vycy0yMDI0LXdoYXRzLW9wZW4taW4tYnJpc2JhbmUvbmV3cy1zdG9yeS8xYWNmMjllZDRjZWRhN2FkOWQwZDBmYzcyYWY4NjRmMdIBAA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 12:08:20 GMT",
-        "source_url": "https://www.couriermail.com.au",
-        "source_name": "Courier Mail"
-    },
-    {
-        "title": "Nurse and former cop killed in Brisbane crash - Brisbane Times",
-        "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5icmlzYmFuZXRpbWVzLmNvbS5hdS9uYXRpb25hbC9udXJzZS1hbmQtZm9ybWVyLWNvcC1raWxsZWQtaW4tYnJpc2JhbmUtY3Jhc2gtMjAyNDA1MDItcDVmb2trLmh0bWw_cmVmPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fc291cmNlPXJzc19mZWVk0gEA?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 09:32:34 GMT",
-        "source_url": "https://www.brisbanetimes.com.au",
-        "source_name": "Brisbane Times"
-    },
-    {
-        "title": "Armed robbery appeal, Park Ridge - myPolice",
-        "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDMvYXJtZWQtcm9iYmVyeS1hcHBlYWwtcGFyay1yaWRnZS_SAdkDaHR0cHM6Ly9teXBvbGljZS5xbGQuZ292LmF1L25ld3MvMjAyNC8wNS8wMy9hcm1lZC1yb2JiZXJ5LWFwcGVhbC1wYXJrLXJpZGdlLz91dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lOGQ2ZDlmMWE0ZTJkYmYyOWYzZGQ4NDliZjg5NGI5ZStRdWVlbnNsYW5kK1BvbGljZStOZXdzK0RhaWx5K25ld3Mrcm91bmR1cCtmb3IrRnJpKzMrTWF5KzIwMjQrMjAyNC0wNS0wMysxNjMwNTUmdXRtX2NvbnRlbnQ9ZThkNmQ5ZjFhNGUyZGJmMjlmM2RkODQ5YmY4OTRiOWUrUXVlZW5zbGFuZCtQb2xpY2UrTmV3cytEYWlseStuZXdzK3JvdW5kdXArZm9yK0ZyaSszK01heSsyMDI0KzIwMjQtMDUtMDMrMTYzMDU1K0NJRF9mYTM5N2EzYTRiNzA2ZmRlYTJmMDUyZmE1YzJiNTMyYiZ1dG1fc291cmNlPUVtYWlsK21hcmtldGluZytzb2Z0d2FyZSZ1dG1fdGVybT1QZXJtYWxpbmsrdG8rQXJtZWQrcm9iYmVyeSthcHBlYWwrUGFyaytSaWRnZSZhbXA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 04:13:00 GMT",
-        "source_url": "https://mypolice.qld.gov.au",
-        "source_name": "myPolice"
-    },
-    {
-        "title": "Tauvela Soe, 27, charged with Woodridge Adventure Park 10yo boy kidnapping - Gold Coast Bulletin",
-        "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5nb2xkY29hc3RidWxsZXRpbi5jb20uYXUvbmV3cy9nb2xkLWNvYXN0L2xvZ2FuL3RhdXZlbGEtc29lLTI3LWNoYXJnZWQtd2l0aC13b29kcmlkZ2UtYWR2ZW50dXJlLXBhcmstMTB5by1ib3kta2lkbmFwcGluZy9uZXdzLXN0b3J5Lzc5OGU0ZDMxNjhiZDgyNTE3ZmUyNzlhNDY4MWRiOGE00gEA?oc=5",
-        "description": [],
-        "pub_date": "Fri, 03 May 2024 07:18:45 GMT",
-        "source_url": "https://www.goldcoastbulletin.com.au",
-        "source_name": "Gold Coast Bulletin"
-    },
-    {
-        "title": "Southwest Brisbane fuel: Where you can get petrol today for 211.5 cents - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3NvdXRod2VzdC9oeXBlcmxvY2FsL3NvdXRod2VzdC1icmlzYmFuZS1mdWVsLXdoZXJlLXlvdS1jYW4tZ2V0LXBldHJvbC10b2RheS1mb3ItMjExNS1jZW50cy9uZXdzLXN0b3J5L2JlNDRkMDMzZDFiZmI4ZTkwMzIyYzgwOTZkODkwZmQ20gGzAWh0dHBzOi8vd3d3LmNvdXJpZXJtYWlsLmNvbS5hdS9xdWVzdG5ld3Mvc291dGh3ZXN0L2h5cGVybG9jYWwvc291dGh3ZXN0LWJyaXNiYW5lLWZ1ZWwtd2hlcmUteW91LWNhbi1nZXQtcGV0cm9sLXRvZGF5LWZvci0yMTE1LWNlbnRzL25ld3Mtc3RvcnkvYmU0NGQwMzNkMWJmYjhlOTAzMjJjODA5NmQ4OTBmZDY_YW1w?oc=5",
-        "description": [],
-        "pub_date": "Thu, 02 May 2024 23:34:18 GMT",
+        "pub_date": "Thu, 02 May 2024 05:51:14 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
     },
@@ -500,6 +492,14 @@
         "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDQvMjkvcHJvcGVydHktY3JpbWUtc291dGgtYnJpc2JhbmUtYW5kLWxvZ2FuL9IBWGh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDQvMjkvcHJvcGVydHktY3JpbWUtc291dGgtYnJpc2JhbmUtYW5kLWxvZ2FuL2FtcC8?oc=5",
         "description": [],
         "pub_date": "Mon, 29 Apr 2024 01:38:00 GMT",
+        "source_url": "https://mypolice.qld.gov.au",
+        "source_name": "myPolice"
+    },
+    {
+        "title": "Missing woman, Brisbane City - myPolice",
+        "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbXlwb2xpY2UucWxkLmdvdi5hdS9uZXdzLzIwMjQvMDUvMDIvbWlzc2luZy13b21hbi1icmlzYmFuZS1jaXR5LTkv0gFOaHR0cHM6Ly9teXBvbGljZS5xbGQuZ292LmF1L25ld3MvMjAyNC8wNS8wMi9taXNzaW5nLXdvbWFuLWJyaXNiYW5lLWNpdHktOS9hbXAv?oc=5",
+        "description": [],
+        "pub_date": "Wed, 01 May 2024 15:10:00 GMT",
         "source_url": "https://mypolice.qld.gov.au",
         "source_name": "myPolice"
     },
@@ -520,10 +520,10 @@
         "source_name": "Courier Mail"
     },
     {
-        "title": "Teacher strikes on hold as union members hold Parliament protest - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlZW5zbGFuZC1lZHVjYXRpb24vdGVhY2hlci1zdHJpa2VzLW9uLWhvbGQtYXMtdW5pb24tbWVtYmVycy1ob2xkLXBhcmxpYW1lbnQtcHJvdGVzdC9uZXdzLXN0b3J5L2I2ZWQxYWI2MzlmNjJiNTgzMjk5YjA5NWE2OTMyMGZl0gEA?oc=5",
+        "title": "Teen\u2019s \u2018heinous and gleeful\u2019 act before Emma Lovell\u2019s murder - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMizgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL2VtbWEtbG92ZWxscy10ZWVuLWtpbGxlci1zZXQtdG8tbGVhcm4tZmF0ZS1vdmVyLWJveGluZy1kYXktbXVyZGVyLWluLW5vcnRoLWxha2VzLWhvbWUtaW52YXNpb24vbmV3cy1zdG9yeS8zMjY5ZGQ4ZTY4MjRlNGJkY2MyMzczZDdmNzc3NjI1NtIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 13:07:19 GMT",
+        "pub_date": "Fri, 03 May 2024 04:11:51 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
     },
@@ -536,10 +536,10 @@
         "source_name": "Courier Mail"
     },
     {
-        "title": "Teen\u2019s \u2018heinous and gleeful\u2019 act before Emma Lovell\u2019s murder - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMizgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvdHJ1ZWNyaW1lYXVzdHJhbGlhL3BvbGljZS1jb3VydHMtcWxkL2VtbWEtbG92ZWxscy10ZWVuLWtpbGxlci1zZXQtdG8tbGVhcm4tZmF0ZS1vdmVyLWJveGluZy1kYXktbXVyZGVyLWluLW5vcnRoLWxha2VzLWhvbWUtaW52YXNpb24vbmV3cy1zdG9yeS8zMjY5ZGQ4ZTY4MjRlNGJkY2MyMzczZDdmNzc3NjI1NtIBAA?oc=5",
+        "title": "Queensland Civil and Administrative Tribunal (QCAT) hearings for Thursday, May 2 - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3JlZGxhbmRzL2h5cGVybG9jYWwvcXVlZW5zbGFuZC1jaXZpbC1hbmQtYWRtaW5pc3RyYXRpdmUtdHJpYnVuYWwtcWNhdC1oZWFyaW5ncy1mb3ItdGh1cnNkYXktbWF5LTIvbmV3cy1zdG9yeS8yODdiZDdjYTMwYzA1NjgwMWVjOTZjYzBjZmNmMWI0ZNIBugFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3JlZGxhbmRzL2h5cGVybG9jYWwvcXVlZW5zbGFuZC1jaXZpbC1hbmQtYWRtaW5pc3RyYXRpdmUtdHJpYnVuYWwtcWNhdC1oZWFyaW5ncy1mb3ItdGh1cnNkYXktbWF5LTIvbmV3cy1zdG9yeS8yODdiZDdjYTMwYzA1NjgwMWVjOTZjYzBjZmNmMWI0ZD9hbXA?oc=5",
         "description": [],
-        "pub_date": "Fri, 03 May 2024 04:11:51 GMT",
+        "pub_date": "Wed, 01 May 2024 22:18:58 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
     },
@@ -552,10 +552,10 @@
         "source_name": "Courier Mail"
     },
     {
-        "title": "Queensland Civil and Administrative Tribunal (QCAT) hearings for Thursday, May 2 - Courier Mail",
-        "link": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3JlZGxhbmRzL2h5cGVybG9jYWwvcXVlZW5zbGFuZC1jaXZpbC1hbmQtYWRtaW5pc3RyYXRpdmUtdHJpYnVuYWwtcWNhdC1oZWFyaW5ncy1mb3ItdGh1cnNkYXktbWF5LTIvbmV3cy1zdG9yeS8yODdiZDdjYTMwYzA1NjgwMWVjOTZjYzBjZmNmMWI0ZNIBugFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvcXVlc3RuZXdzL3JlZGxhbmRzL2h5cGVybG9jYWwvcXVlZW5zbGFuZC1jaXZpbC1hbmQtYWRtaW5pc3RyYXRpdmUtdHJpYnVuYWwtcWNhdC1oZWFyaW5ncy1mb3ItdGh1cnNkYXktbWF5LTIvbmV3cy1zdG9yeS8yODdiZDdjYTMwYzA1NjgwMWVjOTZjYzBjZmNmMWI0ZD9hbXA?oc=5",
+        "title": "Brisbane Markets issue statement after forklift incident leaves worker critical - Courier Mail",
+        "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jb3VyaWVybWFpbC5jb20uYXUvbmV3cy9xdWVlbnNsYW5kL3dvbWFuLXRha2VuLXRvLWhvc3BpdGFsLWZvbGxvd2luZy13b3JrcGxhY2UtaW5jaWRlbnQvbmV3cy1zdG9yeS80NTM3ZWQwMGNjZmYxMDMwMTdkYjM0ZGYxOWIwZGY3NNIBAA?oc=5",
         "description": [],
-        "pub_date": "Wed, 01 May 2024 22:18:58 GMT",
+        "pub_date": "Fri, 03 May 2024 13:40:25 GMT",
         "source_url": "https://www.couriermail.com.au",
         "source_name": "Courier Mail"
     }
